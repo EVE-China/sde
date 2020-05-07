@@ -1,20 +1,3 @@
--   centerSystemID: 30003067
-    combatZoneID: 3
-    combatZoneName: Bleaks
-    description: Description of Bleaks
-    factionID: 500003
--   centerSystemID: 30002812
-    combatZoneID: 4
-    combatZoneName: Black
-    description: Black description
-    factionID: 500001
--   centerSystemID: 30003837
-    combatZoneID: 5
-    combatZoneName: FED
-    description: FED description
-    factionID: 500004
--   centerSystemID: 30002094
-    combatZoneID: 6
-    combatZoneName: Anvil
-    description: Anvil description
-    factionID: 500002
+version https://git-lfs.github.com/spec/v1
+oid sha256:52e35e82f450f3dc30224fc07009205460c557d8b00c47e4b68baf2596782e30
+size 529
