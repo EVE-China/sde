@@ -1,2 +1,2 @@
 # sde
-STATIC DATA EXPORT (SDE)
+[STATIC DATA EXPORT (SDE)](https://developers.eveonline.com/resource/resources)
