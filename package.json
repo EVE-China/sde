@@ -1,0 +1,28 @@
+{
+  "name": "sde",
+  "version": "1.0.0",
+  "description": "[STATIC DATA EXPORT (SDE)](https://developers.eveonline.com/resource/resources)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EVE-China/sde.git"
+  },
+  "keywords": [
+    "eve",
+    "sde"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EVE-China/sde/issues"
+  },
+  "homepage": "https://github.com/EVE-China/sde#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "extract-zip": "^2.0.1"
+  }
+}
