@@ -1,4 +1,5 @@
-# sde
+# sde [![Build Status](https://travis-ci.org/EVE-China/sde.svg?branch=master)](https://travis-ci.org/EVE-China/sde)
+
 [STATIC DATA EXPORT (SDE)](https://developers.eveonline.com/resource/resources)
 
 # 目录说明
