@@ -30,7 +30,11 @@ function updateChecksum(checksum) {
 async function downloadSDE($) {
   const href = $('a[href$="sde.zip"]').attr('href');
   console.log('sde url:' + href);
-  const rsp = await axios.get(href);
+  const rsp = await axios.get({
+    url: href,
+    method: 'GET',
+    responseType: 'blob'
+  });
   fs.writeFileSync('tmp.zip', rsp.data);
   await extract('tmp.zip', { dir: __dirname });
   fs.unlinkSync('tmp.zip');
