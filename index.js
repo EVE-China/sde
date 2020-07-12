@@ -30,7 +30,7 @@ function updateChecksum(checksum) {
 async function downloadSDE($) {
   const href = $('a[href$="sde.zip"]').attr('href');
   console.log('sde url:' + href);
-  const rsp = await axios.get({
+  const rsp = await axios.request({
     url: href,
     method: 'GET',
     responseType: 'blob'
