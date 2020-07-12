@@ -35,6 +35,7 @@ async function downloadSDE($) {
     method: 'GET',
     responseType: 'blob'
   });
+  console.log(rsp.data);
   fs.writeFileSync('tmp.zip', rsp.data);
   await extract('tmp.zip', { dir: __dirname });
   fs.unlinkSync('tmp.zip');
