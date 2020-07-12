@@ -33,9 +33,8 @@ async function downloadSDE($) {
   const rsp = await axios.request({
     url: href,
     method: 'GET',
-    responseType: 'blob'
+    responseType: 'arraybuffer'
   });
-  console.log(rsp.data);
   fs.writeFileSync('tmp.zip', rsp.data);
   await extract('tmp.zip', { dir: __dirname });
   fs.unlinkSync('tmp.zip');
