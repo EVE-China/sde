@@ -5771,22 +5771,22 @@
   parentGroupID: 14
 540:
   descriptionID:
-    de: Mechanisch verbesserter Panzerplatten-Zusatz.
-    en: Mechanically enhanced armor plating augmentation.
-    fr: Revêtement de renforcement du blindage amélioré mécaniquement.
+    de: Panzerungsresistenz-Beschichtungen
+    en: Armor Resistance Coatings
+    fr: Surcouches de résistance de blindage
     ja: 機械的な技術で拡張されたアーマープレート補強。
-    ko: 저항력이 강화된 장갑 플레이팅입니다.
-    ru: Защитное покрытие брони с встроенными механическими системами.
+    ko: 장갑 저항력 코팅
+    ru: Покрытия сопротивляемости брони
     zh: 机械性增强装甲附甲性能。
   hasTypes: false
   iconID: 1030
   nameID:
-    de: Resistenzplatten
-    en: Resistance Plating
-    fr: Revêtement de résistance
+    de: Panzerungsresistenz-Beschichtungen
+    en: Armor Resistance Coatings
+    fr: Surcouches de résistance de blindage
     ja: レジスタンスプレート
-    ko: 저항력 플레이팅
-    ru: Защитные покрытия
+    ko: 장갑 저항력 코팅
+    ru: Покрытия сопротивляемости брони
     zh: 抗性附甲
   parentGroupID: 14
 541:
@@ -20760,22 +20760,22 @@
   parentGroupID: 214
 1544:
   descriptionID:
-    de: Blueprints für Abwehrpanzerung
-    en: Blueprints for Resistance Plating
-    fr: Plans de construction de revêtements de résistance
+    de: Blaupausen für Panzerungsbeschichtungen
+    en: Blueprints for Armor Coatings
+    fr: Plans de construction de surcouches de blindage
     ja: レジスタンスプレートのブループリント
-    ko: 저항력 플레이트 블루프린트
-    ru: Описания защитных покрытий.
+    ko: 장갑 코팅 블루프린트
+    ru: Чертежи для покрытий брони
     zh: 抗性附甲蓝图
   hasTypes: true
   iconID: 2703
   nameID:
-    de: Resistenzplatten
-    en: Resistance Plating
-    fr: Revêtement de résistance
+    de: Panzerungsbeschichtungen
+    en: Armor Coatings
+    fr: Surcouches de blindage
     ja: レジスタンスプレート
-    ko: 저항력 플레이팅
-    ru: Защитные покрытия
+    ko: 장갑 코팅
+    ru: Покрытия брони
     zh: 抗性附甲
   parentGroupID: 214
 1545:
@@ -22551,123 +22551,122 @@
   parentGroupID: 1659
 1665:
   descriptionID:
-    de: Thermalabwehrpanzerung
-    en: Thermal Resistance Plating
-    fr: Revêtement à résistance thermique
+    de: Thermalbeschichtungen
+    en: Thermal Coatings
+    fr: Surcouches thermiques
     ja: サーマルレジスタンスプレート
-    ko: 열 저항력 플레이팅
-    ru: Защитное покрытие с повышенной сопротивляемостью к действию теплового оружия
+    ko: 열 저항력 코팅
+    ru: Термальные покрытия
     zh: 热能抗性附甲
   hasTypes: true
   iconID: 1394
   nameID:
-    de: Thermalresistenzplatten
-    en: Thermal Resistance Plating
-    fr: Revêtement de résistance thermique
+    de: Thermalbeschichtungen
+    en: Thermal Coatings
+    fr: Surcouches thermiques
     ja: サーマルレジスタンスプレート
-    ko: 열 저항력 플레이팅
-    ru: Антитермические
+    ko: 열 저항력 코팅
+    ru: Термальные покрытия
     zh: 热能抗性附甲
   parentGroupID: 540
 1666:
   descriptionID:
-    de: Kinetikabwehrpanzerung
-    en: Kinetic Resistance Plating
-    fr: Revêtement à résistance cinétique
+    de: Kinetikbeschichtungen
+    en: Kinetic Coatings
+    fr: Surcouches cinétiques
     ja: キネティックレジスタンスプレート
-    ko: 키네틱 플레이팅
-    ru: Защитное покрытие с повышенной сопротивляемостью к действию кинетического
-      оружия
+    ko: 키네틱 저항력 코팅
+    ru: Кинетические покрытия
     zh: 动能抗性附甲
   hasTypes: true
   iconID: 1393
   nameID:
-    de: Kinetikresistenzplatten
-    en: Kinetic Resistance Plating
-    fr: Revêtement de résistance cinétique
+    de: Kinetikbeschichtungen
+    en: Kinetic Coatings
+    fr: Surcouches cinétiques
     ja: キネティックレジスタンスプレート
-    ko: 키네틱 플레이팅
-    ru: Антикинетические
+    ko: 키네틱 저항력 코팅
+    ru: Кинетические покрытия
     zh: 动能抗性附甲
   parentGroupID: 540
 1667:
   descriptionID:
-    de: Explosivabwehrpanzerung
-    en: Explosive Resistance Plating
-    fr: Revêtement à résistance explosive
+    de: Explosionsbeschichtungen
+    en: Explosive Coatings
+    fr: Surcouches explosives
     ja: エクスプローシブレジスタンスプレート
-    ko: 방폭성 플레이팅
-    ru: Защитное покрытие с повышенной сопротивляемостью к действию взрыва
+    ko: 폭발 저항력 코팅
+    ru: Взрывные покрытия
     zh: 爆炸抗性附甲
   hasTypes: true
   iconID: 1395
   nameID:
-    de: Explosionsresistenzplatten
-    en: Explosive Resistance Plating
-    fr: Revêtement de résistance explosive
+    de: Explosionsbeschichtungen
+    en: Explosive Coatings
+    fr: Surcouches explosives
     ja: エクスプローシブレジスタンスプレート
-    ko: 방폭성 플레이팅
-    ru: Антифугасные
+    ko: 폭발 저항력 코팅
+    ru: Взрывные покрытия
     zh: 爆炸抗性附甲
   parentGroupID: 540
 1668:
   descriptionID:
-    de: EM-Abwehrpanzerung
-    en: EM Resistance Plating
-    fr: Revêtement à résistance électromagnétique
+    de: EM-Beschichtungen
+    en: EM Coatings
+    fr: Surcouches EM
     ja: EMレジスタンスプレート
-    ko: EM 저항력 플레이팅
-    ru: Защитное покрытие с повышенной сопротивляемостью к действию ЭМ-оружия
+    ko: EM 저항력 코팅
+    ru: ЭМ-покрытия
     zh: 电磁抗性附甲
   hasTypes: true
   iconID: 1396
   nameID:
-    de: EM-Resistenzplatten
-    en: EM Resistance Plating
-    fr: Revêtement de résistance EM
+    de: EM-Beschichtungen
+    en: EM Coatings
+    fr: Surcouches EM
     ja: EMレジスタンスプレート
-    ko: EM 저항력 플레이팅
-    ru: Анти-ЭМ
+    ko: EM 저항력 코팅
+    ru: ЭМ-покрытия
     zh: 电磁抗性附甲
   parentGroupID: 540
 1669:
   descriptionID:
-    de: Geschichtete Panzerung
-    en: Layered Plating
-    fr: Revêtement à plusieurs couches
+    de: Mehrschichtige Panzerungsbeschichtungen
+    en: Layered Armor Coatings
+    fr: Surcouches de blindage superposées
     ja: 積層加工プレート
-    ko: 중첩 플레이팅
-    ru: Многослойное защитное покрытие
+    ko: 중첩 장갑 코팅
+    ru: Многослойные покрытия брони
     zh: 覆层附甲
   hasTypes: true
   iconID: 1030
   nameID:
-    de: Mehrschichtige Panzerung
-    en: Layered Plating
-    fr: Revêtement superposé
+    de: Mehrschichtige Panzerungsbeschichtungen
+    en: Layered Armor Coatings
+    fr: Surcouches de blindage superposées
     ja: 積層加工プレート
-    ko: 중첩 플레이팅
-    ru: Многослойные защитные покрытия
+    ko: 중첩 장갑 코팅
+    ru: Многослойные покрытия брони
     zh: 覆层附甲
   parentGroupID: 14
 1670:
   descriptionID:
-    de: Anpassungsfähige Abwehrpanzerung
-    en: Adaptive Resistance Plating
-    fr: Revêtement à résistance adaptative
+    de: Multispektrum-Beschichtungen
+    en: Multispectrum Coatings
+    fr: Surcouches multispectres
     ja: 適応レジスタンスプレート
-    ko: 적응형 플레이팅
-    ru: Адаптивное покрытие с повышенной сопротивляемостью
+    ko: 다중스팩트럼 코팅
+    ru: Универсальные покрытия
     zh: 适应性抗性附甲
   hasTypes: true
   iconID: 1030
   nameID:
-    de: Anpassungsfähige Resistenzplatten
-    en: Adaptive Resistance Plating
-    fr: Revêtement de résistance adaptative
+    de: Multispektrum-Beschichtungen
+    en: Multispectrum Coatings
+    fr: Surcouches multispectres
     ja: 適応レジスタンスプレート
-    ko: 적응형 플레이팅
-    ru: Универсальные
+    ko: 다중스팩트럼 코팅
+    ru: Универсальные покрытия
     zh: 适应性抗性附甲
   parentGroupID: 540
 1672:
@@ -33727,14 +33726,14 @@
   parentGroupID: 1031
 2480:
   descriptionID:
-    de: Daten aus der Raumverwerfung des Abgrunds
-    en: Data found in Abyssal Deadspace
-    fr: Données trouvées dans l'abîme Deadspace
-    ko: 어비설 데드스페이스에서 발견되는 트리글라비안 데이터입니다.
-    ru: Данные, которые можно найти в Мёртвой бездне
+    de: Triglavia-Datenspeichergeräte
+    en: Triglavian Data Storage Devices
+    fr: Dispositifs d'archivage de données triglavian
+    ko: 트리글라비안 데이터 저장장치
+    ru: Триглавские устройства хранения данных
     zh: 在深渊空间中发现的数据
   hasTypes: true
-  iconID: 2037
+  iconID: 21982
   nameID:
     de: Triglavia-Daten
     en: Triglavian Data
@@ -34960,127 +34959,146 @@
   hasTypes: true
   iconID: 24469
   nameID:
-    de: Small
+    de: Klein
     en: Small
-    fr: Small
-    ko: Small
-    ru: Small
+    fr: Petit
+    ko: 소형
+    ru: Малые
     zh: 小型
   parentGroupID: 2729
 2735:
   hasTypes: true
   iconID: 24475
   nameID:
-    de: Medium
+    de: Mittelgroß
     en: Medium
-    fr: Medium
-    ko: Medium
-    ru: Medium
+    fr: Intermédiaire
+    ko: 중형
+    ru: Средние
     zh: 中型
   parentGroupID: 2729
 2736:
   hasTypes: true
   iconID: 24481
   nameID:
-    de: Large
+    de: Groß
     en: Large
-    fr: Large
-    ko: Large
-    ru: Large
+    fr: Grand
+    ko: 대형
+    ru: Большие
     zh: 大型
   parentGroupID: 2729
 2737:
   hasTypes: true
   iconID: 24468
   nameID:
-    de: Small
+    de: Klein
     en: Small
-    fr: Small
-    ko: Small
-    ru: Small
+    fr: Petit
+    ko: 소형
+    ru: Малые
     zh: 小型
   parentGroupID: 2730
 2738:
   hasTypes: true
   iconID: 24474
   nameID:
-    de: Medium
+    de: Mittelgroß
     en: Medium
-    fr: Medium
-    ko: Medium
-    ru: Medium
+    fr: Intermédiaire
+    ko: 중형
+    ru: Средние
     zh: 中型
   parentGroupID: 2730
 2739:
   hasTypes: true
   iconID: 24480
   nameID:
-    de: Large
+    de: Groß
     en: Large
-    fr: Large
-    ko: Large
-    ru: Large
+    fr: Grand
+    ko: 대형
+    ru: Большие
     zh: 大型
   parentGroupID: 2730
 2740:
   hasTypes: true
   iconID: 24467
   nameID:
-    de: Vorton Tuning Systems
+    de: Vorton-Tuning-Systeme
     en: Vorton Tuning Systems
-    fr: Vorton Tuning Systems
-    ko: Vorton Tuning Systems
-    ru: Vorton Tuning Systems
+    fr: Systèmes de réglage des vortons
+    ko: 보르톤 조정 시스템
+    ru: Системы настройки вортонов
     zh: 电弧弦调谐系统
   parentGroupID: 143
 2741:
   descriptionID:
-    de: Vorton Projectors made by Upwell
+    de: Vorton-Projektoren von Upwell
     en: Vorton Projectors made by Upwell
-    fr: Vorton Projectors made by Upwell
-    ko: Vorton Projectors made by Upwell
-    ru: Vorton Projectors made by Upwell
+    fr: Projecteurs de vortons produits par Upwell
+    ko: 업웰 제작 보르톤 프로젝터
+    ru: Вортонные проекторы производства консорциума «Апвелл»
     zh: 昇威财团制造的电弧弦投射器
   hasTypes: false
   iconID: 24466
   nameID:
-    de: Vorton Projectors
+    de: Vorton-Projektoren
     en: Vorton Projectors
-    fr: Vorton Projectors
-    ko: Vorton Projectors
-    ru: Vorton Projectors
+    fr: Projecteurs de vortons
+    ko: 보르톤 프로젝터
+    ru: Вортонные проекторы
     zh: 电弧弦投射器
   parentGroupID: 10
 2742:
   hasTypes: true
   iconID: 24464
   nameID:
-    de: Small
+    de: Klein
     en: Small
-    fr: Small
-    ko: Small
-    ru: Small
+    fr: Petit
+    ko: 소형
+    ru: Малые
     zh: 小型
   parentGroupID: 2741
 2743:
   hasTypes: true
   iconID: 24465
   nameID:
-    de: Medium
+    de: Mittelgroß
     en: Medium
-    fr: Medium
-    ko: Medium
-    ru: Medium
+    fr: Intermédiaire
+    ko: 중형
+    ru: Средние
     zh: 中型
   parentGroupID: 2741
 2744:
   hasTypes: true
   iconID: 24466
   nameID:
-    de: Large
+    de: Groß
     en: Large
-    fr: Large
-    ko: Large
-    ru: Large
+    fr: Grand
+    ko: 대형
+    ru: Большие
     zh: 大型
   parentGroupID: 2741
+2747:
+  descriptionID:
+    de: Filamente, die sich für zeitlich begrenzte PvP-Events mit dem Testgelände
+      des Abgrunds verbinden.
+    en: Filaments that connect to the Abyssal Proving Grounds for limited time PVP
+      events.
+    fr: Ce filament se connecte aux sites d'expérimentation abyssaux pendant les événements
+      PVP à durée limitée.
+    ko: 이 필라멘트는 PVP 이벤트가 이루어지는 어비설 격전지로 함대를 전송합니다.
+    ru: Нити, открывающие проход на Испытательный полигон Бездны на время PvP-событий.
+  hasTypes: true
+  iconID: 21925
+  nameID:
+    de: Testgelände-Filamente
+    en: Proving Ground Filaments
+    fr: Filaments de site d'expérimentation
+    ko: 격전지 필라멘트
+    ru: Нити испытательного полигона
+  parentGroupID: 2456

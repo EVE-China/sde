@@ -184,11 +184,10 @@
     ancestryName: Activists
     bloodlineID: 7
     charisma: 4
-    description: Gallente citizens tend to be more politically aware than the citizens
-        of other nations, and many devote their efforts towards one or more of a multitude
-        of causes that suit their ambitions. For such an activist, things might not
-        be perfect, but things will never change for the better unless someone has
-        the courage to fight the good fight.
+    description: The Gallente prize political activism more so than other Empires.
+        Many devote their efforts towards one or more causes that suit their ambitions.
+        Activists understand that things will never change for the better unless someone
+        has the courage to fight the good fight.
     iconID: 1653
     intelligence: 0
     memory: 0
@@ -199,14 +198,10 @@
     ancestryName: Miners
     bloodlineID: 7
     charisma: 0
-    description: While every spacefaring nation relies on mining the rich bounty of
-        space for resources, the Gallente esteem their miners as the key providers
-        that supported the rise of their civilization. Mining is a cultural icon for
-        the Federation, which credits the pioneers of this industry as having selflessly
-        braved the remote dangers of space to help pave the way for exploration and
-        growth. Driven by consumerism and ambitious mega-projects, the Gallente Federation
+    description: The pioneers of the Gallente mining industry selflessly braved the
+        remote dangers of space to pave the way for exploration and growth. The Federation
         continues to generate heavy demand for minerals, and as a matter of national
-        pride loathes dependence on other nations to acquire them.
+        pride, loathes dependence on other nations to acquire them.
     iconID: 1654
     intelligence: 0
     memory: 4
@@ -262,12 +257,9 @@
     bloodlineID: 8
     charisma: 0
     description: 'The Intaki practice what many foreigners consider a dark art: transferring
-        the personality of a dying person into a newborn baby. Steeped in folklore
-        and perfected with technology, the Rebirth process takes place in perfect
-        accordance with ancient Intaki tradition. And while not all who have been
-        Reborn adhere to traditional Intaki faith themselves, it is a well-known fact
-        that the Reborn account for a surprisingly high number of capsuleers among
-        the larger Intaki population.'
+        the personality of a dying person into a newborn baby. While not all who have
+        been Reborn adhere to traditional Intaki faith, they account for a surprisingly
+        high number of capsuleers among the larger Intaki population.'
     iconID: 1658
     intelligence: 0
     memory: 4
@@ -318,13 +310,13 @@
     shortDescription: Those who will never forget.
     willpower: 1
 -   ancestryID: 22
-    ancestryName: Workers
+    ancestryName: Craftsmen
     bloodlineID: 4
     charisma: 0
-    description: Many Brutors have a modest background, and are often found performing
-        backbreaking labor in the farms, mines and factories of the Republic — and
-        before that, toiling under the yoke of the Amarr Empire. They still take great
-        pride in their jobs, excelling as craftsmen and builders.
+    description: Many Brutor contribute their labor to the farms, mines, and factories
+        that fuel the Republic. Where they were once slaves, toiling under the yoke
+        of the Amarr Empire, now they excel as craftsmen and builders in their own
+        right.
     iconID: 1662
     intelligence: 0
     memory: 4
@@ -335,10 +327,9 @@
     ancestryName: Tribal Traditionalists
     bloodlineID: 4
     charisma: 1
-    description: Relegated to the most dangerous and inhumane tasks of the era, the
-        Brutors were treated harshly by the Amarr Empire during the occupation. But
-        this only strengthened the bond with their cultural heritage—the only thing
-        the Amarrians could never take away from them.
+    description: 'During the Amarr occupation, the Brutor suffered harsh and inhumane
+        treatment. Often relegated to the most dangerous tasks, they found solace
+        in the one thing the Amarr could not crush: their cultural traditions.'
     iconID: 1663
     intelligence: 0
     memory: 0
@@ -346,13 +337,12 @@
     shortDescription: Staying true to the Way.
     willpower: 3
 -   ancestryID: 24
-    ancestryName: Slave Child
+    ancestryName: Liberated Children
     bloodlineID: 4
     charisma: 0
     description: Millions of slaves within the Amarr Empire dream of escape, especially
-        for their children. Every year thousands of newborns from enslaved parents
-        are smuggled out of the Empire into the safety of Minmatar space, where they
-        are raised by foster parents.
+        for their children. Every year thousands of infants born to enslaved parents
+        are smuggled out of the Empire and raised by Matari foster parents.
     iconID: 1664
     intelligence: 0
     memory: 0
@@ -594,14 +584,13 @@
     shortDescription: Religious fanatics who pursue their faith with fervor.
     willpower: 2
 -   ancestryID: 40
-    ancestryName: Drifters
+    ancestryName: Roamers
     bloodlineID: 14
     charisma: 0
-    description: Drawing inspiration from their nomadic ancestry, wanderlust runs
-        strong with many Vherokiors. While many curb their thirst for adventure, there
-        are those who simply cannot settle down in one place for long. Never at rest,
-        they will always be lured by the horizon, as there are places to see and riches
-        to be discovered.
+    description: Inspired by their nomadic ancestry, wanderlust runs strong with many
+        Vherokiors. While some curb their thirst for adventure, there are those who
+        refuse to settle down in one place for long. Never at rest, they are lured
+        toward the horizon, keen to discover new lands and resources.
     iconID: 3036
     intelligence: 2
     memory: 0

@@ -8491,3 +8491,27 @@
 24496:
   description: 55758_Male_hair_HeadWear_Beret_M01_Types_HeadWear_Beret_MinmatarLiberationM01.png
   iconFile: res:/UI/Asset/mannequin/hair/55758_Male_hair_HeadWear_Beret_M01_Types_HeadWear_Beret_MinmatarLiberationM01.png
+24497:
+  description: Abyssal 1v1 PvP Filament
+  iconFile: res:/UI/Texture/Icons/Inventory/AbyssalArenaFilaments_1v1.png
+24498:
+  description: Abyssal 2v2 PvP Filament
+  iconFile: res:/UI/Texture/Icons/Inventory/AbyssalArenaFilaments_2v2.png
+24499:
+  description: Abyssal 3v3 PvP Filament
+  iconFile: res:/UI/Texture/Icons/Inventory/AbyssalArenaFilaments_3v3.png
+24501:
+  description: Abyssal 5v5 PvP Filament
+  iconFile: res:/UI/Texture/Icons/Inventory/AbyssalArenaFilaments_5v5.png
+24502:
+  description: 55855_Female_Outer_VanguardF01_Types_VanguardF01_TG_PVP_Arena.png
+  iconFile: res:/UI/Asset/mannequin/outer/55855_Female_Outer_VanguardF01_Types_VanguardF01_TG_PVP_Arena.png
+24503:
+  description: 55856_Female_Outer_ArmorSuitCF01_Types_ArmorSuitCF01_TG_PVP_Arena.png
+  iconFile: res:/UI/Asset/mannequin/outer/55856_Female_Outer_ArmorSuitCF01_Types_ArmorSuitCF01_TG_PVP_Arena.png
+24504:
+  description: 55857_Male_outer_ArmorSuitMM01_Types_ArmorSuitMM01_TG_PVP_Arena.png
+  iconFile: res:/UI/Asset/mannequin/outer/55857_Male_outer_ArmorSuitMM01_Types_ArmorSuitMM01_TG_PVP_Arena.png
+24505:
+  description: 55858_Male_outer_VanguardM01_Types_VanguardM01_TG_PVP_Arena.png
+  iconFile: res:/UI/Asset/mannequin/outer/55858_Male_outer_VanguardM01_Types_VanguardM01_TG_PVP_Arena.png

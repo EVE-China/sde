@@ -254,7 +254,7 @@
         ja: 通貨
         ru: Деньги
         zh: 钱
-    published: false
+    published: true
     useBasePrice: false
 18:
     anchorable: false
@@ -19655,7 +19655,7 @@
         ru: Сведения о Триглаве
         zh: 三神裔数据
     published: true
-    useBasePrice: false
+    useBasePrice: true
 1996:
     anchorable: false
     anchored: false
@@ -20102,6 +20102,18 @@
         fr: Filaments de saut
         ru: Прыжковые нити
         zh: 跳跃纤维
+    published: true
+    useBasePrice: false
+4050:
+    anchorable: false
+    anchored: false
+    categoryID: 17
+    fittableNonSingleton: false
+    name:
+        de: Testfilamente des Abgrunds
+        en: Abyssal Proving Filaments
+        fr: Filaments d'expérimentation abyssaux
+        ru: Полигонные нити Бездны
     published: true
     useBasePrice: false
 4052:

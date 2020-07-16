@@ -37738,6 +37738,57 @@
   name: shipBonusUB2
   published: false
   stackable: true
+3050:
+  attributeID: 3050
+  dataType: typeInteger
+  defaultValue: 2.0
+  description: 'The amount of fleets needed for a single pvp filament match '
+  highIsGood: false
+  name: AmountOfFleetsPerMatch
+  published: false
+  stackable: false
+3051:
+  attributeID: 3051
+  categoryID: 17
+  dataType: typeFloat
+  defaultValue: 1000.0
+  description: The range players in fleet need to be within fleet member doing an
+    action
+  displayNameID:
+    de: Wirkungsbereichradius
+    en: Area Effect Radius
+    fr: Rayon de la zone d'effet
+    ko: 유효 반경
+    ru: Радиус действия
+  highIsGood: true
+  iconID: 1391
+  name: FleetMemberPickupRadius
+  published: true
+  stackable: true
+  tooltipTitleID:
+    de: Wirkungsbereichradius
+    en: Area Effect Radius
+    fr: Rayon de la zone d'effet
+    ko: 유효 반경
+    ru: Радиус действия
+  unitID: 1
+3052:
+  attributeID: 3052
+  categoryID: 17
+  dataType: typeInteger
+  defaultValue: 1.0
+  description: Amount of players in fleet needed to be valid
+  displayNameID:
+    de: Anzahl benötigter Schiffe
+    en: Number Of Ships required
+    fr: Nombre de vaisseaux requis
+    ko: 필요한 함선 수
+    ru: Необходимое количество кораблей
+  highIsGood: true
+  iconID: 1391
+  name: FleetMembersNeeded
+  published: true
+  stackable: true
 3093:
   attributeID: 3093
   dataType: typeInteger

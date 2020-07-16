@@ -17734,7 +17734,7 @@
   sofRaceName: caldari
 21946:
   description: Test Cloud 01
-  graphicFile: res:/dx9/model/testcases/dungeonexploration/clouds/cloudplanes/cloud_01.red
+  graphicFile: res:/dx9/model/testcases/dungeonexploration/clouds/cloudplanes/surface_cloud_01.red
   sofRaceName: generic
 21947:
   description: Test Cloud 02
@@ -17780,14 +17780,14 @@
   sofRaceName: generic
 21962:
   description: Test Environment 01
-  sofFactionName: genericbase
+  sofFactionName: triglavianbase
   sofHullName: test_environment_01
-  sofRaceName: generic
+  sofRaceName: triglavian
 21963:
   description: Test Environment 02
-  sofFactionName: genericbase
+  sofFactionName: volcanicminerals
   sofHullName: test_environment_02
-  sofRaceName: generic
+  sofRaceName: asteroid
 21964:
   description: Test Background 01
   sofFactionName: genericbase
@@ -20305,6 +20305,8 @@
   sofRaceName: triglavian
 24546:
   description: Empire Defense Platform L
+  iconInfo:
+    folder: res:/dx9/model/structure/upwell/defense/icons
   sofFactionName: upwell-edencom
   sofHullName: uw_sentry01
   sofRaceName: generic
@@ -20323,7 +20325,7 @@
 24549:
   description: Triglavian Defense Platform L
   iconInfo:
-    folder: res:/dx9/model/structure/triglavian/sentry/tg_sentry01/icons
+    folder: res:/dx9/model/structure/triglavian/defense/sentry/icons
   sofFactionName: triglavianbase
   sofHullName: tg_sentry01
   sofRaceName: triglavian
@@ -20396,14 +20398,17 @@
   sofRaceName: generic
 24564:
   description: Deployable Upwell Encounter Surveillance System (Bounty Monitor)
-  sofFactionName: upwell-edencom
+  sofFactionName: upwell
   sofHullName: mbm_uw_t1
-  sofRaceName: generic
+  sofRaceName: soe
 24565:
   description: Triglavian Star Harvesting Beam
   graphicFile: res:/fisfx/module/tg_starharvestinglaser_st_01a.red
   iconInfo:
     folder: res:/fisfx/module/icons
+24568:
+  description: Surface Dungeon Cloud 8820
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8820/clouds_8820.red
 24569:
   description: Upwell Edencom Frigate
   iconInfo:
@@ -20428,21 +20433,27 @@
 24572:
   description: Small Upwell Edencom chain lightning turret
   graphicFile: res:/dx9/model/turret/chain/s/chain_s01_t1.red
+  sofRaceName: concord
 24573:
   description: Medium Upwell Edencom chain lightning turret
   graphicFile: res:/dx9/model/turret/chain/m/chain_m01_t1.red
+  sofRaceName: concord
 24574:
   description: Large Upwell Edencom chain lightning turret
   graphicFile: res:/dx9/model/turret/chain/l/chain_l01_t1.red
+  sofRaceName: concord
 24575:
   description: Small Upwell Edencom Chain Stretch Effect
   graphicFile: res:/dx9/model/turret/chain/s/chain_s01_t1_fx_stretch_01a.red
+  sofRaceName: concord
 24576:
   description: Medium Upwell Edencom Chain Stretch Effect
   graphicFile: res:/dx9/model/turret/chain/m/chain_m01_t1_fx_stretch_01a.red
+  sofRaceName: concord
 24577:
   description: Large Upwell Edencom Chain Stretch Effect
   graphicFile: res:/dx9/model/turret/chain/l/chain_l01_t1_fx_stretch_01a.red
+  sofRaceName: concord
 24578:
   description: Upwell Edencom Yellow Chain Lightning Ammo
 24579:
@@ -20455,3 +20466,36 @@
   description: Upwell Edencom Red Chain Lightning Ammo
 24583:
   description: Upwell Edencom Green Chain Lightning Ammo
+24585:
+  description: Surface Volcanic 01
+  sofFactionName: surface_lava
+  sofHullName: surface_volcanic_01
+  sofRaceName: generic
+24586:
+  description: Triglavian Arena Ring 01
+  sofFactionName: triglavianbase
+  sofHullName: tgar01
+  sofRaceName: triglavian
+24587:
+  description: PVP Dungeon Cloud 8819
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8819/clouds_8819.red
+24588:
+  description: PVP Dungeon Cloud 8857
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8857/clouds_8857.red
+24589:
+  description: PVP Dungeon Cloud 8858
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8858/clouds_8858.red
+24590:
+  description: PVP Dungeon Cloud 8860
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8860/clouds_8860.red
+24591:
+  description: PVP Dungeon Cloud 8861
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8861/clouds_8861.red
+24592:
+  description: PVP Dungeon Cloud 8862
+  graphicFile: res:/dx9/model/celestial/environment/cloud/volumetric/dungeons/8862/clouds_8862.red
+24599:
+  description: PvP Arena  (Proving Ground) Filament Trace
+  graphicFile: res:/fisfx/travel/abyssal/abyssal_spacetear_trace_pvp_01a.red
+  iconInfo:
+    folder: res:/fisfx/travel/abyssal/icons

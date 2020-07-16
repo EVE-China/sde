@@ -43073,3 +43073,91 @@
     - 653
     visibleSerenity: true
     visibleTranquility: true
+9470:
+    allowCCPDevs: true
+    internalName: Punisher Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567757
+    skinID: 9470
+    skinMaterialID: 2542
+    types:
+    - 597
+    visibleSerenity: true
+    visibleTranquility: true
+9471:
+    allowCCPDevs: true
+    internalName: Omen Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567760
+    skinID: 9471
+    skinMaterialID: 2542
+    types:
+    - 2006
+    visibleSerenity: true
+    visibleTranquility: true
+9472:
+    allowCCPDevs: true
+    internalName: Caracal Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567765
+    skinID: 9472
+    skinMaterialID: 2543
+    types:
+    - 621
+    visibleSerenity: true
+    visibleTranquility: true
+9473:
+    allowCCPDevs: true
+    internalName: Merlin Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567768
+    skinID: 9473
+    skinMaterialID: 2543
+    types:
+    - 603
+    visibleSerenity: true
+    visibleTranquility: true
+9474:
+    allowCCPDevs: true
+    internalName: Thorax Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567771
+    skinID: 9474
+    skinMaterialID: 2544
+    types:
+    - 627
+    visibleSerenity: true
+    visibleTranquility: true
+9475:
+    allowCCPDevs: true
+    internalName: Tristan Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567774
+    skinID: 9475
+    skinMaterialID: 2544
+    types:
+    - 593
+    visibleSerenity: true
+    visibleTranquility: true
+9476:
+    allowCCPDevs: true
+    internalName: Stabber Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567777
+    skinID: 9476
+    skinMaterialID: 2545
+    types:
+    - 622
+    visibleSerenity: true
+    visibleTranquility: true
+9477:
+    allowCCPDevs: true
+    internalName: Rifter Abyssal Glory
+    isStructureSkin: false
+    skinDescription: 567780
+    skinID: 9477
+    skinMaterialID: 2545
+    types:
+    - 587
+    visibleSerenity: true
+    visibleTranquility: true
