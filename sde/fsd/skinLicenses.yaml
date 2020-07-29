@@ -39946,3 +39946,13 @@
     isSingleUse: true
     licenseTypeID: 55901
     skinID: 8027
+55948:
+    duration: -1
+    isSingleUse: false
+    licenseTypeID: 55948
+    skinID: 9479
+55949:
+    duration: -1
+    isSingleUse: false
+    licenseTypeID: 55949
+    skinID: 9480

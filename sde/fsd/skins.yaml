@@ -10019,11 +10019,12 @@
 2547:
     allowCCPDevs: true
     internalName: Retribution Raata Sunset Serenity Only
+    isStructureSkin: false
     skinID: 2547
     skinMaterialID: 82
     types:
     - 11393
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: false
 2548:
     allowCCPDevs: true
@@ -43159,5 +43160,25 @@
     skinMaterialID: 2545
     types:
     - 587
+    visibleSerenity: true
+    visibleTranquility: true
+9479:
+    allowCCPDevs: true
+    internalName: Amarr Shuttle Khanid
+    skinDescription: 568484
+    skinID: 9479
+    skinMaterialID: 4
+    types:
+    - 11134
+    visibleSerenity: true
+    visibleTranquility: true
+9480:
+    allowCCPDevs: true
+    internalName: Sigil Khanid
+    skinDescription: 568487
+    skinID: 9480
+    skinMaterialID: 4
+    types:
+    - 19744
     visibleSerenity: true
     visibleTranquility: true

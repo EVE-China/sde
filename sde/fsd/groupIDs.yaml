@@ -20114,6 +20114,7 @@
         en: Abyssal Proving Filaments
         fr: Filaments d'expérimentation abyssaux
         ru: Полигонные нити Бездны
+        zh: 深渊试炼纤维
     published: true
     useBasePrice: false
 4052:
@@ -20322,6 +20323,7 @@
         en: Temporary Collidable Structure
         fr: Structure solide temporaire
         ru: Временное разрушаемое сооружение
+        zh: 临时性可碰撞建筑
     published: false
     useBasePrice: false
 350858:
