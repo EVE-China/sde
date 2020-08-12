@@ -5777,7 +5777,7 @@
     ja: 機械的な技術で拡張されたアーマープレート補強。
     ko: 장갑 저항력 코팅
     ru: Покрытия сопротивляемости брони
-    zh: 机械性增强装甲附甲性能。
+    zh: 装甲抗性涂层
   hasTypes: false
   iconID: 1030
   nameID:
@@ -5787,27 +5787,27 @@
     ja: レジスタンスプレート
     ko: 장갑 저항력 코팅
     ru: Покрытия сопротивляемости брони
-    zh: 抗性附甲
+    zh: 装甲抗性涂层
   parentGroupID: 14
 541:
   descriptionID:
-    de: Eine fortschrittliche Form von mechanisch verbesserten Panzerplatten-Upgrades.
-    en: An advanced form of mechanically enhanced armor plating upgrades.
-    fr: Une forme avancée de renforcement du blindage amélioré mécaniquement.
+    de: Spannungsunterstützte Panzerungsresistenzmembranen
+    en: Energized Armor Resistance Membranes
+    fr: Membranes de résistance de blindage énergétiques
     ja: 機械的な技術で拡張されたアーマープレートアップグレードの進化形。
-    ko: 최첨단 기술이 적용되어 향상된 장갑 플레이팅 업그레이드입니다.
-    ru: Усовершенствованное защитное покрытие брони с встроенными механическими системами.
-    zh: 一种先进的机械性装甲附甲增强升级。
+    ko: 장갑 저항력 에너지 멤브레인
+    ru: Заряжаемые мембраны сопротивляемости брони
+    zh: 电压装甲抗性薄膜
   hasTypes: false
   iconID: 2066
   nameID:
-    de: Spannungsunterstützte Panzerung
-    en: Energized Plating
-    fr: Revêtement énergétique
+    de: Spannungsunterstützte Panzerungsresistenzmembranen
+    en: Energized Armor Resistance Membranes
+    fr: Membranes de résistance de blindage énergétiques
     ja: 電磁加工プレート
-    ko: 에너지 플레이팅
-    ru: Усиленные защитные покрытия
-    zh: 电压式附甲
+    ko: 장갑 저항력 에너지 멤브레인
+    ru: Заряжаемые мембраны сопротивляемости брони
+    zh: 电压装甲抗性薄膜
   parentGroupID: 14
 542:
   descriptionID:
@@ -20740,23 +20740,23 @@
   parentGroupID: 214
 1543:
   descriptionID:
-    de: Blueprints für spannungsgestützte Panzerung
-    en: Blueprints for Energized Plating
-    fr: Plans de construction de revêtements énergétiques
+    de: Blaupausen für spannungsunterstützte Panzerungsmembranen
+    en: Blueprints for Energized Armor Membranes
+    fr: Plans de construction Membranes de blindage énergétiques
     ja: 電磁加工プレートのブループリント
-    ko: 에너지 플레이팅 블루프린트
-    ru: Описания защитных покрытий повышенной эффективности.
-    zh: 电压式附甲蓝图
+    ko: 장갑 에너지 멤브레인 블루프린트
+    ru: Чертежи для заряжаемых мембран брони
+    zh: 电压装甲薄膜的蓝图
   hasTypes: true
   iconID: 2703
   nameID:
-    de: Spannungsunterstützte Panzerung
-    en: Energized Plating
-    fr: Revêtement énergétique
+    de: Spannungsunterstützte Panzerungsmembranen
+    en: Energized Armor Membranes
+    fr: Membranes de blindage énergétiques
     ja: 電磁加工プレート
-    ko: 에너지 플레이팅
-    ru: Усиленные защитные покрытия
-    zh: 电压式附甲
+    ko: 장갑 에너지 멤브레인
+    ru: Заряжаемые мембраны брони
+    zh: 电压装甲薄膜
   parentGroupID: 214
 1544:
   descriptionID:
@@ -20766,7 +20766,7 @@
     ja: レジスタンスプレートのブループリント
     ko: 장갑 코팅 블루프린트
     ru: Чертежи для покрытий брони
-    zh: 抗性附甲蓝图
+    zh: 装甲涂层蓝图
   hasTypes: true
   iconID: 2703
   nameID:
@@ -20776,7 +20776,7 @@
     ja: レジスタンスプレート
     ko: 장갑 코팅
     ru: Покрытия брони
-    zh: 抗性附甲
+    zh: 装甲涂层
   parentGroupID: 214
 1545:
   descriptionID:
@@ -22557,7 +22557,7 @@
     ja: サーマルレジスタンスプレート
     ko: 열 저항력 코팅
     ru: Термальные покрытия
-    zh: 热能抗性附甲
+    zh: 热能涂层
   hasTypes: true
   iconID: 1394
   nameID:
@@ -22567,7 +22567,7 @@
     ja: サーマルレジスタンスプレート
     ko: 열 저항력 코팅
     ru: Термальные покрытия
-    zh: 热能抗性附甲
+    zh: 热能涂层
   parentGroupID: 540
 1666:
   descriptionID:
@@ -22577,7 +22577,7 @@
     ja: キネティックレジスタンスプレート
     ko: 키네틱 저항력 코팅
     ru: Кинетические покрытия
-    zh: 动能抗性附甲
+    zh: 动能涂层
   hasTypes: true
   iconID: 1393
   nameID:
@@ -22587,7 +22587,7 @@
     ja: キネティックレジスタンスプレート
     ko: 키네틱 저항력 코팅
     ru: Кинетические покрытия
-    zh: 动能抗性附甲
+    zh: 动能涂层
   parentGroupID: 540
 1667:
   descriptionID:
@@ -22597,7 +22597,7 @@
     ja: エクスプローシブレジスタンスプレート
     ko: 폭발 저항력 코팅
     ru: Взрывные покрытия
-    zh: 爆炸抗性附甲
+    zh: 爆炸涂层
   hasTypes: true
   iconID: 1395
   nameID:
@@ -22607,7 +22607,7 @@
     ja: エクスプローシブレジスタンスプレート
     ko: 폭발 저항력 코팅
     ru: Взрывные покрытия
-    zh: 爆炸抗性附甲
+    zh: 爆炸涂层
   parentGroupID: 540
 1668:
   descriptionID:
@@ -22617,7 +22617,7 @@
     ja: EMレジスタンスプレート
     ko: EM 저항력 코팅
     ru: ЭМ-покрытия
-    zh: 电磁抗性附甲
+    zh: 电磁涂层
   hasTypes: true
   iconID: 1396
   nameID:
@@ -22627,7 +22627,7 @@
     ja: EMレジスタンスプレート
     ko: EM 저항력 코팅
     ru: ЭМ-покрытия
-    zh: 电磁抗性附甲
+    zh: 电磁涂层
   parentGroupID: 540
 1669:
   descriptionID:
@@ -22637,7 +22637,7 @@
     ja: 積層加工プレート
     ko: 중첩 장갑 코팅
     ru: Многослойные покрытия брони
-    zh: 覆层附甲
+    zh: 覆层装甲涂层
   hasTypes: true
   iconID: 1030
   nameID:
@@ -22647,7 +22647,7 @@
     ja: 積層加工プレート
     ko: 중첩 장갑 코팅
     ru: Многослойные покрытия брони
-    zh: 覆层附甲
+    zh: 覆层装甲涂层
   parentGroupID: 14
 1670:
   descriptionID:
@@ -22657,7 +22657,7 @@
     ja: 適応レジスタンスプレート
     ko: 다중스팩트럼 코팅
     ru: Универсальные покрытия
-    zh: 适应性抗性附甲
+    zh: 多谱式涂层
   hasTypes: true
   iconID: 1030
   nameID:
@@ -22667,7 +22667,7 @@
     ja: 適応レジスタンスプレート
     ko: 다중스팩트럼 코팅
     ru: Универсальные покрытия
-    zh: 适应性抗性附甲
+    zh: 多谱式涂层
   parentGroupID: 540
 1672:
   descriptionID:
@@ -22843,123 +22843,123 @@
   parentGroupID: 535
 1682:
   descriptionID:
-    de: Spannungsunterstützte Explosivpanzerung
-    en: Energized Explosive Plating
-    fr: Revêtement à résistance explosive énergétique
+    de: Spannungsunterstützte explosive Membranen
+    en: Explosive Energized Membranes
+    fr: Membranes énergétiques explosives
     ja: 電磁加工エクスプローシブプレート
-    ko: 에너지 방폭성 플레이팅
-    ru: Защитное покрытие с подкачкой против действия взрыва
-    zh: 电压式爆炸附甲
+    ko: 폭발 저항력 에너지 멤브레인
+    ru: Заряжаемые взрывные мембраны
+    zh: 爆炸电压薄膜
   hasTypes: true
   iconID: 1395
   nameID:
-    de: Spannungsunterstützte Explosionspanzerung
-    en: Energized Explosive Plating
-    fr: Revêtement énergétique explosif
+    de: Spannungsunterstützte explosive Membranen
+    en: Explosive Energized Membranes
+    fr: Membranes énergétiques explosives
     ja: 電磁加工エクスプローシブプレート
-    ko: 에너지 방폭성 플레이팅
-    ru: Антифугасные
-    zh: 电压式爆炸附甲
+    ko: 폭발 저항력 에너지 멤브레인
+    ru: Заряжаемые взрывные мембраны
+    zh: 爆炸电压薄膜
   parentGroupID: 541
 1683:
   descriptionID:
-    de: Spannungsunterstützte Thermalpanzerung
-    en: Energized Thermal Plating
-    fr: Revêtement à résistance thermique énergétique
+    de: Thermale spannungsunterstützte Membranen
+    en: Thermal Energized Membranes
+    fr: Membranes énergétiques thermiques
     ja: 電磁加工サーマルプレート
-    ko: 에너지 내열성 플레이팅
-    ru: Защитное покрытие с подкачкой против действия теплового оружия
-    zh: 电压式热能附甲
+    ko: 열 저항력 에너지 멤브레인
+    ru: Заряжаемые термальные мембраны
+    zh: 热能电压薄膜
   hasTypes: true
   iconID: 1394
   nameID:
-    de: Spannungsunterstützte Thermalpanzerung
-    en: Energized Thermal Plating
-    fr: Revêtement énergétique thermique
+    de: Thermale spannungsunterstützte Membranen
+    en: Thermal Energized Membranes
+    fr: Membranes énergétiques thermiques
     ja: 電磁加工サーマルプレート
-    ko: 에너지 내열성 플레이팅
-    ru: Антитермические
-    zh: 电压式热能附甲
+    ko: 열 저항력 에너지 멤브레인
+    ru: Заряжаемые термальные мембраны
+    zh: 热能电压薄膜
   parentGroupID: 541
 1684:
   descriptionID:
-    de: Spannungsunterstützte EM-Panzerung
-    en: Energized EM Plating
-    fr: Revêtement à résistance électromagnétique énergétique
+    de: Spannungsunterstützte EM-Membranen
+    en: EM Energized Membranes
+    fr: Membranes énergétiques EM
     ja: 電磁加工EMプレート
-    ko: 에너지 EM 플레이팅
-    ru: Защитные покрытия с подкачкой против действия ЭМ-оружия
-    zh: 电压式电磁附甲
+    ko: EM 저항력 에너지 멤브레인
+    ru: Заряжаемые EM-мембраны
+    zh: 电磁电压薄膜
   hasTypes: true
   iconID: 1396
   nameID:
-    de: Spannungsunterstützte EM-Panzerung
-    en: Energized EM Plating
-    fr: Revêtement énergétique EM
+    de: Spannungsunterstützte EM-Membranen
+    en: EM Energized Membranes
+    fr: Membranes énergétiques EM
     ja: 電磁加工EMプレート
-    ko: 에너지 EM 플레이팅
-    ru: Анти-ЭМ
-    zh: 电压式电磁附甲
+    ko: EM 저항력 에너지 멤브레인
+    ru: Заряжаемые EM-мембраны
+    zh: 电磁电压薄膜
   parentGroupID: 541
 1685:
   descriptionID:
-    de: Spannungsunterstützte Kinetikpanzerung
-    en: Energized Kinetic Plating
-    fr: Revêtement à résistance cinétique énergétique
+    de: Kinetische spannungsunterstützte Membranen
+    en: Kinetic Energized Membranes
+    fr: Membranes énergétiques cinétiques
     ja: 電磁加工キネティックプレート
-    ko: 에너지 키네틱 플레이팅
-    ru: Защитное покрытие с подкачкой против действия кинетического оружия
-    zh: 电压式动能附甲
+    ko: 키네틱 저항력 에너지 멤브레인
+    ru: Заряжаемые кинетические мембраны
+    zh: 动能电压薄膜
   hasTypes: true
   iconID: 1393
   nameID:
-    de: Spannungsunterstützte Kinetikpanzerung
-    en: Energized Kinetic Plating
-    fr: Revêtement énergétique cinétique
+    de: Kinetische spannungsunterstützte Membranen
+    en: Kinetic Energized Membranes
+    fr: Membranes énergétiques cinétiques
     ja: 電磁加工キネティックプレート
-    ko: 에너지 키네틱 플레이팅
-    ru: Антикинетические
-    zh: 电压式动能附甲
+    ko: 키네틱 저항력 에너지 멤브레인
+    ru: Заряжаемые кинетические мембраны
+    zh: 动能电压薄膜
   parentGroupID: 541
 1686:
   descriptionID:
-    de: Spannungsunterstützte anpassungsfähige Panzerung
-    en: Energized Adaptive Plating
-    fr: Revêtement à résistance adaptative énergétique
+    de: Spannungsunterstützte Multispektrum-Membranen
+    en: Multispectrum Energized Membranes
+    fr: Membranes énergétiques multispectres
     ja: 電磁加工適応プレート
-    ko: 에너지 적응형 플레이팅
-    ru: Адаптивное защитное покрытие с подкачкой
-    zh: 电压式适应性附甲
+    ko: 다중스팩트럼 에너지 멤브레인
+    ru: Заряжаемые универсальные мембраны
+    zh: 多谱式电压薄膜
   hasTypes: true
   iconID: 2066
   nameID:
-    de: Spannungsunterstützte, anpassungsfähige Panzerung
-    en: Energized Adaptive Plating
-    fr: Revêtement énergétique adaptatif
+    de: Spannungsunterstützte Multispektrum-Membranen
+    en: Multispectrum Energized Membranes
+    fr: Membranes énergétiques multispectres
     ja: 電磁加工適応プレート
-    ko: 에너지 적응형 플레이팅
-    ru: Универсальные
-    zh: 电压式适应性附甲
+    ko: 다중스팩트럼 에너지 멤브레인
+    ru: Заряжаемые универсальные мембраны
+    zh: 多谱式电压薄膜
   parentGroupID: 541
 1687:
   descriptionID:
-    de: Spannungsunterstützte Schichtpanzerung
-    en: Energized Armor Layering
-    fr: Couche de blindage énergétique
+    de: Mehrschichtige spannungsunterstützte Panzerungsmembranen
+    en: Layered Energized Armor Membranes
+    fr: Membranes de blindage énergétiques par couches
     ja: 電磁加工アーマー積層装甲
-    ko: 장갑 강화 에너지 플레이트
-    ru: Многослойное адаптивное покрытие брони
-    zh: 电压式装甲覆层
+    ko: 중첩 장갑 에너지 멤브레인
+    ru: Многослойные заряжаемые мембраны брони
+    zh: 覆层电压装甲薄膜
   hasTypes: true
   iconID: 2066
   nameID:
-    de: Spannungsunterstützte, mehrschichtige Panzerung
-    en: Energized Armor Layering
-    fr: Superposition énergétique de blindage
+    de: Mehrschichtige spannungsunterstützte Panzerungsmembranen
+    en: Layered Energized Armor Membranes
+    fr: Membranes de blindage énergétiques par couches
     ja: 電磁加工アーマー積層装甲
-    ko: 장갑 강화 에너지 플레이트
-    ru: Многослойные усиленные защитные покрытия
-    zh: 电压式装甲覆层
+    ko: 중첩 장갑 에너지 멤브레인
+    ru: Многослойные заряжаемые мембраны брони
+    zh: 覆层电压装甲薄膜
   parentGroupID: 14
 1688:
   descriptionID:
@@ -33731,7 +33731,7 @@
     fr: Dispositifs d'archivage de données triglavian
     ko: 트리글라비안 데이터 저장장치
     ru: Триглавские устройства хранения данных
-    zh: 在深渊空间中发现的数据
+    zh: 三神裔数据存储设备
   hasTypes: true
   iconID: 21982
   nameID:
@@ -35093,6 +35093,7 @@
       PVP à durée limitée.
     ko: 이 필라멘트는 PVP 이벤트가 이루어지는 어비설 격전지로 함대를 전송합니다.
     ru: Нити, открывающие проход на Испытательный полигон Бездны на время PvP-событий.
+    zh: 使用此纤维可以前往深渊试炼场，进行限时PVP交战。
   hasTypes: true
   iconID: 21925
   nameID:
@@ -35101,4 +35102,5 @@
     fr: Filaments de site d'expérimentation
     ko: 격전지 필라멘트
     ru: Нити испытательного полигона
+    zh: 试炼场纤维
   parentGroupID: 2456

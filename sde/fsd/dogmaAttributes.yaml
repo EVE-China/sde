@@ -37760,6 +37760,7 @@
     fr: Rayon de la zone d'effet
     ko: 유효 반경
     ru: Радиус действия
+    zh: 范围效果半径
   highIsGood: true
   iconID: 1391
   name: FleetMemberPickupRadius
@@ -37771,6 +37772,7 @@
     fr: Rayon de la zone d'effet
     ko: 유효 반경
     ru: Радиус действия
+    zh: 范围效果半径
   unitID: 1
 3052:
   attributeID: 3052
@@ -37784,6 +37786,7 @@
     fr: Nombre de vaisseaux requis
     ko: 필요한 함선 수
     ru: Необходимое количество кораблей
+    zh: 所需舰船数量
   highIsGood: true
   iconID: 1391
   name: FleetMembersNeeded
@@ -37799,3 +37802,16 @@
   name: showSystemInfoBubble
   published: false
   stackable: false
+3095:
+  attributeID: 3095
+  categoryID: 7
+  dataType: typeFloat
+  defaultValue: 0.0
+  displayNameID:
+    en: Probe Strength Bonus
+    zh: 探针强度加成
+  highIsGood: true
+  name: scanProbeStrengthBonus
+  published: true
+  stackable: false
+  unitID: 105

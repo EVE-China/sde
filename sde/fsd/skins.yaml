@@ -43182,3 +43182,33 @@
     - 19744
     visibleSerenity: true
     visibleTranquility: true
+9481:
+    allowCCPDevs: true
+    internalName: Skybreaker Bluestar Defenders
+    skinDescription: 568872
+    skinID: 9481
+    skinMaterialID: 2546
+    types:
+    - 54731
+    visibleSerenity: false
+    visibleTranquility: true
+9482:
+    allowCCPDevs: true
+    internalName: Stormbringer Bluestar Defenders
+    skinDescription: 568875
+    skinID: 9482
+    skinMaterialID: 2546
+    types:
+    - 54732
+    visibleSerenity: false
+    visibleTranquility: true
+9483:
+    allowCCPDevs: true
+    internalName: Thunderchild Bluestar Defenders
+    skinDescription: 568878
+    skinID: 9483
+    skinMaterialID: 2546
+    types:
+    - 54733
+    visibleSerenity: false
+    visibleTranquility: true

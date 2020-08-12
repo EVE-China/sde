@@ -20339,7 +20339,10 @@
   sofHullName: tgmr1
   sofRaceName: triglavian
 24552:
-  description: Triglavian Anchorage Station
+  description: Triglavian PLACEHOLDER
+  sofFactionName: triglavianbase
+  sofHullName: tgs1
+  sofRaceName: triglavian
 24553:
   description: Upwell Resource Dropoff Piece 1
   sofFactionName: upwell-edencom
@@ -20499,3 +20502,33 @@
   graphicFile: res:/fisfx/travel/abyssal/abyssal_spacetear_trace_pvp_01a.red
   iconInfo:
     folder: res:/fisfx/travel/abyssal/icons
+24609:
+  description: Cloud Cover Dark Matter Field Boundary
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_DarkMatterField_Boundary_01a.red
+24610:
+  description: Cloud Cover Dark Matter Field Core
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_DarkMatterField_Core_01a.red
+24611:
+  description: Cloud Cover Electric Storm Boundary
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_Kspace_ElectricStorm_Boundary_01a.red
+24612:
+  description: Cloud Cover Electric Storm Core
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_Kspace_ElectricStorm_Core_01a.red
+24613:
+  description: Cloud Cover Exotic Particle Storm Boundary
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_ExoticParticleStorm_Boundary_01a.red
+24614:
+  description: Cloud Cover Exotic Particle Storm Core
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_ExoticParticleStorm_Core_01a.red
+24615:
+  description: Cloud Cover Gamma Ray AfterGlow Boundary
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_GammaRayAfterGlow_Boundary_01a.red
+24616:
+  description: Cloud Cover Gamma Ray AfterGlow Core
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_GammaRayAfterglow_Core_01a.red
+24617:
+  description: Cloud Cover Plasma FireStorm Boundary
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_PlasmaFireStorm_Boundary_01a.red
+24618:
+  description: Cloud Cover Plasma FireStorm Core
+  graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_PlasmaFireStorm_Core_01a.red

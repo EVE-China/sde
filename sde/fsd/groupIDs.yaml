@@ -3255,12 +3255,12 @@
     fittableNonSingleton: false
     iconID: 0
     name:
-        de: Spannungsunterstützte Panzerung
-        en: Armor Plating Energized
-        fr: Plaque de blindage énergétique
+        de: Energized Armor Membrane
+        en: Energized Armor Membrane
+        fr: Membrane de blindage énergétique
         ja: 電磁加工アーマープレート
-        ru: Защитное покрытие брони с подкачкой
-        zh: 装甲电压式薄膜
+        ru: Подзаряжающаяся мембрана брони
+        zh: 电压装甲薄膜
     published: true
     useBasePrice: false
 328:
