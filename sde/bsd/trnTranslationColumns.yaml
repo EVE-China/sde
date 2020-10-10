@@ -8,16 +8,6 @@
     tableName: dbo.mapLandmarks
     tcGroupID: 0
     tcID: 1001
--   columnName: divisionName
-    masterID: divisionID
-    tableName: dbo.crpNPCDivisions
-    tcGroupID: 47
-    tcID: 65
--   columnName: leaderType
-    masterID: divisionID
-    tableName: dbo.crpNPCDivisions
-    tcGroupID: 47
-    tcID: 66
 -   columnName: schematicName
     masterID: schematicID
     tableName: dbo.planetSchematics

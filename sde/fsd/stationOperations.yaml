@@ -2598,33 +2598,236 @@
   - 23
   - 25
   - 26
-56:
+106:
   activityID: 7
   border: 0.0
   corridor: 0.0
   descriptionID:
-    de: Platzhalter
-    en: Placeholder
-    fr: Placeholder
-    ko: Placeholder
-    ru: Заполнитель
-    zh: Placeholder
+    en: Triglavian occupation of a space station typically involves converting much
+      of its interior from its former purpose, the Clades apparently being inclined
+      to use the seized station for their own ends rather than destroy a useful asset.  This
+      station has been turned into a facility focused on bioadaptation of lifeforms
+      to a variety of environmental conditions. The numerous chambers devoted to this
+      purpose are used to adapt both Triglavians and non-Triglavians, depending on
+      their needs and the environmental adjustments necessary.
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
   operationNameID:
-    de: Platzhalter
-    en: Placeholder
-    fr: Placeholder
-    ko: Placeholder
-    ru: Заполнитель
-    zh: Placeholder
+    de: Bioadaptionskammern
+    en: Bioadaptation Chambers
+    fr: Chambres de bioadaptation
+    ko: 바이오적응형 시설
+    ru: Камеры биоадаптации
   ratio: 0.0
   researchFactor: 0.98
   services:
+  - 5
   - 7
+  - 10
+  - 13
+  - 14
   - 17
   - 18
   - 19
   - 20
   - 22
+  - 23
+  - 24
+  - 25
+  stationTypes: {}
+109:
+  activityID: 7
+  border: 0.0
+  corridor: 0.0
+  descriptionID:
+    en: Triglavian occupation of a space station typically involves converting much
+      of its interior from its former purpose, the Clades apparently being inclined
+      to use the seized station for their own ends rather than destroy a useful asset.  The
+      clade that seized this station saw fit to convert it to a terminus for the resource
+      extraction operations being carried out across its Krai. The vast processing
+      operations are evidently also receiving deliveries from resource harvesting
+      and raids taking place in Known Space systems of continued interest to the Triglavians.
+  fringe: 0.0
+  hub: 0.0
+  manufacturingFactor: 0.98
+  operationNameID:
+    de: Extraktionsterminus
+    en: Extractive Terminus
+    fr: Terminus extractif
+    ko: 추출형 터미너스
+    ru: Извлекающий Терминус
+  ratio: 0.0
+  researchFactor: 0.98
+  services:
+  - 5
+  - 7
+  - 10
+  - 13
+  - 14
+  - 17
+  - 18
+  - 19
+  - 20
+  - 22
+  - 23
+  - 24
+  - 25
+  stationTypes: {}
+110:
+  activityID: 7
+  border: 0.0
+  corridor: 0.0
+  descriptionID:
+    en: 'Triglavian occupation of a space station typically involves converting much
+      of its interior from its former purpose, the Clades apparently being inclined
+      to use the seized station for their own ends rather than destroy a useful asset.  This
+      station has been transformed into a facility devoted to the various forms of
+      "proving" being undertaken by the controlling clade and its subclades. These
+      procedures appear to be a complex mix of testing, ritual and philosophical discourse:
+      a form of concrete dialectics aimed at determining the worth of individuals,
+      groups, theories, ideologies, technology, social practices and more besides.'
+  fringe: 0.0
+  hub: 0.0
+  manufacturingFactor: 0.98
+  operationNameID:
+    de: Textkomplex
+    en: Proving Complex
+    fr: Complexe d'expérimentation
+    ko: 증명 시설
+    ru: Полигонный комплекс
+  ratio: 0.0
+  researchFactor: 0.98
+  services:
+  - 5
+  - 7
+  - 10
+  - 13
+  - 14
+  - 17
+  - 18
+  - 19
+  - 20
+  - 22
+  - 23
+  - 24
+  - 25
+  stationTypes: {}
+111:
+  activityID: 7
+  border: 0.0
+  corridor: 0.0
+  descriptionID:
+    en: Triglavian occupation of a space station typically involves converting much
+      of its interior from its former purpose, the Clades apparently being inclined
+      to use the seized station for their own ends rather than destroy a useful asset.  The
+      controlling clade has turned this station into a facility that seems to be a
+      combination of communications hub, data processing complex and diplomatic venue.
+      It may be a specialized class of proving center focusing on the semiotic aspects
+      of the profoundly dialectical way of thinking and acting that dominates Triglavian
+      culture.
+  fringe: 0.0
+  hub: 0.0
+  manufacturingFactor: 0.98
+  operationNameID:
+    de: Semiose-Theater
+    en: Semiosis Theater
+    fr: Théâtre sémiotique
+    ko: 세미오시스 상영관
+    ru: Театр семиозиса
+  ratio: 0.0
+  researchFactor: 0.98
+  services:
+  - 5
+  - 7
+  - 10
+  - 13
+  - 14
+  - 17
+  - 18
+  - 19
+  - 20
+  - 22
+  - 23
+  - 24
+  - 25
+  stationTypes: {}
+112:
+  activityID: 7
+  border: 0.0
+  corridor: 0.0
+  descriptionID:
+    en: Triglavian occupation of a space station typically involves converting much
+      of its interior from its former purpose, the Clades apparently being inclined
+      to use the seized station for their own ends rather than destroy a useful asset.  This
+      station has been significantly transformed by the occupying clade's decision
+      to use it as a facility dedicated to farming mutaplasmids of all kinds. Many
+      of the internal spaces are now seething caverns filled with the bizarre semi-biological,
+      semi-artificial form of evolutionary nanotechnology used by the Triglavians
+      to develop and adapt technology.
+  fringe: 0.0
+  hub: 0.0
+  manufacturingFactor: 0.98
+  operationNameID:
+    de: Mutaplasmidenfarm
+    en: Mutaplasmid Farm
+    fr: Ferme de mutaplasmides
+    ko: 뮤타플라즈미드 생산시설
+    ru: Ферма мутаплазмидов
+  ratio: 0.0
+  researchFactor: 0.98
+  services:
+  - 5
+  - 7
+  - 10
+  - 13
+  - 14
+  - 17
+  - 18
+  - 19
+  - 20
+  - 22
+  - 23
+  - 24
+  - 25
+  stationTypes: {}
+113:
+  activityID: 7
+  border: 0.0
+  corridor: 0.0
+  descriptionID:
+    en: Triglavian occupation of a space station typically involves converting much
+      of its interior from its former purpose, the Clades apparently being inclined
+      to use the seized station for their own ends rather than destroy a useful asset.  Security
+      within this station is extremely high and the controlling clade is even less
+      tolerant than usual when it comes to perceived infractions and violations by
+      residents or visitors. The core of the station is totally sealed off to all
+      but the elite troikas of the clade and is apparently being used as a storage
+      facility for a surplus of the most valuable resources obtained by Triglavian
+      harvesting operations.
+  fringe: 0.0
+  hub: 0.0
+  manufacturingFactor: 0.98
+  operationNameID:
+    de: Porevitium-Tresor
+    en: Porevitium Vault
+    fr: Coffre Porevitium
+    ko: 포레비티움 금고
+    ru: Поревитиевое хранилище
+  ratio: 0.0
+  researchFactor: 0.98
+  services:
+  - 5
+  - 7
+  - 10
+  - 13
+  - 14
+  - 17
+  - 18
+  - 19
+  - 20
+  - 22
+  - 23
+  - 24
+  - 25
+  stationTypes: {}

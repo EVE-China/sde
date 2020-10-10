@@ -1385,7 +1385,7 @@
     ru: Скитальцы
     zh: 流浪者
   sizeFactor: 0.0
-  solarSystemID: 30001642
+  solarSystemID: 30005286
   uniqueName: false
 500025:
   corporationID: 1000287
@@ -1468,7 +1468,7 @@
     zh: 三神裔
   sizeFactor: 5.0
   solarSystemID: 30005286
-  uniqueName: false
+  uniqueName: true
 500027:
   corporationID: 1000297
   descriptionID:

@@ -2433,13 +2433,6 @@ star:
         temperature: 6702.0
     typeID: 3803
 stargates:
-    50002428:
-        destination: 50001094
-        position:
-        - -7332720353280.0
-        - 809258803200.0
-        - 740029685760.0
-        typeID: 16
     50002429:
         destination: 50005413
         position:

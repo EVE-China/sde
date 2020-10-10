@@ -19967,10 +19967,10 @@
     categoryID: 11
     fittableNonSingleton: false
     name:
-        de: Eindringende Precursor-Entitäten
-        en: Invading Precursor Entities
-        fr: Entités précurseuses d'invasion
-        ru: Вторгшиеся корабли Предтечей
+        de: Triglavia-Entitäten
+        en: Triglavian Entities
+        fr: Entités triglavian
+        ru: Объекты Триглава
         zh: 入侵的先驱者实体
     published: false
     useBasePrice: false
@@ -20032,10 +20032,10 @@
     categoryID: 11
     fittableNonSingleton: false
     name:
-        de: Zurückschlagende Amarr-Entitäten
-        en: Retaliating Amarr Entities
-        fr: Entités amarr de riposte
-        ru: Обороняющиеся амаррские объекты
+        de: EDENCOM-Entitäten
+        en: EDENCOM Entities
+        fr: Entités EDENCOM
+        ru: Объекты ЭДЕНКОМа
         zh: 反击艾玛单位
     published: false
     useBasePrice: false
@@ -20045,10 +20045,10 @@
     categoryID: 11
     fittableNonSingleton: false
     name:
-        de: Zurückschlagende Caldari-Entitäten
-        en: Retaliating Caldari Entities
-        fr: Entités caldari de riposte
-        ru: Обороняющиеся калдарские объекты
+        de: Drifter-Entitäten
+        en: Drifter Entities
+        fr: Entités drifter
+        ru: Объекты скитальцев
         zh: 反击加达里单位
     published: false
     useBasePrice: false
@@ -20058,10 +20058,10 @@
     categoryID: 11
     fittableNonSingleton: false
     name:
-        de: Zurückschlagende Gallente-Entitäten
-        en: Retaliating Gallente Entities
-        fr: Entités gallente de riposte
-        ru: Обороняющиеся галлентские объекты
+        de: Sleeper-Entitäten
+        en: Sleeper Entities
+        fr: Entités sleeper
+        ru: Объекты Спящих
         zh: 反击盖伦特单位
     published: false
     useBasePrice: false
@@ -20071,10 +20071,10 @@
     categoryID: 11
     fittableNonSingleton: false
     name:
-        de: Zurückschlagende Minmatar-Entitäten
-        en: Retaliating Minmatar Entities
-        fr: Entités minmatar de riposte
-        ru: Обороняющиеся минматарские объекты
+        de: Raubdrohnen-Entitäten
+        en: Rogue Drone Entities
+        fr: Entités drones renégats
+        ru: Объекты восставших дронов
         zh: 反击米玛塔尔单位
     published: false
     useBasePrice: false
@@ -20326,6 +20326,43 @@
         zh: 临时性可碰撞建筑
     published: false
     useBasePrice: false
+4081:
+    anchorable: false
+    anchored: false
+    categoryID: 2
+    fittableNonSingleton: false
+    name:
+        de: Gestörtes Tor
+        en: Disrupted Gate
+        fr: Portail perturbé
+        ru: Нестабильные гиперврата
+    published: false
+    useBasePrice: false
+4086:
+    anchorable: false
+    anchored: false
+    categoryID: 66
+    fittableNonSingleton: false
+    name:
+        de: Quantumkerne
+        en: Quantum Cores
+        fr: Réacteurs quantiques
+        ru: Квантовые ядра
+        zh: 量子芯
+    published: true
+    useBasePrice: true
+4087:
+    anchorable: false
+    anchored: false
+    categoryID: 17
+    fittableNonSingleton: false
+    name:
+        de: Triglavia-Weltraum-Filamente
+        en: Triglavian Space Filaments
+        fr: Filaments de l'espace triglavian
+        ru: Нити пространства Триглава
+    published: true
+    useBasePrice: true
 350858:
     anchorable: false
     anchored: false

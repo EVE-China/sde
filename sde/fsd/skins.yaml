@@ -91,11 +91,12 @@
 17:
     allowCCPDevs: false
     internalName: Brutix Inner Zone Shipping
+    isStructureSkin: false
     skinID: 17
-    skinMaterialID: '15'
+    skinMaterialID: 15
     types:
     - 16229
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: false
 18:
     allowCCPDevs: true
@@ -43211,4 +43212,444 @@
     types:
     - 54733
     visibleSerenity: false
+    visibleTranquility: true
+9484:
+    allowCCPDevs: true
+    internalName: Caldari Shuttle Sukuuvestaa
+    isStructureSkin: false
+    skinID: 9484
+    skinMaterialID: 11
+    types:
+    - 672
+    visibleSerenity: false
+    visibleTranquility: true
+9485:
+    allowCCPDevs: true
+    internalName: Badger Sukuuvestaa
+    isStructureSkin: false
+    skinID: 9485
+    skinMaterialID: 11
+    types:
+    - 648
+    visibleSerenity: false
+    visibleTranquility: true
+9486:
+    allowCCPDevs: true
+    internalName: Vengeance Crown and Swords
+    skinDescription: 569604
+    skinID: 9486
+    skinMaterialID: 2396
+    types:
+    - 11365
+    visibleSerenity: false
+    visibleTranquility: true
+9487:
+    allowCCPDevs: true
+    internalName: Anathema Crown and Swords
+    skinDescription: 569607
+    skinID: 9487
+    skinMaterialID: 2396
+    types:
+    - 11188
+    visibleSerenity: false
+    visibleTranquility: true
+9488:
+    allowCCPDevs: true
+    internalName: Zealot Crown and Swords
+    skinDescription: 569610
+    skinID: 9488
+    skinMaterialID: 2396
+    types:
+    - 12003
+    visibleSerenity: false
+    visibleTranquility: true
+9489:
+    allowCCPDevs: true
+    internalName: Sacrilege Crown and Swords
+    skinDescription: 569613
+    skinID: 9489
+    skinMaterialID: 2396
+    types:
+    - 12019
+    visibleSerenity: false
+    visibleTranquility: true
+9490:
+    allowCCPDevs: true
+    internalName: Oracle Crown and Swords
+    skinDescription: 569616
+    skinID: 9490
+    skinMaterialID: 2396
+    types:
+    - 4302
+    visibleSerenity: false
+    visibleTranquility: true
+9491:
+    allowCCPDevs: true
+    internalName: Abaddon Crown and Swords
+    skinDescription: 569619
+    skinID: 9491
+    skinMaterialID: 2396
+    types:
+    - 24692
+    visibleSerenity: false
+    visibleTranquility: true
+9492:
+    allowCCPDevs: true
+    internalName: Apostle Crown and Swords
+    skinDescription: 569622
+    skinID: 9492
+    skinMaterialID: 2396
+    types:
+    - 37604
+    visibleSerenity: false
+    visibleTranquility: true
+9493:
+    allowCCPDevs: true
+    internalName: Ark Crown and Swords
+    skinDescription: 569625
+    skinID: 9493
+    skinMaterialID: 2396
+    types:
+    - 28850
+    visibleSerenity: false
+    visibleTranquility: true
+9494:
+    allowCCPDevs: true
+    internalName: Archon Crown and Swords
+    skinDescription: 569628
+    skinID: 9494
+    skinMaterialID: 2396
+    types:
+    - 23757
+    visibleSerenity: false
+    visibleTranquility: true
+9495:
+    allowCCPDevs: true
+    internalName: Aeon Crown and Swords
+    skinDescription: 569631
+    skinID: 9495
+    skinMaterialID: 2396
+    types:
+    - 23919
+    visibleSerenity: false
+    visibleTranquility: true
+9497:
+    allowCCPDevs: true
+    internalName: Confessor Malagrin Marshlight
+    skinDescription: 570624
+    skinID: 9497
+    skinMaterialID: 2398
+    types:
+    - 34317
+    visibleSerenity: false
+    visibleTranquility: true
+9498:
+    allowCCPDevs: true
+    internalName: Prophecy Malagrin Marshlight
+    skinDescription: 570627
+    skinID: 9498
+    skinMaterialID: 2398
+    types:
+    - 16233
+    visibleSerenity: false
+    visibleTranquility: true
+9499:
+    allowCCPDevs: true
+    internalName: Armageddon Malagrin Marshlight
+    skinDescription: 570630
+    skinID: 9499
+    skinMaterialID: 2398
+    types:
+    - 643
+    visibleSerenity: false
+    visibleTranquility: true
+9500:
+    allowCCPDevs: true
+    internalName: Ferox Malagrin Marshlight
+    skinDescription: 570633
+    skinID: 9500
+    skinMaterialID: 2399
+    types:
+    - 16227
+    visibleSerenity: false
+    visibleTranquility: true
+9501:
+    allowCCPDevs: true
+    internalName: Charon Malagrin Marshlight
+    skinDescription: 570636
+    skinID: 9501
+    skinMaterialID: 2399
+    types:
+    - 20185
+    visibleSerenity: false
+    visibleTranquility: true
+9502:
+    allowCCPDevs: true
+    internalName: Phoenix Malagrin Marshlight
+    skinDescription: 570639
+    skinID: 9502
+    skinMaterialID: 2399
+    types:
+    - 19726
+    visibleSerenity: false
+    visibleTranquility: true
+9503:
+    allowCCPDevs: true
+    internalName: Hecate Malagrin Marshlight
+    skinDescription: 570642
+    skinID: 9503
+    skinMaterialID: 2400
+    types:
+    - 35683
+    visibleSerenity: false
+    visibleTranquility: true
+9504:
+    allowCCPDevs: true
+    internalName: Dominix Malagrin Marshlight
+    skinDescription: 570645
+    skinID: 9504
+    skinMaterialID: 2400
+    types:
+    - 645
+    visibleSerenity: false
+    visibleTranquility: true
+9505:
+    allowCCPDevs: true
+    internalName: Thanatos Malagrin Marshlight
+    skinDescription: 570648
+    skinID: 9505
+    skinMaterialID: 2400
+    types:
+    - 23911
+    visibleSerenity: false
+    visibleTranquility: true
+9506:
+    allowCCPDevs: true
+    internalName: Panther Malagrin Marshlight
+    skinDescription: 570651
+    skinID: 9506
+    skinMaterialID: 2401
+    types:
+    - 22440
+    visibleSerenity: false
+    visibleTranquility: true
+9507:
+    allowCCPDevs: true
+    internalName: Naglfar Malagrin Marshlight
+    skinDescription: 570654
+    skinID: 9507
+    skinMaterialID: 2401
+    types:
+    - 19722
+    visibleSerenity: false
+    visibleTranquility: true
+9508:
+    allowCCPDevs: true
+    internalName: Nidhoggur Malagrin Marshlight
+    skinDescription: 570657
+    skinID: 9508
+    skinMaterialID: 2401
+    types:
+    - 24483
+    visibleSerenity: false
+    visibleTranquility: true
+9509:
+    allowCCPDevs: true
+    internalName: Cynabal Malagrin Marshlight
+    skinDescription: 570660
+    skinID: 9509
+    skinMaterialID: 2549
+    types:
+    - 17720
+    visibleSerenity: false
+    visibleTranquility: true
+9510:
+    allowCCPDevs: true
+    internalName: Machariel Malagrin Marshlight
+    skinDescription: 570663
+    skinID: 9510
+    skinMaterialID: 2549
+    types:
+    - 17738
+    visibleSerenity: false
+    visibleTranquility: true
+9511:
+    allowCCPDevs: true
+    internalName: Venture Rockbreaker Pioneers
+    skinDescription: 570671
+    skinID: 9511
+    skinMaterialID: 2550
+    types:
+    - 32880
+    visibleSerenity: false
+    visibleTranquility: true
+9512:
+    allowCCPDevs: true
+    internalName: Prospect Rockbreaker Pioneers
+    skinDescription: 570674
+    skinID: 9512
+    skinMaterialID: 2551
+    types:
+    - 33697
+    visibleSerenity: false
+    visibleTranquility: true
+9513:
+    allowCCPDevs: true
+    internalName: Porpoise Rockbreaker Pioneers
+    skinDescription: 570677
+    skinID: 9513
+    skinMaterialID: 2551
+    types:
+    - 42244
+    visibleSerenity: false
+    visibleTranquility: true
+9514:
+    allowCCPDevs: true
+    internalName: Endurance Rockbreaker Pioneers
+    skinDescription: 570680
+    skinID: 9514
+    skinMaterialID: 2552
+    types:
+    - 37135
+    visibleSerenity: false
+    visibleTranquility: true
+9515:
+    allowCCPDevs: true
+    internalName: Procurer Rockbreaker Pioneers
+    skinDescription: 570683
+    skinID: 9515
+    skinMaterialID: 2553
+    types:
+    - 17480
+    visibleSerenity: false
+    visibleTranquility: true
+9516:
+    allowCCPDevs: true
+    internalName: Retriever Rockbreaker Pioneers
+    skinDescription: 570686
+    skinID: 9516
+    skinMaterialID: 2553
+    types:
+    - 17478
+    visibleSerenity: false
+    visibleTranquility: true
+9517:
+    allowCCPDevs: true
+    internalName: Covetor Rockbreaker Pioneers
+    skinDescription: 570689
+    skinID: 9517
+    skinMaterialID: 2553
+    types:
+    - 17476
+    visibleSerenity: false
+    visibleTranquility: true
+9518:
+    allowCCPDevs: true
+    internalName: Primae Rockbreaker Pioneers
+    skinDescription: 570692
+    skinID: 9518
+    skinMaterialID: 2553
+    types:
+    - 2863
+    visibleSerenity: false
+    visibleTranquility: true
+9519:
+    allowCCPDevs: true
+    internalName: Orca Rockbreaker Pioneers
+    skinDescription: 570695
+    skinID: 9519
+    skinMaterialID: 2553
+    types:
+    - 28606
+    visibleSerenity: false
+    visibleTranquility: true
+9520:
+    allowCCPDevs: true
+    internalName: Rorqual Rockbreaker Pioneers
+    skinDescription: 570698
+    skinID: 9520
+    skinMaterialID: 2553
+    types:
+    - 28352
+    visibleSerenity: false
+    visibleTranquility: true
+9521:
+    allowCCPDevs: true
+    internalName: Bowhead Rockbreaker Pioneers
+    skinDescription: 570701
+    skinID: 9521
+    skinMaterialID: 2553
+    types:
+    - 34328
+    visibleSerenity: false
+    visibleTranquility: true
+9522:
+    allowCCPDevs: true
+    internalName: Skiff Rockbreaker Pioneers
+    skinDescription: 570704
+    skinID: 9522
+    skinMaterialID: 2554
+    types:
+    - 22546
+    visibleSerenity: false
+    visibleTranquility: true
+9523:
+    allowCCPDevs: true
+    internalName: Mackinaw Rockbreaker Pioneers
+    skinDescription: 570707
+    skinID: 9523
+    skinMaterialID: 2554
+    types:
+    - 22548
+    visibleSerenity: false
+    visibleTranquility: true
+9524:
+    allowCCPDevs: true
+    internalName: Hulk Rockbreaker Pioneers
+    skinDescription: 570710
+    skinID: 9524
+    skinMaterialID: 2554
+    types:
+    - 22544
+    visibleSerenity: false
+    visibleTranquility: true
+9525:
+    allowCCPDevs: true
+    internalName: Noctis Rockbreaker Pioneers
+    skinDescription: 570713
+    skinID: 9525
+    skinMaterialID: 2554
+    types:
+    - 2998
+    visibleSerenity: false
+    visibleTranquility: true
+9526:
+    allowCCPDevs: true
+    internalName: Skybreaker Strikeflight Red
+    skinDescription: 570743
+    skinID: 9526
+    skinMaterialID: 2548
+    types:
+    - 54731
+    visibleSerenity: true
+    visibleTranquility: true
+9527:
+    allowCCPDevs: true
+    internalName: Stormbringer Strikeflight Red
+    skinDescription: 570746
+    skinID: 9527
+    skinMaterialID: 2548
+    types:
+    - 54732
+    visibleSerenity: true
+    visibleTranquility: true
+9528:
+    allowCCPDevs: true
+    internalName: Thunderchild Strikeflight Red
+    skinDescription: 570749
+    skinID: 9528
+    skinMaterialID: 2548
+    types:
+    - 54733
+    visibleSerenity: true
     visibleTranquility: true

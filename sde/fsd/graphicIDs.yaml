@@ -1,5 +1,5 @@
 10:
-  description: Moon
+  description: Moon model
   graphicFile: res:/dx9/model/worldobject/planet/moon.red
 38:
   description: Caldari Frigate Bantam
@@ -20339,9 +20339,11 @@
   sofHullName: tgmr1
   sofRaceName: triglavian
 24552:
-  description: Triglavian PLACEHOLDER
+  description: Triglavian Anchorage
+  iconInfo:
+    folder: res:/dx9/model/station/triglavian/tgs2/icons
   sofFactionName: triglavianbase
-  sofHullName: tgs1
+  sofHullName: tgs2
   sofRaceName: triglavian
 24553:
   description: Upwell Resource Dropoff Piece 1
@@ -20502,6 +20504,37 @@
   graphicFile: res:/fisfx/travel/abyssal/abyssal_spacetear_trace_pvp_01a.red
   iconInfo:
     folder: res:/fisfx/travel/abyssal/icons
+24600:
+  description: Triglavian Sandstorm Planet
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Barren_01a.red
+24601:
+  description: Triglavian Ice Planet
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Ice_01a.red
+24602:
+  description: Triglavian Lava Planet
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Lava_01a.red
+24603:
+  description: Ocean Planet Shader
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Ocean_01a.red
+24604:
+  description: Triglavian Plasma Planet
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Plasma_01a.red
+24605:
+  description: Triglavian Terrestrial
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Temperate_01a.red
+24606:
+  description: Triglavian Thunderstorm Planet
+  graphicFile: res:/dx9/model/WorldObject/Planet/TG_KSpace/Thunderstorm_01a.red
+24607:
+  description: Triglavian KSpace Sun - Yellow
+  graphicFile: res:/dx9/model/celestial/sun/sun_yellow_kspace_triglavian_01a.red
+  iconInfo:
+    folder: res:/dx9/model/celestial/sun/icons
+24608:
+  description: Triglavian KSpace Sun - Blue
+  graphicFile: res:/dx9/model/celestial/sun/sun_blue_kspace_triglavian_01a.red
+  iconInfo:
+    folder: res:/dx9/model/celestial/sun/icons
 24609:
   description: Cloud Cover Dark Matter Field Boundary
   graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_DarkMatterField_Boundary_01a.red
@@ -20532,3 +20565,979 @@
 24618:
   description: Cloud Cover Plasma FireStorm Core
   graphicFile: res:/FisFX/Environment/CloudCover/CC_KSpace_PlasmaFireStorm_Core_01a.red
+24619:
+  description: Effect Triglavian Lensflare Blue
+  graphicFile: res:/FisFX/Lensflare/Sun_KSpace_Triglavian_01a_fromBlue.red
+  iconInfo:
+    folder: res:/Fisfx/Lensflare/Icons
+24620:
+  description: Effect Triglavian Lensflare Yellow
+  graphicFile: res:/FisFX/Lensflare/Sun_KSpace_Triglavian_01b_fromYellow.red
+  iconInfo:
+    folder: res:/Fisfx/Lensflare/Icons
+24624:
+  description: abg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/abg/icons
+  sofFactionName: amarrbase
+  sofHullName: abg
+  sofRaceName: amarr
+24625:
+  description: abg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/abg/icons
+  sofFactionName: amarrbase
+  sofHullName: abg
+  sofRaceName: amarr
+24626:
+  description: ahg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/ahg/icons
+  sofFactionName: amarrbase
+  sofHullName: ahg
+  sofRaceName: amarr
+24627:
+  description: ahg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/ahg/icons
+  sofFactionName: amarrbase
+  sofHullName: ahg
+  sofRaceName: amarr
+24628:
+  description: asg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/asg/icons
+  sofFactionName: amarrbase
+  sofHullName: asg
+  sofRaceName: amarr
+24629:
+  description: asg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/asg/icons
+  sofFactionName: amarrbase
+  sofHullName: asg
+  sofRaceName: amarr
+24630:
+  description: asmg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/asmg/icons
+  sofFactionName: amarrbase
+  sofHullName: asmg
+  sofRaceName: amarr
+24631:
+  description: asmg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/amarr/asmg/icons
+  sofFactionName: amarrbase
+  sofHullName: asmg
+  sofRaceName: amarr
+24632:
+  description: cbg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/cbg/icons
+  sofFactionName: caldaribase
+  sofHullName: cbg
+  sofRaceName: caldari
+24633:
+  description: cbg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/cbg/icons
+  sofFactionName: caldaribase
+  sofHullName: cbg
+  sofRaceName: caldari
+24634:
+  description: chg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/chg/icons
+  sofFactionName: caldaribase
+  sofHullName: chg
+  sofRaceName: caldari
+24635:
+  description: chg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/chg/icons
+  sofFactionName: caldaribase
+  sofHullName: chg
+  sofRaceName: caldari
+24636:
+  description: csg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/csg/icons
+  sofFactionName: caldaribase
+  sofHullName: csg
+  sofRaceName: caldari
+24637:
+  description: csg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/csg/icons
+  sofFactionName: caldaribase
+  sofHullName: csg
+  sofRaceName: caldari
+24638:
+  description: csmg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/csmg/icons
+  sofFactionName: caldaribase
+  sofHullName: csmg
+  sofRaceName: caldari
+24639:
+  description: csmg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/caldari/csmg/icons
+  sofFactionName: caldaribase
+  sofHullName: csmg
+  sofRaceName: caldari
+24640:
+  description: gbg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/gbg/icons
+  sofFactionName: gallentebase
+  sofHullName: gbg
+  sofRaceName: gallente
+24641:
+  description: gbg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/gbg/icons
+  sofFactionName: gallentebase
+  sofHullName: gbg
+  sofRaceName: gallente
+24642:
+  description: ghg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/ghg/icons
+  sofFactionName: gallentebase
+  sofHullName: ghg
+  sofRaceName: gallente
+24643:
+  description: ghg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/ghg/icons
+  sofFactionName: gallentebase
+  sofHullName: ghg
+  sofRaceName: gallente
+24644:
+  description: gsg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/gsg/icons
+  sofFactionName: gallentebase
+  sofHullName: gsg
+  sofRaceName: gallente
+24645:
+  description: gsg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/gsg/icons
+  sofFactionName: gallentebase
+  sofHullName: gsg
+  sofRaceName: gallente
+24646:
+  description: gsmg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/gsmg/icons
+  sofFactionName: gallentebase
+  sofHullName: gsmg
+  sofRaceName: gallente
+24647:
+  description: gsmg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/gallente/gsmg/icons
+  sofFactionName: gallentebase
+  sofHullName: gsmg
+  sofRaceName: gallente
+24648:
+  description: mbg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/mbg/icons
+  sofFactionName: minmatarbase
+  sofHullName: mbg
+  sofRaceName: minmatar
+24649:
+  description: mbg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/mbg/icons
+  sofFactionName: minmatarbase
+  sofHullName: mbg
+  sofRaceName: minmatar
+24650:
+  description: mhg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/mhg/icons
+  sofFactionName: minmatarbase
+  sofHullName: mhg
+  sofRaceName: minmatar
+24651:
+  description: mhg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/mhg/icons
+  sofFactionName: minmatarbase
+  sofHullName: mhg
+  sofRaceName: minmatar
+24652:
+  description: msg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/msg/icons
+  sofFactionName: minmatarbase
+  sofHullName: msg
+  sofRaceName: minmatar
+24653:
+  description: msg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/msg/icons
+  sofFactionName: minmatarbase
+  sofHullName: msg
+  sofRaceName: minmatar
+24654:
+  description: msmg - TrigSpaceGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/msmg/icons
+  sofFactionName: minmatarbase
+  sofHullName: msmg
+  sofRaceName: minmatar
+24655:
+  description: msmg - EmpireGateDisconnected
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/minmatar/msmg/icons
+  sofFactionName: minmatarbase
+  sofHullName: msmg
+  sofRaceName: minmatar
+24656:
+  description: Triglavian Space Gate
+  iconInfo:
+    folder: res:/dx9/model/jumpgate/triglavian/tgg2/icons
+  sofFactionName: triglavianbase
+  sofHullName: tgg2_tspace
+  sofRaceName: triglavian
+24761:
+  description: Triglavian owned (convocation) version of as1
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as1/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as1
+  sofRaceName: triglavian
+24762:
+  description: Triglavian owned (perun) version of as1
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as1/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as1
+  sofRaceName: triglavian
+24763:
+  description: Triglavian owned (veles) version of as1
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as1/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as1
+  sofRaceName: triglavian
+24764:
+  description: Triglavian owned (svarog) version of as1
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as1/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as1
+  sofRaceName: triglavian
+24765:
+  description: Triglavian owned (convocation) version of as2
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as2/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as2
+  sofRaceName: triglavian
+24766:
+  description: Triglavian owned (perun) version of as2
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as2/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as2
+  sofRaceName: triglavian
+24767:
+  description: Triglavian owned (veles) version of as2
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as2/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as2
+  sofRaceName: triglavian
+24768:
+  description: Triglavian owned (svarog) version of as2
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as2/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as2
+  sofRaceName: triglavian
+24769:
+  description: Triglavian owned (convocation) version of as3
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as3/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as3
+  sofRaceName: triglavian
+24770:
+  description: Triglavian owned (perun) version of as3
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as3/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as3
+  sofRaceName: triglavian
+24771:
+  description: Triglavian owned (veles) version of as3
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as3/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as3
+  sofRaceName: triglavian
+24772:
+  description: Triglavian owned (svarog) version of as3
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as3/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as3
+  sofRaceName: triglavian
+24773:
+  description: Triglavian owned (convocation) version of as4
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as4/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as4
+  sofRaceName: triglavian
+24774:
+  description: Triglavian owned (perun) version of as4
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as4/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as4
+  sofRaceName: triglavian
+24775:
+  description: Triglavian owned (veles) version of as4
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as4/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as4
+  sofRaceName: triglavian
+24776:
+  description: Triglavian owned (svarog) version of as4
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as4/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as4
+  sofRaceName: triglavian
+24777:
+  description: Triglavian owned (convocation) version of as5
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as5/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as5
+  sofRaceName: triglavian
+24778:
+  description: Triglavian owned (perun) version of as5
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as5/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as5
+  sofRaceName: triglavian
+24779:
+  description: Triglavian owned (veles) version of as5
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as5/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as5
+  sofRaceName: triglavian
+24780:
+  description: Triglavian owned (svarog) version of as5
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as5/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as5
+  sofRaceName: triglavian
+24781:
+  description: Triglavian owned (convocation) version of as7
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as7/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as7
+  sofRaceName: triglavian
+24782:
+  description: Triglavian owned (perun) version of as7
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as7/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as7
+  sofRaceName: triglavian
+24783:
+  description: Triglavian owned (veles) version of as7
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as7/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as7
+  sofRaceName: triglavian
+24784:
+  description: Triglavian owned (svarog) version of as7
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as7/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as7
+  sofRaceName: triglavian
+24785:
+  description: Triglavian owned (convocation) version of as9
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as9/icons
+  sofFactionName: triglavianconvocation_amarr
+  sofHullName: as9
+  sofRaceName: triglavian
+24786:
+  description: Triglavian owned (perun) version of as9
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as9/icons
+  sofFactionName: triglavianperun_amarr
+  sofHullName: as9
+  sofRaceName: triglavian
+24787:
+  description: Triglavian owned (veles) version of as9
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as9/icons
+  sofFactionName: triglavianveles_amarr
+  sofHullName: as9
+  sofRaceName: triglavian
+24788:
+  description: Triglavian owned (svarog) version of as9
+  iconInfo:
+    folder: res:/dx9/model/station/amarr/as9/icons
+  sofFactionName: triglaviansvarog_amarr
+  sofHullName: as9
+  sofRaceName: triglavian
+24789:
+  description: Triglavian owned (convocation) version of cs1
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs1/icons
+  sofFactionName: triglavianconvocation_caldari
+  sofHullName: cs1
+  sofRaceName: triglavian
+24790:
+  description: Triglavian owned (perun) version of cs1
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs1/icons
+  sofFactionName: triglavianperun_caldari
+  sofHullName: cs1
+  sofRaceName: triglavian
+24791:
+  description: Triglavian owned (veles) version of cs1
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs1/icons
+  sofFactionName: triglavianveles_caldari
+  sofHullName: cs1
+  sofRaceName: triglavian
+24792:
+  description: Triglavian owned (svarog) version of cs1
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs1/icons
+  sofFactionName: triglaviansvarog_caldari
+  sofHullName: cs1
+  sofRaceName: triglavian
+24793:
+  description: Triglavian owned (convocation) version of cs2
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs2/icons
+  sofFactionName: triglavianconvocation_caldari
+  sofHullName: cs2
+  sofRaceName: triglavian
+24794:
+  description: Triglavian owned (perun) version of cs2
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs2/icons
+  sofFactionName: triglavianperun_caldari
+  sofHullName: cs2
+  sofRaceName: triglavian
+24795:
+  description: Triglavian owned (veles) version of cs2
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs2/icons
+  sofFactionName: triglavianveles_caldari
+  sofHullName: cs2
+  sofRaceName: triglavian
+24796:
+  description: Triglavian owned (svarog) version of cs2
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs2/icons
+  sofFactionName: triglaviansvarog_caldari
+  sofHullName: cs2
+  sofRaceName: triglavian
+24797:
+  description: Triglavian owned (convocation) version of cs3
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs3/icons
+  sofFactionName: triglavianconvocation_caldari
+  sofHullName: cs3
+  sofRaceName: triglavian
+24798:
+  description: Triglavian owned (perun) version of cs3
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs3/icons
+  sofFactionName: triglavianperun_caldari
+  sofHullName: cs3
+  sofRaceName: triglavian
+24799:
+  description: Triglavian owned (veles) version of cs3
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs3/icons
+  sofFactionName: triglavianveles_caldari
+  sofHullName: cs3
+  sofRaceName: triglavian
+24800:
+  description: Triglavian owned (svarog) version of cs3
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs3/icons
+  sofFactionName: triglaviansvarog_caldari
+  sofHullName: cs3
+  sofRaceName: triglavian
+24801:
+  description: Triglavian owned (convocation) version of cs4
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs4/icons
+  sofFactionName: triglavianconvocation_caldari
+  sofHullName: cs4
+  sofRaceName: triglavian
+24802:
+  description: Triglavian owned (perun) version of cs4
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs4/icons
+  sofFactionName: triglavianperun_caldari
+  sofHullName: cs4
+  sofRaceName: triglavian
+24803:
+  description: Triglavian owned (veles) version of cs4
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs4/icons
+  sofFactionName: triglavianveles_caldari
+  sofHullName: cs4
+  sofRaceName: triglavian
+24804:
+  description: Triglavian owned (svarog) version of cs4
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs4/icons
+  sofFactionName: triglaviansvarog_caldari
+  sofHullName: cs4
+  sofRaceName: triglavian
+24805:
+  description: Triglavian owned (convocation) version of cs7
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs7/icons
+  sofFactionName: triglavianconvocation_caldari
+  sofHullName: cs7
+  sofRaceName: triglavian
+24806:
+  description: Triglavian owned (perun) version of cs7
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs7/icons
+  sofFactionName: triglavianperun_caldari
+  sofHullName: cs7
+  sofRaceName: triglavian
+24807:
+  description: Triglavian owned (veles) version of cs7
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs7/icons
+  sofFactionName: triglavianveles_caldari
+  sofHullName: cs7
+  sofRaceName: triglavian
+24808:
+  description: Triglavian owned (svarog) version of cs7
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs7/icons
+  sofFactionName: triglaviansvarog_caldari
+  sofHullName: cs7
+  sofRaceName: triglavian
+24809:
+  description: Triglavian owned (convocation) version of cs8
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs8/icons
+  sofFactionName: triglavianconvocation_caldari
+  sofHullName: cs8
+  sofRaceName: triglavian
+24810:
+  description: Triglavian owned (perun) version of cs8
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs8/icons
+  sofFactionName: triglavianperun_caldari
+  sofHullName: cs8
+  sofRaceName: triglavian
+24811:
+  description: Triglavian owned (veles) version of cs8
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs8/icons
+  sofFactionName: triglavianveles_caldari
+  sofHullName: cs8
+  sofRaceName: triglavian
+24812:
+  description: Triglavian owned (svarog) version of cs8
+  iconInfo:
+    folder: res:/dx9/model/station/caldari/cs8/icons
+  sofFactionName: triglaviansvarog_caldari
+  sofHullName: cs8
+  sofRaceName: triglavian
+24813:
+  description: Triglavian owned (convocation) version of gs1
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs1/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs1
+  sofRaceName: triglavian
+24814:
+  description: Triglavian owned (perun) version of gs1
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs1/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs1
+  sofRaceName: triglavian
+24815:
+  description: Triglavian owned (veles) version of gs1
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs1/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs1
+  sofRaceName: triglavian
+24816:
+  description: Triglavian owned (svarog) version of gs1
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs1/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs1
+  sofRaceName: triglavian
+24817:
+  description: Triglavian owned (convocation) version of gs2
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs2/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs2
+  sofRaceName: triglavian
+24818:
+  description: Triglavian owned (perun) version of gs2
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs2/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs2
+  sofRaceName: triglavian
+24819:
+  description: Triglavian owned (veles) version of gs2
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs2/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs2
+  sofRaceName: triglavian
+24820:
+  description: Triglavian owned (svarog) version of gs2
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs2/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs2
+  sofRaceName: triglavian
+24821:
+  description: Triglavian owned (convocation) version of gs3
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs3/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs3
+  sofRaceName: triglavian
+24822:
+  description: Triglavian owned (perun) version of gs3
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs3/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs3
+  sofRaceName: triglavian
+24823:
+  description: Triglavian owned (veles) version of gs3
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs3/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs3
+  sofRaceName: triglavian
+24824:
+  description: Triglavian owned (svarog) version of gs3
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs3/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs3
+  sofRaceName: triglavian
+24825:
+  description: Triglavian owned (convocation) version of gs5
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs5/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs5
+  sofRaceName: triglavian
+24826:
+  description: Triglavian owned (perun) version of gs5
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs5/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs5
+  sofRaceName: triglavian
+24827:
+  description: Triglavian owned (veles) version of gs5
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs5/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs5
+  sofRaceName: triglavian
+24828:
+  description: Triglavian owned (svarog) version of gs5
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs5/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs5
+  sofRaceName: triglavian
+24829:
+  description: Triglavian owned (convocation) version of gs6
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs6/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs6
+  sofRaceName: triglavian
+24830:
+  description: Triglavian owned (perun) version of gs6
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs6/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs6
+  sofRaceName: triglavian
+24831:
+  description: Triglavian owned (veles) version of gs6
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs6/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs6
+  sofRaceName: triglavian
+24832:
+  description: Triglavian owned (svarog) version of gs6
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs6/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs6
+  sofRaceName: triglavian
+24833:
+  description: Triglavian owned (convocation) version of gs7
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs7/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs7
+  sofRaceName: triglavian
+24834:
+  description: Triglavian owned (perun) version of gs7
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs7/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs7
+  sofRaceName: triglavian
+24835:
+  description: Triglavian owned (veles) version of gs7
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs7/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs7
+  sofRaceName: triglavian
+24836:
+  description: Triglavian owned (svarog) version of gs7
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs7/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs7
+  sofRaceName: triglavian
+24837:
+  description: Triglavian owned (convocation) version of gs8
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs8/icons
+  sofFactionName: triglavianconvocation_gallente
+  sofHullName: gs8
+  sofRaceName: triglavian
+24838:
+  description: Triglavian owned (perun) version of gs8
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs8/icons
+  sofFactionName: triglavianperun_gallente
+  sofHullName: gs8
+  sofRaceName: triglavian
+24839:
+  description: Triglavian owned (veles) version of gs8
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs8/icons
+  sofFactionName: triglavianveles_gallente
+  sofHullName: gs8
+  sofRaceName: triglavian
+24840:
+  description: Triglavian owned (svarog) version of gs8
+  iconInfo:
+    folder: res:/dx9/model/station/gallente/gs8/icons
+  sofFactionName: triglaviansvarog_gallente
+  sofHullName: gs8
+  sofRaceName: triglavian
+24841:
+  description: Triglavian owned (convocation) version of ms1
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms1/icons
+  sofFactionName: triglavianconvocation_minmatar
+  sofHullName: ms1
+  sofRaceName: triglavian
+24842:
+  description: Triglavian owned (perun) version of ms1
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms1/icons
+  sofFactionName: triglavianperun_minmatar
+  sofHullName: ms1
+  sofRaceName: triglavian
+24843:
+  description: Triglavian owned (veles) version of ms1
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms1/icons
+  sofFactionName: triglavianveles_minmatar
+  sofHullName: ms1
+  sofRaceName: triglavian
+24844:
+  description: Triglavian owned (svarog) version of ms1
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms1/icons
+  sofFactionName: triglaviansvarog_minmatar
+  sofHullName: ms1
+  sofRaceName: triglavian
+24845:
+  description: Triglavian owned (convocation) version of ms2
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms2/icons
+  sofFactionName: triglavianconvocation_minmatar
+  sofHullName: ms2
+  sofRaceName: triglavian
+24846:
+  description: Triglavian owned (perun) version of ms2
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms2/icons
+  sofFactionName: triglavianperun_minmatar
+  sofHullName: ms2
+  sofRaceName: triglavian
+24847:
+  description: Triglavian owned (veles) version of ms2
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms2/icons
+  sofFactionName: triglavianveles_minmatar
+  sofHullName: ms2
+  sofRaceName: triglavian
+24848:
+  description: Triglavian owned (svarog) version of ms2
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms2/icons
+  sofFactionName: triglaviansvarog_minmatar
+  sofHullName: ms2
+  sofRaceName: triglavian
+24849:
+  description: Triglavian owned (convocation) version of ms3
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms3/icons
+  sofFactionName: triglavianconvocation_minmatar
+  sofHullName: ms3
+  sofRaceName: triglavian
+24850:
+  description: Triglavian owned (perun) version of ms3
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms3/icons
+  sofFactionName: triglavianperun_minmatar
+  sofHullName: ms3
+  sofRaceName: triglavian
+24851:
+  description: Triglavian owned (veles) version of ms3
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms3/icons
+  sofFactionName: triglavianveles_minmatar
+  sofHullName: ms3
+  sofRaceName: triglavian
+24852:
+  description: Triglavian owned (svarog) version of ms3
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms3/icons
+  sofFactionName: triglaviansvarog_minmatar
+  sofHullName: ms3
+  sofRaceName: triglavian
+24853:
+  description: Triglavian owned (convocation) version of ms4
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms4/icons
+  sofFactionName: triglavianconvocation_minmatar
+  sofHullName: ms4
+  sofRaceName: triglavian
+24854:
+  description: Triglavian owned (perun) version of ms4
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms4/icons
+  sofFactionName: triglavianperun_minmatar
+  sofHullName: ms4
+  sofRaceName: triglavian
+24855:
+  description: Triglavian owned (veles) version of ms4
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms4/icons
+  sofFactionName: triglavianveles_minmatar
+  sofHullName: ms4
+  sofRaceName: triglavian
+24856:
+  description: Triglavian owned (svarog) version of ms4
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms4/icons
+  sofFactionName: triglaviansvarog_minmatar
+  sofHullName: ms4
+  sofRaceName: triglavian
+24857:
+  description: Triglavian owned (convocation) version of ms6
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms6/icons
+  sofFactionName: triglavianconvocation_minmatar
+  sofHullName: ms6
+  sofRaceName: triglavian
+24858:
+  description: Triglavian owned (perun) version of ms6
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms6/icons
+  sofFactionName: triglavianperun_minmatar
+  sofHullName: ms6
+  sofRaceName: triglavian
+24859:
+  description: Triglavian owned (veles) version of ms6
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms6/icons
+  sofFactionName: triglavianveles_minmatar
+  sofHullName: ms6
+  sofRaceName: triglavian
+24860:
+  description: Triglavian owned (svarog) version of ms6
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms6/icons
+  sofFactionName: triglaviansvarog_minmatar
+  sofHullName: ms6
+  sofRaceName: triglavian
+24861:
+  description: Triglavian owned (convocation) version of ms7
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms7/icons
+  sofFactionName: triglavianconvocation_minmatar
+  sofHullName: ms7
+  sofRaceName: triglavian
+24862:
+  description: Triglavian owned (perun) version of ms7
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms7/icons
+  sofFactionName: triglavianperun_minmatar
+  sofHullName: ms7
+  sofRaceName: triglavian
+24863:
+  description: Triglavian owned (veles) version of ms7
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms7/icons
+  sofFactionName: triglavianveles_minmatar
+  sofHullName: ms7
+  sofRaceName: triglavian
+24864:
+  description: Triglavian owned (svarog) version of ms7
+  iconInfo:
+    folder: res:/dx9/model/station/minmatar/ms7/icons
+  sofFactionName: triglaviansvarog_minmatar
+  sofHullName: ms7
+  sofRaceName: triglavian
+24889:
+  description: Deployable Corpse Tractor
+  iconInfo:
+    folder: res:/dx9/model/deployables/generic/autotractor/GAT01/icons
+  sofFactionName: bloodraider
+  sofHullName: gat01
+  sofRaceName: generic

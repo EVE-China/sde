@@ -8940,8 +8940,7 @@
     ru: Метауровень
     zh: 衍生等级
   highIsGood: true
-  iconID: 0
-  name: metaLevel
+  name: metaLevelOld
   published: true
   stackable: true
   unitID: 140
@@ -30282,7 +30281,7 @@
     ru: Повышение урона БЧ ракет
     zh: 导弹伤害加成
   highIsGood: true
-  iconID: 0
+  iconID: 1397
   name: siegeMissileDamageBonus
   published: true
   stackable: true
@@ -30809,7 +30808,7 @@
     ru: Сокращение времени цикла бортовых систем ремонта брони / накачки щитов
     zh: 装甲维修器/护盾回充增量器运转周期加成
   highIsGood: true
-  iconID: 0
+  iconID: 2104
   name: siegeLocalLogisticsDurationBonus
   published: true
   stackable: true
@@ -30829,7 +30828,7 @@
     ru: Повышение эффективности бортовых систем ремонта брони / накачки щитов
     zh: 装甲维修量/护盾回充增量加成
   highIsGood: true
-  iconID: 0
+  iconID: 2104
   name: siegeLocalLogisticsAmountBonus
   published: true
   stackable: true
@@ -37808,10 +37807,74 @@
   dataType: typeFloat
   defaultValue: 0.0
   displayNameID:
+    de: Bonus für Sondenstärke
     en: Probe Strength Bonus
+    fr: Bonus de puissance des sondes
+    ko: 프로브 강도 보너스
+    ru: Увеличение чувствительности зондов
     zh: 探针强度加成
   highIsGood: true
   name: scanProbeStrengthBonus
   published: true
   stackable: false
   unitID: 105
+3096:
+  attributeID: 3096
+  dataType: typeInteger
+  defaultValue: 0.0
+  highIsGood: false
+  name: locationListID
+  published: false
+  stackable: false
+3097:
+  attributeID: 3097
+  dataType: typeFloat
+  defaultValue: 1.0
+  highIsGood: false
+  name: lightYearDistanceMax
+  published: false
+  stackable: false
+3098:
+  attributeID: 3098
+  dataType: typeFloat
+  defaultValue: 0.0
+  highIsGood: false
+  name: armorRepairDurationBonus
+  published: false
+  stackable: false
+3099:
+  attributeID: 3099
+  dataType: typeFloat
+  defaultValue: 0.0
+  highIsGood: false
+  name: shieldBoosterDurationBonus
+  published: false
+  stackable: false
+3101:
+  attributeID: 3101
+  categoryID: 1
+  dataType: typeTypeId
+  defaultValue: 0.0
+  description: Describes which type of deed fits in this structure
+  displayNameID:
+    de: Quantumkern-Typ
+    en: Quantum Core Type
+    fr: Type de réacteur quantique
+    ko: 양자코어 종류
+    ru: Тип квантового ядра
+    zh: 量子芯类型
+  highIsGood: false
+  name: structureRequiresDeedType
+  published: true
+  stackable: false
+  unitID: 116
+3102:
+  attributeID: 3102
+  dataType: instanceBoolean
+  defaultValue: 0.0
+  description: when authored alongside the effectTractorBeamCan it will determine
+    if it only tractors corpses instead of wrecks and cans
+  highIsGood: false
+  name: onlyTractorCorpses
+  published: false
+  stackable: false

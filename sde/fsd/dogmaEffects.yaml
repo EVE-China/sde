@@ -68835,9 +68835,8 @@
   disallowAutoRepeat: false
   effectCategory: system
   effectID: 7237
-  effectName: "\tsystemWarpSpeed"
+  effectName: systemWarpSpeedBonus
   electronicChance: false
-  guid: ''
   isAssistance: false
   isOffensive: false
   isWarpSafe: false
@@ -70018,9 +70017,28 @@
   propulsionChance: false
   published: false
   rangeChance: false
-8075:
+8074:
   disallowAutoRepeat: false
   effectCategory: passive
+  effectID: 8074
+  effectName: shipBonusPC2maxRange
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationRequiredSkillModifier
+    modifiedAttributeID: 54
+    modifyingAttributeID: 2765
+    operation: postPercent
+    skillTypeID: 47871
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8075:
+  disallowAutoRepeat: false
+  effectCategory: system
   effectID: 8075
   effectName: systemHullEmResistance
   electronicChance: false
@@ -70038,7 +70056,7 @@
   rangeChance: false
 8076:
   disallowAutoRepeat: false
-  effectCategory: passive
+  effectCategory: system
   effectID: 8076
   effectName: systemHullThermalResistance
   electronicChance: false
@@ -70056,7 +70074,7 @@
   rangeChance: false
 8077:
   disallowAutoRepeat: false
-  effectCategory: passive
+  effectCategory: system
   effectID: 8077
   effectName: systemHullKineticResistance
   electronicChance: false
@@ -70074,7 +70092,7 @@
   rangeChance: false
 8078:
   disallowAutoRepeat: false
-  effectCategory: passive
+  effectCategory: system
   effectID: 8078
   effectName: systemHullExplosiveResistance
   electronicChance: false
@@ -70094,7 +70112,7 @@
   disallowAutoRepeat: false
   effectCategory: system
   effectID: 8079
-  effectName: systemVirusStrengthBonus
+  effectName: systemVirusCoherenceBonus
   electronicChance: false
   isAssistance: false
   isOffensive: false
@@ -70102,14 +70120,14 @@
   modifierInfo:
   - domain: shipID
     func: LocationRequiredSkillModifier
-    modifiedAttributeID: 1910
-    modifyingAttributeID: 1918
+    modifiedAttributeID: 1909
+    modifyingAttributeID: 1915
     operation: modAdd
     skillTypeID: 13278
   - domain: shipID
     func: LocationRequiredSkillModifier
-    modifiedAttributeID: 1910
-    modifyingAttributeID: 1918
+    modifiedAttributeID: 1909
+    modifyingAttributeID: 1915
     operation: modAdd
     skillTypeID: 21718
   propulsionChance: false
@@ -70117,13 +70135,186 @@
   rangeChance: false
 8080:
   disallowAutoRepeat: false
-  effectCategory: passive
+  effectCategory: system
   effectID: 8080
   effectName: systemProbeStrengthBonus
   electronicChance: false
   isAssistance: false
   isOffensive: false
   isWarpSafe: false
+  modifierInfo:
+  - domain: charID
+    func: OwnerRequiredSkillModifier
+    modifiedAttributeID: 1371
+    modifyingAttributeID: 3095
+    operation: postPercent
+    skillTypeID: 3412
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8081:
+  disallowAutoRepeat: false
+  effectCategory: system
+  effectID: 8081
+  effectName: systemDisallowCloaking
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: ItemModifier
+    modifiedAttributeID: 2454
+    modifyingAttributeID: 2454
+    operation: modAdd
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8082:
+  disallowAutoRepeat: false
+  effectCategory: system
+  effectID: 8082
+  effectName: systemScanResolutionBonus
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: ItemModifier
+    modifiedAttributeID: 564
+    modifyingAttributeID: 566
+    operation: postPercent
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8083:
+  disallowAutoRepeat: false
+  effectCategory: system
+  effectID: 8083
+  effectName: systemArmorRepairerDurationBonus
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationRequiredSkillModifier
+    modifiedAttributeID: 73
+    modifyingAttributeID: 3098
+    operation: postPercent
+    skillTypeID: 3393
+  - domain: shipID
+    func: LocationRequiredSkillModifier
+    modifiedAttributeID: 73
+    modifyingAttributeID: 3098
+    operation: postPercent
+    skillTypeID: 21803
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8084:
+  disallowAutoRepeat: false
+  effectCategory: system
+  effectID: 8084
+  effectName: systemShieldBoosterDurationBonus
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationRequiredSkillModifier
+    modifiedAttributeID: 73
+    modifyingAttributeID: 3099
+    operation: postPercent
+    skillTypeID: 3416
+  - domain: shipID
+    func: LocationRequiredSkillModifier
+    modifiedAttributeID: 73
+    modifyingAttributeID: 3099
+    operation: postPercent
+    skillTypeID: 21802
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8085:
+  disallowAutoRepeat: false
+  effectCategory: system
+  effectID: 8085
+  effectName: systemFighterExplosionRadius
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: charID
+    func: OwnerRequiredSkillModifier
+    modifiedAttributeID: 2234
+    modifyingAttributeID: 1967
+    operation: postMul
+    skillTypeID: 23069
+  - domain: charID
+    func: OwnerRequiredSkillModifier
+    modifiedAttributeID: 2125
+    modifyingAttributeID: 1967
+    operation: postMul
+    skillTypeID: 23069
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8088:
+  disallowAutoRepeat: false
+  dischargeAttributeID: 6
+  distribution: bubble
+  durationAttributeID: 51
+  effectCategory: target
+  effectID: 8088
+  effectName: EntityChainLightning
+  electronicChance: false
+  guid: effects.AttackMode
+  isAssistance: false
+  isOffensive: true
+  isWarpSafe: false
+  propulsionChance: false
+  published: false
+  rangeAttributeID: 54
+  rangeChance: false
+8091:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8091
+  effectName: shipBonusForceAuxiliaryG2CapBoosterStrength
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationGroupModifier
+    groupID: 87
+    modifiedAttributeID: 67
+    modifyingAttributeID: 2315
+    operation: postPercent
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8092:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8092
+  effectName: shipBonusForceAuxiliaryM2CapBoosterStrength
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationGroupModifier
+    groupID: 87
+    modifiedAttributeID: 67
+    modifyingAttributeID: 2318
+    operation: postPercent
   propulsionChance: false
   published: false
   rangeChance: false

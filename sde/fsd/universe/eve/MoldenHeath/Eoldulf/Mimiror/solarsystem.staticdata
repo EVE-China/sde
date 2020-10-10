@@ -936,12 +936,5 @@ stargates:
         - -4914831360.0
         - -337486356480.0
         typeID: 29633
-    50010655:
-        destination: 50010822
-        position:
-        - 1449042862080.0
-        - 189410795520.0
-        - 781821419520.0
-        typeID: 29633
 sunTypeID: 45041
 wormholeClassID: 8

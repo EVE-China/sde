@@ -1,47 +1,41 @@
 18:
   materials:
   - materialTypeID: 34
-    quantity: 107
-  - materialTypeID: 35
-    quantity: 213
+    quantity: 175
   - materialTypeID: 36
-    quantity: 107
+    quantity: 70
 19:
   materials:
   - materialTypeID: 34
-    quantity: 56000
-  - materialTypeID: 35
-    quantity: 12050
-  - materialTypeID: 36
-    quantity: 2100
+    quantity: 48000
   - materialTypeID: 37
-    quantity: 450
+    quantity: 1000
+  - materialTypeID: 38
+    quantity: 160
+  - materialTypeID: 39
+    quantity: 80
+  - materialTypeID: 40
+    quantity: 40
 20:
   materials:
-  - materialTypeID: 34
-    quantity: 134
   - materialTypeID: 36
-    quantity: 267
+    quantity: 60
   - materialTypeID: 37
-    quantity: 134
+    quantity: 120
 21:
   materials:
   - materialTypeID: 35
-    quantity: 1000
-  - materialTypeID: 37
-    quantity: 200
+    quantity: 450
   - materialTypeID: 38
-    quantity: 100
-  - materialTypeID: 39
-    quantity: 19
+    quantity: 120
 22:
   materials:
-  - materialTypeID: 34
-    quantity: 22000
+  - materialTypeID: 35
+    quantity: 3200
   - materialTypeID: 36
-    quantity: 2500
+    quantity: 1200
   - materialTypeID: 40
-    quantity: 320
+    quantity: 120
 29:
   materials:
   - materialTypeID: 34
@@ -2885,81 +2879,69 @@
 1223:
   materials:
   - materialTypeID: 35
-    quantity: 12000
+    quantity: 3200
+  - materialTypeID: 36
+    quantity: 1200
   - materialTypeID: 39
-    quantity: 450
-  - materialTypeID: 40
-    quantity: 100
+    quantity: 160
 1224:
   materials:
-  - materialTypeID: 34
-    quantity: 351
   - materialTypeID: 35
-    quantity: 25
+    quantity: 90
   - materialTypeID: 36
-    quantity: 50
-  - materialTypeID: 38
-    quantity: 5
+    quantity: 30
 1225:
   materials:
-  - materialTypeID: 34
-    quantity: 21000
+  - materialTypeID: 35
+    quantity: 800
+  - materialTypeID: 36
+    quantity: 2000
   - materialTypeID: 38
-    quantity: 760
-  - materialTypeID: 39
-    quantity: 135
+    quantity: 800
 1226:
   materials:
   - materialTypeID: 36
-    quantity: 350
+    quantity: 150
   - materialTypeID: 38
-    quantity: 75
-  - materialTypeID: 39
-    quantity: 8
+    quantity: 50
 1227:
   materials:
-  - materialTypeID: 34
-    quantity: 800
   - materialTypeID: 35
-    quantity: 100
+    quantity: 90
   - materialTypeID: 37
-    quantity: 85
+    quantity: 75
 1228:
   materials:
   - materialTypeID: 34
-    quantity: 346
+    quantity: 150
   - materialTypeID: 35
-    quantity: 173
+    quantity: 90
 1229:
   materials:
   - materialTypeID: 35
-    quantity: 2200
+    quantity: 2000
   - materialTypeID: 36
-    quantity: 2400
+    quantity: 1500
   - materialTypeID: 37
-    quantity: 300
+    quantity: 800
 1230:
   materials:
   - materialTypeID: 34
-    quantity: 415
+    quantity: 400
 1231:
   materials:
-  - materialTypeID: 34
-    quantity: 2200
   - materialTypeID: 37
-    quantity: 100
+    quantity: 240
   - materialTypeID: 38
-    quantity: 120
-  - materialTypeID: 39
-    quantity: 15
+    quantity: 90
 1232:
   materials:
-  - materialTypeID: 34
-    quantity: 10000
+  - materialTypeID: 36
+    quantity: 1360
   - materialTypeID: 37
-    quantity: 1600
+    quantity: 1200
   - materialTypeID: 38
-    quantity: 120
+    quantity: 320
 1236:
   materials:
   - materialTypeID: 34
@@ -19801,7 +19783,7 @@
 11396:
   materials:
   - materialTypeID: 11399
-    quantity: 300
+    quantity: 140
 11400:
   materials:
   - materialTypeID: 34
@@ -38166,216 +38148,184 @@
     quantity: 1
 17425:
   materials:
-  - materialTypeID: 34
-    quantity: 23100
+  - materialTypeID: 35
+    quantity: 3360
   - materialTypeID: 36
-    quantity: 2625
+    quantity: 1260
   - materialTypeID: 40
-    quantity: 336
+    quantity: 126
 17426:
   materials:
-  - materialTypeID: 34
-    quantity: 24200
+  - materialTypeID: 35
+    quantity: 3520
   - materialTypeID: 36
-    quantity: 2750
+    quantity: 1320
   - materialTypeID: 40
-    quantity: 352
+    quantity: 132
 17428:
   materials:
   - materialTypeID: 35
-    quantity: 12600
+    quantity: 3360
+  - materialTypeID: 36
+    quantity: 1260
   - materialTypeID: 39
-    quantity: 473
-  - materialTypeID: 40
-    quantity: 105
+    quantity: 168
 17429:
   materials:
   - materialTypeID: 35
-    quantity: 13200
+    quantity: 3520
+  - materialTypeID: 36
+    quantity: 1320
   - materialTypeID: 39
-    quantity: 495
-  - materialTypeID: 40
-    quantity: 110
+    quantity: 176
 17432:
   materials:
-  - materialTypeID: 34
-    quantity: 22050
+  - materialTypeID: 35
+    quantity: 840
+  - materialTypeID: 36
+    quantity: 2100
   - materialTypeID: 38
-    quantity: 798
-  - materialTypeID: 39
-    quantity: 142
+    quantity: 840
 17433:
   materials:
-  - materialTypeID: 34
-    quantity: 23100
+  - materialTypeID: 35
+    quantity: 880
+  - materialTypeID: 36
+    quantity: 2200
   - materialTypeID: 38
-    quantity: 836
-  - materialTypeID: 39
-    quantity: 149
+    quantity: 880
 17436:
   materials:
-  - materialTypeID: 34
-    quantity: 10500
+  - materialTypeID: 36
+    quantity: 1428
   - materialTypeID: 37
-    quantity: 1680
+    quantity: 1260
   - materialTypeID: 38
-    quantity: 126
+    quantity: 336
 17437:
   materials:
-  - materialTypeID: 34
-    quantity: 11000
+  - materialTypeID: 36
+    quantity: 1496
   - materialTypeID: 37
-    quantity: 1760
+    quantity: 1320
   - materialTypeID: 38
-    quantity: 132
+    quantity: 352
 17440:
   materials:
   - materialTypeID: 35
-    quantity: 1050
-  - materialTypeID: 37
-    quantity: 210
+    quantity: 473
   - materialTypeID: 38
-    quantity: 105
-  - materialTypeID: 39
-    quantity: 20
+    quantity: 126
 17441:
   materials:
   - materialTypeID: 35
-    quantity: 1100
-  - materialTypeID: 37
-    quantity: 220
-  - materialTypeID: 38
-    quantity: 110
-  - materialTypeID: 39
-    quantity: 21
-17444:
-  materials:
-  - materialTypeID: 34
-    quantity: 2310
-  - materialTypeID: 37
-    quantity: 105
-  - materialTypeID: 38
-    quantity: 126
-  - materialTypeID: 39
-    quantity: 16
-17445:
-  materials:
-  - materialTypeID: 34
-    quantity: 2420
-  - materialTypeID: 37
-    quantity: 110
+    quantity: 495
   - materialTypeID: 38
     quantity: 132
-  - materialTypeID: 39
-    quantity: 17
+17444:
+  materials:
+  - materialTypeID: 37
+    quantity: 252
+  - materialTypeID: 38
+    quantity: 95
+17445:
+  materials:
+  - materialTypeID: 37
+    quantity: 264
+  - materialTypeID: 38
+    quantity: 99
 17448:
   materials:
   - materialTypeID: 36
-    quantity: 368
+    quantity: 158
   - materialTypeID: 38
-    quantity: 79
-  - materialTypeID: 39
-    quantity: 8
+    quantity: 53
 17449:
   materials:
   - materialTypeID: 36
-    quantity: 385
+    quantity: 165
   - materialTypeID: 38
-    quantity: 83
-  - materialTypeID: 39
-    quantity: 9
+    quantity: 55
 17452:
   materials:
-  - materialTypeID: 34
-    quantity: 141
   - materialTypeID: 36
-    quantity: 281
+    quantity: 63
   - materialTypeID: 37
-    quantity: 141
+    quantity: 126
 17453:
   materials:
-  - materialTypeID: 34
-    quantity: 148
   - materialTypeID: 36
-    quantity: 294
+    quantity: 66
   - materialTypeID: 37
-    quantity: 148
+    quantity: 132
 17455:
   materials:
   - materialTypeID: 34
-    quantity: 113
-  - materialTypeID: 35
-    quantity: 224
+    quantity: 184
   - materialTypeID: 36
-    quantity: 113
+    quantity: 74
 17456:
   materials:
   - materialTypeID: 34
-    quantity: 118
-  - materialTypeID: 35
-    quantity: 235
+    quantity: 193
   - materialTypeID: 36
-    quantity: 118
+    quantity: 77
 17459:
   materials:
-  - materialTypeID: 34
-    quantity: 369
   - materialTypeID: 35
-    quantity: 26
+    quantity: 95
   - materialTypeID: 36
-    quantity: 53
-  - materialTypeID: 38
-    quantity: 5
+    quantity: 32
 17460:
   materials:
-  - materialTypeID: 34
-    quantity: 387
   - materialTypeID: 35
-    quantity: 27
+    quantity: 99
   - materialTypeID: 36
-    quantity: 55
-  - materialTypeID: 38
-    quantity: 5
+    quantity: 33
 17463:
   materials:
   - materialTypeID: 34
-    quantity: 364
+    quantity: 158
   - materialTypeID: 35
-    quantity: 182
+    quantity: 95
 17464:
   materials:
   - materialTypeID: 34
-    quantity: 381
+    quantity: 165
   - materialTypeID: 35
-    quantity: 190
+    quantity: 99
 17466:
   materials:
   - materialTypeID: 34
-    quantity: 58800
-  - materialTypeID: 35
-    quantity: 12653
-  - materialTypeID: 36
-    quantity: 2205
+    quantity: 50400
   - materialTypeID: 37
-    quantity: 473
+    quantity: 1050
+  - materialTypeID: 38
+    quantity: 168
+  - materialTypeID: 39
+    quantity: 84
+  - materialTypeID: 40
+    quantity: 42
 17467:
   materials:
   - materialTypeID: 34
-    quantity: 61600
-  - materialTypeID: 35
-    quantity: 13255
-  - materialTypeID: 36
-    quantity: 2310
+    quantity: 52800
   - materialTypeID: 37
-    quantity: 495
+    quantity: 1100
+  - materialTypeID: 38
+    quantity: 176
+  - materialTypeID: 39
+    quantity: 88
+  - materialTypeID: 40
+    quantity: 44
 17470:
   materials:
   - materialTypeID: 34
-    quantity: 436
+    quantity: 420
 17471:
   materials:
   - materialTypeID: 34
-    quantity: 457
+    quantity: 440
 17476:
   materials:
   - materialTypeID: 34
@@ -39709,43 +39659,39 @@
 17865:
   materials:
   - materialTypeID: 35
-    quantity: 2310
+    quantity: 2100
   - materialTypeID: 36
-    quantity: 2520
+    quantity: 1575
   - materialTypeID: 37
-    quantity: 315
+    quantity: 840
 17866:
   materials:
   - materialTypeID: 35
-    quantity: 2420
+    quantity: 2200
   - materialTypeID: 36
-    quantity: 2640
+    quantity: 1650
   - materialTypeID: 37
-    quantity: 330
+    quantity: 880
 17867:
   materials:
-  - materialTypeID: 34
-    quantity: 840
   - materialTypeID: 35
-    quantity: 105
+    quantity: 95
   - materialTypeID: 37
-    quantity: 90
+    quantity: 79
 17868:
   materials:
-  - materialTypeID: 34
-    quantity: 880
   - materialTypeID: 35
-    quantity: 110
+    quantity: 99
   - materialTypeID: 37
-    quantity: 94
+    quantity: 83
 17869:
   materials:
   - materialTypeID: 11399
-    quantity: 315
+    quantity: 147
 17870:
   materials:
   - materialTypeID: 11399
-    quantity: 330
+    quantity: 154
 17871:
   materials:
   - materialTypeID: 38
@@ -59090,7 +59036,7 @@
     quantity: 2
 26713:
   materials:
-  - materialTypeID: 34
+  - materialTypeID: 35
     quantity: 1
   - materialTypeID: 36
     quantity: 1
@@ -59148,28 +59094,22 @@
     quantity: 36
 26851:
   materials:
-  - materialTypeID: 34
+  - materialTypeID: 35
     quantity: 5
   - materialTypeID: 38
     quantity: 1
 26852:
   materials:
-  - materialTypeID: 34
+  - materialTypeID: 35
     quantity: 10
-  - materialTypeID: 39
+  - materialTypeID: 40
     quantity: 2
 26868:
   materials:
-  - materialTypeID: 34
-    quantity: 2
-  - materialTypeID: 35
-    quantity: 2
   - materialTypeID: 36
     quantity: 1
   - materialTypeID: 38
     quantity: 2
-  - materialTypeID: 39
-    quantity: 1
 26869:
   materials:
   - materialTypeID: 34
@@ -68200,12 +68140,12 @@
     quantity: 17
 28367:
   materials:
-  - materialTypeID: 34
-    quantity: 22000
+  - materialTypeID: 35
+    quantity: 3200
   - materialTypeID: 36
-    quantity: 2500
+    quantity: 1200
   - materialTypeID: 40
-    quantity: 320
+    quantity: 120
 28369:
   materials:
   - materialTypeID: 34
@@ -68272,374 +68212,320 @@
     quantity: 4
 28385:
   materials:
-  - materialTypeID: 34
-    quantity: 23100
+  - materialTypeID: 35
+    quantity: 3360
   - materialTypeID: 36
-    quantity: 2625
+    quantity: 1260
   - materialTypeID: 40
-    quantity: 336
+    quantity: 126
 28387:
   materials:
-  - materialTypeID: 34
-    quantity: 24200
+  - materialTypeID: 35
+    quantity: 3520
   - materialTypeID: 36
-    quantity: 2750
+    quantity: 1320
   - materialTypeID: 40
-    quantity: 352
+    quantity: 132
 28388:
   materials:
   - materialTypeID: 35
-    quantity: 12000
+    quantity: 3200
+  - materialTypeID: 36
+    quantity: 1200
   - materialTypeID: 39
-    quantity: 450
-  - materialTypeID: 40
-    quantity: 100
+    quantity: 160
 28389:
   materials:
   - materialTypeID: 35
-    quantity: 13200
+    quantity: 3520
+  - materialTypeID: 36
+    quantity: 1320
   - materialTypeID: 39
-    quantity: 495
-  - materialTypeID: 40
-    quantity: 110
+    quantity: 176
 28390:
   materials:
   - materialTypeID: 35
-    quantity: 12600
+    quantity: 3360
+  - materialTypeID: 36
+    quantity: 1260
   - materialTypeID: 39
-    quantity: 473
-  - materialTypeID: 40
-    quantity: 105
+    quantity: 168
 28391:
   materials:
-  - materialTypeID: 34
-    quantity: 21000
+  - materialTypeID: 35
+    quantity: 800
+  - materialTypeID: 36
+    quantity: 2000
   - materialTypeID: 38
-    quantity: 760
-  - materialTypeID: 39
-    quantity: 135
+    quantity: 800
 28392:
   materials:
-  - materialTypeID: 34
-    quantity: 23100
+  - materialTypeID: 35
+    quantity: 880
+  - materialTypeID: 36
+    quantity: 2200
   - materialTypeID: 38
-    quantity: 836
-  - materialTypeID: 39
-    quantity: 149
+    quantity: 880
 28393:
   materials:
-  - materialTypeID: 34
-    quantity: 22050
+  - materialTypeID: 35
+    quantity: 840
+  - materialTypeID: 36
+    quantity: 2100
   - materialTypeID: 38
-    quantity: 798
-  - materialTypeID: 39
-    quantity: 142
+    quantity: 840
 28394:
   materials:
-  - materialTypeID: 34
-    quantity: 10000
+  - materialTypeID: 36
+    quantity: 1360
   - materialTypeID: 37
-    quantity: 1600
+    quantity: 1200
   - materialTypeID: 38
-    quantity: 120
+    quantity: 320
 28395:
   materials:
-  - materialTypeID: 34
-    quantity: 11000
+  - materialTypeID: 36
+    quantity: 1496
   - materialTypeID: 37
-    quantity: 1760
+    quantity: 1320
   - materialTypeID: 38
-    quantity: 132
+    quantity: 352
 28396:
   materials:
-  - materialTypeID: 34
-    quantity: 10500
+  - materialTypeID: 36
+    quantity: 1428
   - materialTypeID: 37
-    quantity: 1680
+    quantity: 1260
   - materialTypeID: 38
-    quantity: 126
+    quantity: 336
 28397:
   materials:
   - materialTypeID: 35
-    quantity: 2200
+    quantity: 2000
   - materialTypeID: 36
-    quantity: 2400
+    quantity: 1500
   - materialTypeID: 37
-    quantity: 300
+    quantity: 800
 28398:
   materials:
   - materialTypeID: 35
-    quantity: 2310
+    quantity: 2100
   - materialTypeID: 36
-    quantity: 2520
+    quantity: 1575
   - materialTypeID: 37
-    quantity: 315
+    quantity: 840
 28399:
   materials:
   - materialTypeID: 35
-    quantity: 2420
+    quantity: 2200
   - materialTypeID: 36
-    quantity: 2640
+    quantity: 1650
   - materialTypeID: 37
-    quantity: 330
+    quantity: 880
 28400:
   materials:
   - materialTypeID: 35
-    quantity: 1100
-  - materialTypeID: 37
-    quantity: 220
+    quantity: 495
   - materialTypeID: 38
-    quantity: 110
-  - materialTypeID: 39
-    quantity: 21
+    quantity: 132
 28401:
   materials:
   - materialTypeID: 35
-    quantity: 1000
-  - materialTypeID: 37
-    quantity: 200
+    quantity: 450
   - materialTypeID: 38
-    quantity: 100
-  - materialTypeID: 39
-    quantity: 19
+    quantity: 120
 28402:
   materials:
   - materialTypeID: 35
-    quantity: 1050
-  - materialTypeID: 37
-    quantity: 210
-  - materialTypeID: 38
-    quantity: 105
-  - materialTypeID: 39
-    quantity: 20
-28403:
-  materials:
-  - materialTypeID: 34
-    quantity: 2200
-  - materialTypeID: 37
-    quantity: 100
-  - materialTypeID: 38
-    quantity: 120
-  - materialTypeID: 39
-    quantity: 15
-28404:
-  materials:
-  - materialTypeID: 34
-    quantity: 2420
-  - materialTypeID: 37
-    quantity: 110
-  - materialTypeID: 38
-    quantity: 132
-  - materialTypeID: 39
-    quantity: 17
-28405:
-  materials:
-  - materialTypeID: 34
-    quantity: 2310
-  - materialTypeID: 37
-    quantity: 105
+    quantity: 473
   - materialTypeID: 38
     quantity: 126
-  - materialTypeID: 39
-    quantity: 16
+28403:
+  materials:
+  - materialTypeID: 37
+    quantity: 240
+  - materialTypeID: 38
+    quantity: 90
+28404:
+  materials:
+  - materialTypeID: 37
+    quantity: 264
+  - materialTypeID: 38
+    quantity: 99
+28405:
+  materials:
+  - materialTypeID: 37
+    quantity: 252
+  - materialTypeID: 38
+    quantity: 95
 28406:
   materials:
   - materialTypeID: 36
-    quantity: 350
+    quantity: 150
   - materialTypeID: 38
-    quantity: 75
-  - materialTypeID: 39
-    quantity: 8
+    quantity: 50
 28407:
   materials:
   - materialTypeID: 36
-    quantity: 385
+    quantity: 165
   - materialTypeID: 38
-    quantity: 83
-  - materialTypeID: 39
-    quantity: 9
+    quantity: 55
 28408:
   materials:
   - materialTypeID: 36
-    quantity: 368
+    quantity: 158
   - materialTypeID: 38
-    quantity: 79
-  - materialTypeID: 39
-    quantity: 8
+    quantity: 53
 28409:
   materials:
-  - materialTypeID: 34
-    quantity: 148
   - materialTypeID: 36
-    quantity: 294
+    quantity: 66
   - materialTypeID: 37
-    quantity: 148
+    quantity: 132
 28410:
   materials:
-  - materialTypeID: 34
-    quantity: 134
   - materialTypeID: 36
-    quantity: 267
+    quantity: 60
   - materialTypeID: 37
-    quantity: 134
+    quantity: 120
 28411:
   materials:
-  - materialTypeID: 34
-    quantity: 141
   - materialTypeID: 36
-    quantity: 281
+    quantity: 63
   - materialTypeID: 37
-    quantity: 141
+    quantity: 126
 28412:
   materials:
   - materialTypeID: 11399
-    quantity: 315
+    quantity: 147
 28413:
   materials:
   - materialTypeID: 11399
-    quantity: 300
+    quantity: 140
 28414:
   materials:
   - materialTypeID: 11399
-    quantity: 330
+    quantity: 154
 28415:
   materials:
-  - materialTypeID: 34
-    quantity: 880
   - materialTypeID: 35
-    quantity: 110
+    quantity: 99
   - materialTypeID: 37
-    quantity: 94
+    quantity: 83
 28416:
   materials:
-  - materialTypeID: 34
-    quantity: 800
   - materialTypeID: 35
-    quantity: 100
+    quantity: 90
   - materialTypeID: 37
-    quantity: 85
+    quantity: 75
 28417:
   materials:
-  - materialTypeID: 34
-    quantity: 840
   - materialTypeID: 35
-    quantity: 105
+    quantity: 95
   - materialTypeID: 37
-    quantity: 90
+    quantity: 79
 28418:
   materials:
   - materialTypeID: 34
-    quantity: 58800
-  - materialTypeID: 35
-    quantity: 12653
-  - materialTypeID: 36
-    quantity: 2205
+    quantity: 50400
   - materialTypeID: 37
-    quantity: 473
+    quantity: 1050
+  - materialTypeID: 38
+    quantity: 168
+  - materialTypeID: 39
+    quantity: 84
+  - materialTypeID: 40
+    quantity: 42
 28419:
   materials:
   - materialTypeID: 34
-    quantity: 61600
-  - materialTypeID: 35
-    quantity: 13255
-  - materialTypeID: 36
-    quantity: 2310
+    quantity: 52800
   - materialTypeID: 37
-    quantity: 495
+    quantity: 1100
+  - materialTypeID: 38
+    quantity: 176
+  - materialTypeID: 39
+    quantity: 88
+  - materialTypeID: 40
+    quantity: 44
 28420:
   materials:
   - materialTypeID: 34
-    quantity: 56000
-  - materialTypeID: 35
-    quantity: 12050
-  - materialTypeID: 36
-    quantity: 2100
+    quantity: 48000
   - materialTypeID: 37
-    quantity: 450
+    quantity: 1000
+  - materialTypeID: 38
+    quantity: 160
+  - materialTypeID: 39
+    quantity: 80
+  - materialTypeID: 40
+    quantity: 40
 28421:
   materials:
   - materialTypeID: 34
-    quantity: 113
-  - materialTypeID: 35
-    quantity: 224
+    quantity: 184
   - materialTypeID: 36
-    quantity: 113
+    quantity: 74
 28422:
   materials:
   - materialTypeID: 34
-    quantity: 107
-  - materialTypeID: 35
-    quantity: 213
+    quantity: 175
   - materialTypeID: 36
-    quantity: 107
+    quantity: 70
 28423:
   materials:
   - materialTypeID: 34
-    quantity: 118
-  - materialTypeID: 35
-    quantity: 235
+    quantity: 193
   - materialTypeID: 36
-    quantity: 118
+    quantity: 77
 28424:
   materials:
-  - materialTypeID: 34
-    quantity: 351
   - materialTypeID: 35
-    quantity: 25
+    quantity: 90
   - materialTypeID: 36
-    quantity: 50
-  - materialTypeID: 38
-    quantity: 5
+    quantity: 30
 28425:
   materials:
-  - materialTypeID: 34
-    quantity: 369
   - materialTypeID: 35
-    quantity: 26
+    quantity: 95
   - materialTypeID: 36
-    quantity: 53
-  - materialTypeID: 38
-    quantity: 5
+    quantity: 32
 28426:
   materials:
-  - materialTypeID: 34
-    quantity: 387
   - materialTypeID: 35
-    quantity: 27
+    quantity: 99
   - materialTypeID: 36
-    quantity: 55
-  - materialTypeID: 38
-    quantity: 5
+    quantity: 33
 28427:
   materials:
   - materialTypeID: 34
-    quantity: 364
+    quantity: 158
   - materialTypeID: 35
-    quantity: 182
+    quantity: 95
 28428:
   materials:
   - materialTypeID: 34
-    quantity: 381
+    quantity: 165
   - materialTypeID: 35
-    quantity: 190
+    quantity: 99
 28429:
   materials:
   - materialTypeID: 34
-    quantity: 346
+    quantity: 150
   - materialTypeID: 35
-    quantity: 173
+    quantity: 90
 28430:
   materials:
   - materialTypeID: 34
-    quantity: 436
+    quantity: 420
 28431:
   materials:
   - materialTypeID: 34
-    quantity: 457
+    quantity: 440
 28432:
   materials:
   - materialTypeID: 34
-    quantity: 415
+    quantity: 400
 28433:
   materials:
   - materialTypeID: 16272
@@ -99922,248 +99808,212 @@
     quantity: 30
 46675:
   materials:
-  - materialTypeID: 34
-    quantity: 11500
+  - materialTypeID: 36
+    quantity: 1564
   - materialTypeID: 37
-    quantity: 1840
+    quantity: 1380
   - materialTypeID: 38
-    quantity: 138
+    quantity: 368
 46676:
   materials:
   - materialTypeID: 35
-    quantity: 13800
+    quantity: 3680
+  - materialTypeID: 36
+    quantity: 1380
   - materialTypeID: 39
-    quantity: 518
-  - materialTypeID: 40
-    quantity: 115
+    quantity: 184
 46677:
   materials:
-  - materialTypeID: 34
-    quantity: 24150
+  - materialTypeID: 35
+    quantity: 920
+  - materialTypeID: 36
+    quantity: 2300
   - materialTypeID: 38
-    quantity: 874
-  - materialTypeID: 39
-    quantity: 155
+    quantity: 920
 46678:
   materials:
-  - materialTypeID: 34
-    quantity: 25300
+  - materialTypeID: 35
+    quantity: 3680
   - materialTypeID: 36
-    quantity: 2875
+    quantity: 1380
   - materialTypeID: 40
-    quantity: 368
+    quantity: 138
 46679:
   materials:
   - materialTypeID: 35
-    quantity: 2530
+    quantity: 2300
   - materialTypeID: 36
-    quantity: 2760
+    quantity: 1725
   - materialTypeID: 37
-    quantity: 345
+    quantity: 920
 46680:
   materials:
   - materialTypeID: 35
-    quantity: 1150
-  - materialTypeID: 37
-    quantity: 230
-  - materialTypeID: 38
-    quantity: 115
-  - materialTypeID: 39
-    quantity: 22
-46681:
-  materials:
-  - materialTypeID: 34
-    quantity: 2530
-  - materialTypeID: 37
-    quantity: 115
+    quantity: 518
   - materialTypeID: 38
     quantity: 138
-  - materialTypeID: 39
-    quantity: 17
+46681:
+  materials:
+  - materialTypeID: 37
+    quantity: 276
+  - materialTypeID: 38
+    quantity: 104
 46682:
   materials:
   - materialTypeID: 36
-    quantity: 403
+    quantity: 173
   - materialTypeID: 38
-    quantity: 86
-  - materialTypeID: 39
-    quantity: 9
+    quantity: 58
 46683:
   materials:
-  - materialTypeID: 34
-    quantity: 154
   - materialTypeID: 36
-    quantity: 307
+    quantity: 69
   - materialTypeID: 37
-    quantity: 154
+    quantity: 138
 46684:
   materials:
-  - materialTypeID: 34
-    quantity: 920
   - materialTypeID: 35
-    quantity: 115
+    quantity: 104
   - materialTypeID: 37
-    quantity: 98
+    quantity: 86
 46685:
   materials:
   - materialTypeID: 34
-    quantity: 123
-  - materialTypeID: 35
-    quantity: 245
+    quantity: 201
   - materialTypeID: 36
-    quantity: 123
+    quantity: 81
 46686:
   materials:
-  - materialTypeID: 34
-    quantity: 404
   - materialTypeID: 35
-    quantity: 29
+    quantity: 104
   - materialTypeID: 36
-    quantity: 58
-  - materialTypeID: 38
-    quantity: 6
+    quantity: 35
 46687:
   materials:
   - materialTypeID: 34
-    quantity: 398
+    quantity: 173
   - materialTypeID: 35
-    quantity: 199
+    quantity: 104
 46688:
   materials:
   - materialTypeID: 34
-    quantity: 64400
-  - materialTypeID: 35
-    quantity: 13858
-  - materialTypeID: 36
-    quantity: 2415
+    quantity: 55200
   - materialTypeID: 37
-    quantity: 518
+    quantity: 1150
+  - materialTypeID: 38
+    quantity: 184
+  - materialTypeID: 39
+    quantity: 92
+  - materialTypeID: 40
+    quantity: 46
 46689:
   materials:
   - materialTypeID: 34
-    quantity: 477
+    quantity: 460
 46691:
   materials:
-  - materialTypeID: 34
-    quantity: 25300
+  - materialTypeID: 35
+    quantity: 3680
   - materialTypeID: 36
-    quantity: 2875
+    quantity: 1380
   - materialTypeID: 40
-    quantity: 368
+    quantity: 138
 46692:
   materials:
   - materialTypeID: 35
-    quantity: 13800
+    quantity: 3680
+  - materialTypeID: 36
+    quantity: 1380
   - materialTypeID: 39
-    quantity: 518
-  - materialTypeID: 40
-    quantity: 115
+    quantity: 184
 46693:
   materials:
-  - materialTypeID: 34
-    quantity: 24150
+  - materialTypeID: 35
+    quantity: 920
+  - materialTypeID: 36
+    quantity: 2300
   - materialTypeID: 38
-    quantity: 874
-  - materialTypeID: 39
-    quantity: 155
+    quantity: 920
 46694:
   materials:
-  - materialTypeID: 34
-    quantity: 11500
+  - materialTypeID: 36
+    quantity: 1564
   - materialTypeID: 37
-    quantity: 1840
+    quantity: 1380
   - materialTypeID: 38
-    quantity: 138
+    quantity: 368
 46695:
   materials:
   - materialTypeID: 35
-    quantity: 2530
+    quantity: 2300
   - materialTypeID: 36
-    quantity: 2760
+    quantity: 1725
   - materialTypeID: 37
-    quantity: 345
+    quantity: 920
 46696:
   materials:
   - materialTypeID: 35
-    quantity: 1150
-  - materialTypeID: 37
-    quantity: 230
-  - materialTypeID: 38
-    quantity: 115
-  - materialTypeID: 39
-    quantity: 22
-46697:
-  materials:
-  - materialTypeID: 34
-    quantity: 2530
-  - materialTypeID: 37
-    quantity: 115
+    quantity: 518
   - materialTypeID: 38
     quantity: 138
-  - materialTypeID: 39
-    quantity: 17
+46697:
+  materials:
+  - materialTypeID: 37
+    quantity: 276
+  - materialTypeID: 38
+    quantity: 104
 46698:
   materials:
   - materialTypeID: 36
-    quantity: 403
+    quantity: 173
   - materialTypeID: 38
-    quantity: 86
-  - materialTypeID: 39
-    quantity: 9
+    quantity: 58
 46699:
   materials:
-  - materialTypeID: 34
-    quantity: 154
   - materialTypeID: 36
-    quantity: 307
+    quantity: 69
   - materialTypeID: 37
-    quantity: 154
+    quantity: 138
 46700:
   materials:
-  - materialTypeID: 34
-    quantity: 920
   - materialTypeID: 35
-    quantity: 115
+    quantity: 104
   - materialTypeID: 37
-    quantity: 98
+    quantity: 86
 46701:
   materials:
   - materialTypeID: 34
-    quantity: 123
-  - materialTypeID: 35
-    quantity: 245
+    quantity: 201
   - materialTypeID: 36
-    quantity: 123
+    quantity: 81
 46702:
   materials:
-  - materialTypeID: 34
-    quantity: 404
   - materialTypeID: 35
-    quantity: 29
+    quantity: 104
   - materialTypeID: 36
-    quantity: 58
-  - materialTypeID: 38
-    quantity: 6
+    quantity: 35
 46703:
   materials:
   - materialTypeID: 34
-    quantity: 398
+    quantity: 173
   - materialTypeID: 35
-    quantity: 199
+    quantity: 104
 46704:
   materials:
   - materialTypeID: 34
-    quantity: 64400
-  - materialTypeID: 35
-    quantity: 13858
-  - materialTypeID: 36
-    quantity: 2415
+    quantity: 55200
   - materialTypeID: 37
-    quantity: 518
+    quantity: 1150
+  - materialTypeID: 38
+    quantity: 184
+  - materialTypeID: 39
+    quantity: 92
+  - materialTypeID: 40
+    quantity: 46
 46705:
   materials:
   - materialTypeID: 34
-    quantity: 477
+    quantity: 460
 47016:
   materials:
   - materialTypeID: 48927
@@ -103765,43 +103615,27 @@
 52306:
   materials:
   - materialTypeID: 34
-    quantity: 12600
+    quantity: 40000
   - materialTypeID: 38
-    quantity: 456
-  - materialTypeID: 39
-    quantity: 81
+    quantity: 960
   - materialTypeID: 40
-    quantity: 13
+    quantity: 32
 52315:
   materials:
   - materialTypeID: 34
-    quantity: 2200
-  - materialTypeID: 35
-    quantity: 7200
-  - materialTypeID: 36
-    quantity: 855
-  - materialTypeID: 38
-    quantity: 450
+    quantity: 40000
+  - materialTypeID: 37
+    quantity: 3200
   - materialTypeID: 39
-    quantity: 270
-  - materialTypeID: 40
-    quantity: 83
-  - materialTypeID: 11399
-    quantity: 2
+    quantity: 200
 52316:
   materials:
   - materialTypeID: 34
-    quantity: 13200
-  - materialTypeID: 35
-    quantity: 2200
-  - materialTypeID: 36
-    quantity: 3780
+    quantity: 40000
   - materialTypeID: 37
-    quantity: 1100
+    quantity: 4800
   - materialTypeID: 40
-    quantity: 185
-  - materialTypeID: 11399
-    quantity: 10
+    quantity: 128
 52476:
   materials:
   - materialTypeID: 34
@@ -106196,3 +106030,249 @@
     quantity: 3
   - materialTypeID: 23169
     quantity: 1
+56303:
+  materials:
+  - materialTypeID: 34
+    quantity: 173514
+  - materialTypeID: 35
+    quantity: 54669
+  - materialTypeID: 36
+    quantity: 64657
+  - materialTypeID: 37
+    quantity: 79259
+  - materialTypeID: 38
+    quantity: 6071
+  - materialTypeID: 39
+    quantity: 6203
+  - materialTypeID: 40
+    quantity: 1998
+56304:
+  materials:
+  - materialTypeID: 34
+    quantity: 294855
+  - materialTypeID: 35
+    quantity: 103894
+  - materialTypeID: 36
+    quantity: 84905
+  - materialTypeID: 37
+    quantity: 64525
+  - materialTypeID: 38
+    quantity: 3533
+  - materialTypeID: 39
+    quantity: 8273
+  - materialTypeID: 40
+    quantity: 1500
+56305:
+  materials:
+  - materialTypeID: 34
+    quantity: 1313168
+  - materialTypeID: 35
+    quantity: 430794
+  - materialTypeID: 36
+    quantity: 135255
+  - materialTypeID: 37
+    quantity: 31628
+  - materialTypeID: 38
+    quantity: 5480
+  - materialTypeID: 39
+    quantity: 1748
+  - materialTypeID: 40
+    quantity: 1146
+56306:
+  materials:
+  - materialTypeID: 34
+    quantity: 2350704
+  - materialTypeID: 35
+    quantity: 640058
+  - materialTypeID: 36
+    quantity: 219718
+  - materialTypeID: 37
+    quantity: 50538
+  - materialTypeID: 38
+    quantity: 12686
+  - materialTypeID: 39
+    quantity: 2739
+  - materialTypeID: 40
+    quantity: 2469
+56307:
+  materials:
+  - materialTypeID: 34
+    quantity: 3427873
+  - materialTypeID: 35
+    quantity: 828117
+  - materialTypeID: 36
+    quantity: 314957
+  - materialTypeID: 37
+    quantity: 52033
+  - materialTypeID: 38
+    quantity: 15823
+  - materialTypeID: 39
+    quantity: 4534
+  - materialTypeID: 40
+    quantity: 2266
+56308:
+  materials:
+  - materialTypeID: 34
+    quantity: 1057824
+  - materialTypeID: 35
+    quantity: 477063
+  - materialTypeID: 36
+    quantity: 90903
+  - materialTypeID: 37
+    quantity: 63985
+  - materialTypeID: 38
+    quantity: 15573
+  - materialTypeID: 39
+    quantity: 4731
+  - materialTypeID: 40
+    quantity: 5001
+56309:
+  materials:
+  - materialTypeID: 34
+    quantity: 3826117
+  - materialTypeID: 35
+    quantity: 828100
+  - materialTypeID: 36
+    quantity: 342157
+  - materialTypeID: 37
+    quantity: 56183
+  - materialTypeID: 38
+    quantity: 16433
+  - materialTypeID: 39
+    quantity: 5466
+  - materialTypeID: 40
+    quantity: 2500
+56310:
+  materials:
+  - materialTypeID: 34
+    quantity: 834277
+  - materialTypeID: 35
+    quantity: 611423
+  - materialTypeID: 36
+    quantity: 116778
+  - materialTypeID: 37
+    quantity: 72656
+  - materialTypeID: 38
+    quantity: 12230
+  - materialTypeID: 39
+    quantity: 4977
+  - materialTypeID: 40
+    quantity: 6341
+56311:
+  materials:
+  - materialTypeID: 34
+    quantity: 1561988
+  - materialTypeID: 35
+    quantity: 290003
+  - materialTypeID: 36
+    quantity: 39184
+  - materialTypeID: 37
+    quantity: 56066
+  - materialTypeID: 40
+    quantity: 5117
+56312:
+  materials:
+  - materialTypeID: 34
+    quantity: 133740
+  - materialTypeID: 35
+    quantity: 44580
+  - materialTypeID: 36
+    quantity: 32692
+  - materialTypeID: 37
+    quantity: 17832
+  - materialTypeID: 39
+    quantity: 17000
+  - materialTypeID: 40
+    quantity: 3360
+56313:
+  materials:
+  - materialTypeID: 34
+    quantity: 3427873
+  - materialTypeID: 35
+    quantity: 828117
+  - materialTypeID: 36
+    quantity: 314957
+  - materialTypeID: 37
+    quantity: 52033
+  - materialTypeID: 38
+    quantity: 15823
+  - materialTypeID: 39
+    quantity: 4534
+  - materialTypeID: 40
+    quantity: 2266
+56362:
+  materials: []
+56625:
+  materials:
+  - materialTypeID: 34
+    quantity: 42000
+  - materialTypeID: 38
+    quantity: 1008
+  - materialTypeID: 40
+    quantity: 34
+56626:
+  materials:
+  - materialTypeID: 34
+    quantity: 44000
+  - materialTypeID: 38
+    quantity: 1056
+  - materialTypeID: 40
+    quantity: 35
+56627:
+  materials:
+  - materialTypeID: 34
+    quantity: 42000
+  - materialTypeID: 37
+    quantity: 5040
+  - materialTypeID: 40
+    quantity: 134
+56628:
+  materials:
+  - materialTypeID: 34
+    quantity: 44000
+  - materialTypeID: 37
+    quantity: 5280
+  - materialTypeID: 40
+    quantity: 141
+56629:
+  materials:
+  - materialTypeID: 34
+    quantity: 42000
+  - materialTypeID: 37
+    quantity: 3360
+  - materialTypeID: 39
+    quantity: 210
+56630:
+  materials:
+  - materialTypeID: 34
+    quantity: 44000
+  - materialTypeID: 37
+    quantity: 3520
+  - materialTypeID: 39
+    quantity: 220
+56699:
+  materials: []
+56700:
+  materials: []
+56701:
+  materials:
+  - materialTypeID: 34
+    quantity: 27778
+  - materialTypeID: 35
+    quantity: 12222
+  - materialTypeID: 36
+    quantity: 10000
+  - materialTypeID: 37
+    quantity: 2778
+  - materialTypeID: 38
+    quantity: 389
+  - materialTypeID: 39
+    quantity: 1112
+  - materialTypeID: 40
+    quantity: 88
+  - materialTypeID: 2870
+    quantity: 2
+  - materialTypeID: 2876
+    quantity: 1
+  - materialTypeID: 17136
+    quantity: 2

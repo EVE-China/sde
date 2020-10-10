@@ -182,6 +182,19 @@
       в пространстве Калдари. Корпорация установила широчайшие торговые связи, и в
       еe постоянном обороте находится огромное количество товаров.
     zh: CBD社团是加达里空间最大的出口/进口商。该社团广泛建立贸易联系，始终维持大量货物的流通。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008500
+      size: 37
+    23:
+      divisionNumber: 2
+      leaderID: 3008486
+      size: 41
+    24:
+      divisionNumber: 3
+      leaderID: 3008463
+      size: 20
   enemyID: 1000005
   extent: G
   factionID: 500001
@@ -193,6 +206,11 @@
     1000002: 42
     1000006: 9
     1000013: 14
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: 0.0
@@ -255,6 +273,11 @@
       сервис, но ценой этого является то, что компания должна оставаться маленькой
       и компактной.
     zh: 疾速快递是一家快递公司，主要活动在加达里合众国内。他们的服务迅速，有效，质量一流，但代价是他们必须把公司维持在小而紧凑的状态。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008513
+      size: 100
   enemyID: 1000009
   extent: R
   factionID: 500001
@@ -265,6 +288,11 @@
   investors:
     1000023: 2
     1000025: 70
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: -1.0
@@ -564,6 +592,15 @@
       доступ в Государство Caldari. С того момента компания процветает; она стала
       одной из самых быстрорастущих в пространстве Caldari.
     zh: 耶利集团作为一个外国公司，却能在加达里合众国里立足，这种例子并不多见。耶利从前是一个地下非法贩售公司，后来为了进入合众国内调整了经营策略。自那以后，公司不断繁荣兴旺，成为加达里空域内发展最快的公司之一。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010904
+      size: 95
+    24:
+      divisionNumber: 2
+      leaderID: 3010878
+      size: 5
   enemyID: 1000007
   extent: N
   factionID: 500001
@@ -575,6 +612,12 @@
     1000010: 55
     1000012: 15
     1000052: 4
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
+  - 107
   mainActivityID: 10
   memberLimit: -1
   minSecurity: 0.0
@@ -702,6 +745,19 @@
       развития. Корпорация ведет консервативную и осторожную политику, следуя лозунгу:
       «Выживают лишь параноики».'
     zh: 三岛集团是加达里最古老的超级集团之一。当加达里还处在工业时代，他们就和盖伦特有了接触，并随即创建了公司。三岛集团保守谨慎，恪守一句古老的格言：“只有偏执狂才能生存。”
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010916
+      size: 22
+    23:
+      divisionNumber: 2
+      leaderID: 3010938
+      size: 54
+    24:
+      divisionNumber: 3
+      leaderID: 3016150
+      size: 23
   enemyID: 1000002
   extent: N
   factionID: 500001
@@ -712,6 +768,11 @@
   investors:
     1000005: 25
     1000009: 12
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -809,6 +870,15 @@
       старыми способами; благодаря этому, DCM очень быстро вошла в ряды самых успешных
       шахтерских компаний галактики.
     zh: 深核矿业公司是一家年轻的公司，它的建立基于一种突破性的采矿钻孔新技术。虽然这项新技术的细节从未被透露，但却使产量大幅提高，从而使该公司很快成为了采矿公司中的领头羊。
+  divisions:
+    23:
+      divisionNumber: 1
+      leaderID: 3010976
+      size: 83
+    24:
+      divisionNumber: 2
+      leaderID: 3016201
+      size: 16
   enemyID: 1000021
   extent: R
   factionID: 500001
@@ -819,6 +889,11 @@
   investors:
     1000002: 55
     1000013: 25
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -903,6 +978,15 @@
       и постоянному приросту добычи, Poksu медленно выросла и в конечном итоге заняла
       свое место среди тяжеловесов корпоративной политики Caldari.
     zh: 波斯矿业股份由一群独立的矿工建立，通过精明的生意买卖和固定的采矿收入，波斯矿业股份慢慢跻身于加达里强大集团的行列。
+  divisions:
+    23:
+      divisionNumber: 1
+      leaderID: 3010998
+      size: 85
+    24:
+      divisionNumber: 2
+      leaderID: 3011009
+      size: 14
   enemyID: 1000008
   extent: N
   factionID: 500001
@@ -913,6 +997,11 @@
   investors:
     1000003: 15
     1000025: 67
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -1016,6 +1105,19 @@
       корпорацию Minedrill и использовал свои специальные знания для обретения влиятельного
       положения в добывающей промышленности.
     zh: 矿钻集团的历史可以追溯到和联邦交战的时期。当时它是加达里海军的一支别动队，在小行星上安置爆炸物，设置陷阱。战争以后，该小队成员创建了矿钻集团，运用他们的特殊知识很快在采矿业取得了显著成就。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016259
+      size: 8
+    23:
+      divisionNumber: 2
+      leaderID: 3011032
+      size: 75
+    24:
+      divisionNumber: 3
+      leaderID: 3016244
+      size: 16
   enemyID: 1000012
   extent: N
   factionID: 500001
@@ -1026,6 +1128,11 @@
   investors:
     1000019: 51
     1000030: 25
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -1100,6 +1207,15 @@
       Caldari Provisions создала для себя удобную нишу внутри Государства Caldari
       и планирует расширять сферу деятельности в других империях.
     zh: 加达里后勤部是由盖伦特—加达里战争退伍军人建立的公司之一，专门负责供给品和后勤物资的发放，并因此在加达里境内小有名气，他们正期待在其他帝国内扩张自己的业务。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011072
+      size: 58
+    23:
+      divisionNumber: 2
+      leaderID: 3011087
+      size: 41
   enemyID: 1000024
   extent: N
   factionID: 500001
@@ -1110,6 +1226,11 @@
   investors:
     1000005: 75
     1000029: 5
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 0.0
@@ -1380,6 +1501,23 @@
       Caldari. Их главными конкурентами, как в бизнесе, так и в политике является
       корпорация Sukuuvestaa.
     zh: 众所周知，卡拉吉塔集团是加达里最大的超级集团，所染指的事务涉及加达里的方方面面，作为加达里政治的中坚力量，他们常以制造商，发行人，零售商和研究者的身份出现。斯库维塔集团是他们在商业和政治上最大的对手。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3011115
+      size: 8
+    22:
+      divisionNumber: 1
+      leaderID: 3013523
+      size: 34
+    23:
+      divisionNumber: 2
+      leaderID: 3011148
+      size: 37
+    24:
+      divisionNumber: 3
+      leaderID: 3016296
+      size: 19
   enemyID: 1000017
   extent: G
   factionID: 500001
@@ -1391,6 +1529,11 @@
     1000010: 39
     1000028: 28
     1000029: 8
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -1461,6 +1604,19 @@
       является семья. Wiyrkomi все еще принадлежит основавшей её семье Seituoda, имя
       которой всегда было синонимом честности и надежности в традициях бизнеса Caldari.'
     zh: 维克米集团是加达里两大超级集团之一，它的最大股东是一个家族。维克米仍由创建者萨托达家族拥有，这个家族的名称在加达里商业中一直与荣耀和信任联系在一起。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016340
+      size: 47
+    23:
+      divisionNumber: 2
+      leaderID: 3011209
+      size: 34
+    24:
+      divisionNumber: 3
+      leaderID: 3016338
+      size: 17
   enemyID: 1000025
   extent: G
   factionID: 500001
@@ -1471,6 +1627,11 @@
   investors:
     1000011: 76
     1000029: 24
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -1570,6 +1731,19 @@
       считают их продукцию наиболее качественной на рынке, достойной компании, ассоциированной
       с Lai Dai.
     zh: 倒顶集团是一个专营零件装配的小型制造公司。莱戴集团拥有这个公司，为其提供新式技术以跟上其它制造公司的前进步伐。尽管倒顶集团从未真正发展起来，但作为莱戴集团的下属公司，许多人相信他们的产品是市场上质量最好的。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016382
+      size: 33
+    23:
+      divisionNumber: 2
+      leaderID: 3016371
+      size: 25
+    24:
+      divisionNumber: 3
+      leaderID: 3016373
+      size: 41
   enemyID: 1000027
   extent: C
   factionID: 500001
@@ -1581,6 +1755,11 @@
     1000009: 9
     1000020: 51
     1000028: 10
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -1645,6 +1824,19 @@
       ― никак не является движущей силой в производственном секторе. Обслуживая низкобюджетных
       покупателей, они заполняют важную нишу, как бы непривлекательно это не выглядело.
     zh: 速装工业作为廉价用品和低质设备的生产商，决不是生产领域的主力军。他们也许并不受所有人欢迎，但通过迎合低端买家，他们已经成为了一股不可或缺的力量。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016394
+      size: 39
+    23:
+      divisionNumber: 2
+      leaderID: 3011254
+      size: 50
+    24:
+      divisionNumber: 3
+      leaderID: 3013539
+      size: 9
   extent: N
   factionID: 500001
   friendID: 1000002
@@ -1654,6 +1846,11 @@
   investors:
     1000002: 55
     1000024: 6
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -1732,6 +1929,19 @@
       самые удачные годы. Хотя после войны Perkone очень ослабла, она осталась способной
       производить надежное, высококачественное оборудование.
     zh: 佩克昂集团是少数几个留存至今的加达里集团之一，在盖伦特人到来之前的工业时代，佩克昂集团就建立于加达里首星上。盖伦特人给佩克昂集团带来了发展机遇，与联邦战争的那几年里是集团的辉煌时期。战后佩克昂集团有所衰弱，但仍能生产坚固耐用的高质量设备。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011282
+      size: 48
+    23:
+      divisionNumber: 2
+      leaderID: 3011306
+      size: 39
+    24:
+      divisionNumber: 3
+      leaderID: 3016409
+      size: 12
   enemyID: 1000013
   extent: N
   factionID: 500001
@@ -1744,6 +1954,11 @@
     1000008: 9
     1000011: 20
     1000050: 6
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -1833,6 +2048,19 @@
       Несмотря на то, что после войны корпорация отчасти изменила направление своей
       деятельности, она все еще гордится своими ракетными системами.
     zh: 加达里钢铁集团建立于盖伦特—加达里战争期间，主要为加达里提供战争装备。战后其业务重心略有转移，但仍以其导弹系统为荣。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016458
+      size: 40
+    23:
+      divisionNumber: 2
+      leaderID: 3011343
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3013545
+      size: 20
   enemyID: 1000014
   extent: N
   factionID: 500001
@@ -1843,6 +2071,11 @@
   investors:
     1000007: 9
     1000025: 70
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -1920,6 +2153,15 @@
       что ее штаб-квартира является смесью лаборатории сумасшедшего ученого и тропического
       зоопарка.
     zh: 这是由古怪的托杜•科金恩建立的一家生物技术公司，他是将思想转变为机器的第一人。载诺集团从一开始就是涉足生物化学和纳米力学的研究领域，它的总部仿佛是疯狂科学家实验室和野生动物园的混合体。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016469
+      size: 80
+    24:
+      divisionNumber: 2
+      leaderID: 3013554
+      size: 19
   enemyID: 1000004
   extent: N
   factionID: 500001
@@ -1931,6 +2173,11 @@
     1000019: 66
     1000029: 5
     1000030: 7
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 6
   memberLimit: -1
   minSecurity: 1.0
@@ -1999,6 +2246,15 @@
       миром Caldari. Это было в первую очередь вызвано тем, что их продукция пользуется
       спросом среди представителей преступного мира и лиц, находящихся на грани закона.
     zh: 纳基维集团是唯一一个以娱乐业为主的加达里超级集团。纳基维集团，通常被叫做NOH，被怀疑和加达里黑社会有紧密联系。主要原因是他们许多产品都迎合黑社会需求，并和法律打擦边球。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011431
+      size: 78
+    24:
+      divisionNumber: 2
+      leaderID: 3016484
+      size: 21
   enemyID: 1000010
   extent: G
   factionID: 500001
@@ -2009,6 +2265,11 @@
   investors:
     1000017: 28
     1000030: 20
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 8
   memberLimit: -1
   minSecurity: -1.0
@@ -2073,6 +2334,11 @@
       в индустрии развлечений, Echelon Entertainment удалось своими силами закрепится
       на этом рынке, и ее продукция становится всё более популярной.
     zh: 作为对纳基维集团最直接的回应，卡拉吉塔集团创立了梯队娱乐公司。虽然纳基维集团在娱乐行业占有绝对多数的市场份额，梯队娱乐公司仍成功地占得一席之地，他们的产品也日益畅销。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016504
+      size: 100
   enemyID: 1000034
   extent: N
   factionID: 500001
@@ -2083,6 +2349,11 @@
   investors:
     1000010: 54
     1000029: 12
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 8
   memberLimit: -1
   minSecurity: 0.0
@@ -2325,6 +2596,23 @@
       Ishukone все еще пользуется плодами хороших отношений с Jove и обладает самой
       передовой технологией за границами пространства Jove.
     zh: 异株湖集团曾在很长一段时间内是加达里超级集团的软肋，但自从他们和朱庇特人接触后，这一切都改变了。异株湖集团是第一个和朱庇特人建立贸易关系的公司，从朱庇特人那里得到了太空舱技术。这使得异株湖集团独树一帜，赚取了数百亿星币。异株湖集团目前仍从其与朱庇特的良好关系中获益，他们拥有朱庇特空域外最先进的技术。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3011489
+      size: 27
+    22:
+      divisionNumber: 1
+      leaderID: 3013566
+      size: 10
+    23:
+      divisionNumber: 2
+      leaderID: 3016517
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3011472
+      size: 23
   enemyID: 1000020
   extent: G
   factionID: 500001
@@ -2335,6 +2623,11 @@
   investors:
     1000016: 20
     1000019: 31
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -2558,6 +2851,19 @@
       и соперничает с могущественной корпорацией Ishukone в области технологических
       достижений.
     zh: 莱戴集团一贯主张质量至上，他们的产品总是最高水准的。莱戴集团有一个能量研究项目，与异株湖集团在科技成就上相抗衡。
+  divisions:
+    18:
+      divisionNumber: 3
+      leaderID: 3016560
+      size: 34
+    22:
+      divisionNumber: 1
+      leaderID: 3016542
+      size: 43
+    24:
+      divisionNumber: 2
+      leaderID: 3016548
+      size: 21
   enemyID: 1000019
   extent: N
   factionID: 500001
@@ -2568,6 +2874,12 @@
   investors:
     1000020: 17
     1000028: 15
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
+  - 66
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -2635,6 +2947,15 @@
       расцвета, Zero-G считалась великой надеждой народа Caldari, но на протяжении
       нескольких десятилетий компания находится в состоянии упадка.
     zh: 这是一家研究公司，专注于人类太空居住舱和其他生命保障装备的研发。在无过载研究公司的全盛时期，它受到了加达里人民的欢迎，被视为加达里的希望，但是公司在过去的几十年里不断衰落。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016576
+      size: 62
+    24:
+      divisionNumber: 2
+      leaderID: 3016575
+      size: 37
   enemyID: 1000023
   extent: C
   factionID: 500001
@@ -2646,6 +2967,11 @@
     1000010: 60
     1000016: 5
     1000028: 10
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -2903,6 +3229,14 @@
     47357: 0.083
     47361: 0.083
     49721: 0.083
+    56201: 1.0
+    56202: 1.0
+    56203: 1.0
+    56204: 1.0
+    56205: 1.0
+    56206: 1.0
+    56207: 1.0
+    56208: 1.0
   deleted: false
   descriptionID:
     de: Propel Dynamics wurde von dem Forscherteam gegründet, das den ersten funktionierenden
@@ -2939,6 +3273,19 @@
       и смелостью технических решений, двигающих вперед всю двигателестроительную
       промышленность.
     zh: 为了在一个星系内进行短距离跳跃，某个小团队发明了第一台实用的跃迁引擎，随后他们建立了推进动力集团。尽管公司从未达到最初的目标，创新有趣的设计却层出不穷，使公司处于推进领域的前列。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011574
+      size: 58
+    23:
+      divisionNumber: 2
+      leaderID: 3011563
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3013574
+      size: 2
   enemyID: 1000012
   extent: N
   factionID: 500001
@@ -2951,6 +3298,12 @@
     1000011: 33
     1000014: 4
     1000029: 12
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
+  - 107
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -3116,6 +3469,15 @@
       NOH, Expert Distribution является ответом Caldari на крупные сети розничной
       торговли Gallente, которые доминировали на рынке в прошлом.
     zh: 行家物流的商标如今在新伊甸的各大主要城市中已是赫然在目。该零售公司在过去的十年取得了长足发展，这得益于自助式销售模式的推行和低廉的管理费用。行家物流公司作为纳基维集团家族的成员之一，对抗着盖伦特的大型零售连锁店，这些连锁店在过去主导了整个市场。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011661
+      size: 78
+    24:
+      divisionNumber: 2
+      leaderID: 3016600
+      size: 21
   enemyID: 1000018
   extent: G
   factionID: 500001
@@ -3126,6 +3488,11 @@
   investors:
     1000015: 15
     1000017: 51
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 11
   memberLimit: -1
   minSecurity: 0.0
@@ -3190,6 +3557,15 @@
       компании. Это решение себя оправдало: Sell Division является источником постоянной
       прибыли с момента своего создания.'
     zh: CBD销售部原先是其母公司CBD社团的一部分，几年前公司为了使低迷的零售业务复苏而将销售部门独立出来。这一举措取得了成效，销售部的利润从此稳步增长。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016640
+      size: 90
+    24:
+      divisionNumber: 2
+      leaderID: 3016631
+      size: 9
   enemyID: 1000030
   extent: R
   factionID: 500001
@@ -3200,6 +3576,11 @@
   investors:
     1000002: 80
     1000003: 6
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 11
   memberLimit: -1
   minSecurity: 0.0
@@ -3286,6 +3667,19 @@
       величине мегакорпорация Caldari. Она знаменита своими жесткими, зачастую неэтичными
       методами ведения бизнеса.
     zh: 斯库维塔集团，通常叫做斯维，是加达里合众国境内最大的房地产商，据估计集团与其下属公司拥有几乎40%的加达里空域。斯维是加达里的第二大超级集团，以其无情，不道德的商业作风闻名于世。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016681
+      size: 27
+    23:
+      divisionNumber: 2
+      leaderID: 3011700
+      size: 29
+    24:
+      divisionNumber: 3
+      leaderID: 3016669
+      size: 43
   enemyID: 1000011
   extent: N
   factionID: 500001
@@ -3295,6 +3689,11 @@
   initialPrice: 37
   investors:
     1000025: 51
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 2
   memberLimit: -1
   minSecurity: 0.0
@@ -3373,6 +3772,15 @@
       активного участия в политической жизни страны, она обладает несколькими очень
       ценными рычагами влияния.
     zh: 在加达里大迁徙中，大量加达里人逃离了自己家园，急需重建一个崭新的国度。加达里建筑集团就是重建工作中的重要一员，并迅速扩展壮大。虽然其不再滥用强权政治，但手中仍握有王牌。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011769
+      size: 65
+    24:
+      divisionNumber: 2
+      leaderID: 3011764
+      size: 34
   enemyID: 1000015
   extent: N
   factionID: 500001
@@ -3384,6 +3792,11 @@
     1000010: 65
     1000011: 4
     1000028: 17
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 2
   memberLimit: -1
   minSecurity: 0.0
@@ -3415,9 +3828,9 @@
   - 1
   ceoID: 3004101
   corporationTrades:
-    672: 0.007136918729285106
-    967: 0.007136918729285106
-    9826: 0.03141552342342717
+    672: 0.00713691872929
+    967: 0.00713691872929
+    9826: 0.0314155234234
   deleted: false
   descriptionID:
     de: Expert Housing wurde zur gleichen Zeit wie Expert Distribution gegründet.
@@ -3460,6 +3873,7 @@
       инвестиционного капитала и надеется, что эти средства помогут ей встать на ноги.
     zh: 行家住宅公司与行家物流公司同时建立，但境遇却迥然不同。在行家物流公司连续取得成功的同时，住宅公司却在地产市场上遭遇了强有力的挑战。公司现急需投资基金，这样才能使其重新复苏。
   enemyID: 1000026
+  exchangeRates: {}
   extent: N
   factionID: 500001
   friendID: 1000032
@@ -3469,6 +3883,11 @@
   investors:
     1000017: 55
     1000030: 15
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 2
   memberLimit: -1
   minSecurity: 0.0
@@ -3489,8 +3908,8 @@
   shares: 3261809045
   size: M
   sizeFactor: 1.5
-  solarSystemID: 30000157
-  stationID: 60003034
+  solarSystemID: 30000143
+  stationID: 60003052
   taxRate: 0.0
   tickerName: EH
   uniqueName: true
@@ -3542,6 +3961,15 @@
       прошлом и участвовала в нескольких масштабных инвестиционных программах, она
       не принимает участия в проектах даже с отдаленной степенью риска.
     zh: 对加达里境内许多大型抚恤基金会而言，加达里无限基金集团(CFU)是棵大树。这些基金会非常有钱，但他们对资金的使用却异常谨慎。CFU曾经参与了一些大型投资项目，但他们绝不肯轻易冒险。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011825
+      size: 76
+    24:
+      divisionNumber: 2
+      leaderID: 3011811
+      size: 23
   enemyID: 1000016
   extent: N
   factionID: 500001
@@ -3553,6 +3981,11 @@
     1000010: 70
     1000020: 3
     1000029: 5
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 17
   memberLimit: -1
   minSecurity: 0.0
@@ -3617,6 +4050,15 @@
       стал вкладывать более крупные средства в космическую промышленность, хотя пока
       в малых масштабах.
     zh: 国家星域银行代表的是老式金融机构，业务主要来自传统、地位巩固的上层社会家庭。近年来，随着更年轻、更富活力的管理方式的引入，该银行也开始涉足太空工业投资，但规模较小。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013608
+      size: 78
+    24:
+      divisionNumber: 2
+      leaderID: 3011830
+      size: 21
   enemyID: 1000003
   extent: N
   factionID: 500001
@@ -3626,6 +4068,11 @@
   initialPrice: 24
   investors:
     1000011: 75
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 17
   memberLimit: -1
   minSecurity: 1.0
@@ -3662,6 +4109,14 @@
     3812: -0.15482194671045127
     9826: 0.12278281712116429
     9852: 0.22655200659979935
+    56201: -1.0
+    56202: -1.0
+    56203: -1.0
+    56204: -1.0
+    56205: -1.0
+    56206: -1.0
+    56207: -1.0
+    56208: -1.0
   deleted: false
   descriptionID:
     de: Als größte Investmentfirma der Welt gibt sich Modern Finances progressiv,
@@ -3703,6 +4158,15 @@
       расширить свою деятельность на других рынках, но Modern Finances осуществляет
       и масштабные иностранные инвестиции, особенно в Королевстве Khanid.
     zh: 作为新伊甸最大的投资公司，现代金融与时俱进，乐于接受机遇，挑战高风险项目。公司帮助许多卓越的加达里公司摆脱了加达里合众国的束缚，另辟市场。现代金融也极大参与外国投资，尤其是卡尼迪王国。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011876
+      size: 52
+    24:
+      divisionNumber: 2
+      leaderID: 3011856
+      size: 47
   enemyID: 1000028
   extent: G
   factionID: 500001
@@ -3712,6 +4176,11 @@
   initialPrice: 64
   investors:
     1000017: 55
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 17
   memberLimit: -1
   minSecurity: 0.0
@@ -3793,6 +4262,15 @@
       Государства Caldari. Пожалуй, лишь ее можно в каком-то смысле назвать правительством
       Caldari в традиционном смысле этого слова.
     zh: CEO合作组织是由加达里的大公司联合拥有并运营的政治团体。该组织的成员均为超级集团的CEO，在组织中他们能够畅所欲言，缓解集团之间的潜在矛盾，从而确保集团在竞争过程中不走向极端。该组织同时也左右加达里的外交方针，处理与政府部门最息息相关的事宜。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011891
+      size: 13
+    24:
+      divisionNumber: 2
+      leaderID: 3011881
+      size: 86
   enemyID: 1000035
   extent: N
   factionID: 500001
@@ -3805,6 +4283,11 @@
     1000017: 25
     1000019: 25
     1000025: 25
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 1.0
@@ -3874,6 +4357,15 @@
       Club — место встреч дипломатов, предпринимателей, президентов кoмпаний и политиков,
       где они заключают сделки и обсуждают вопросы государственной важности.'
     zh: 商业俱乐部从一个纯粹的绅士俱乐部慢慢成长为一个成熟的政治团体，这就是加达里政府机构的特点。商业俱乐部是一个会晤场所，外交官、商人、CEO和政客们都在这里交易或讨论国内事务。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011912
+      size: 58
+    24:
+      divisionNumber: 2
+      leaderID: 3016760
+      size: 41
   enemyID: 1000033
   extent: N
   factionID: 500001
@@ -3885,6 +4377,11 @@
     1000010: 30
     1000017: 40
     1000025: 30
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 2.0
@@ -3950,6 +4447,15 @@
       отменять сделки и соглашения, заключенные между корпорациями, придано только
       Трибуналу.
     zh: 加达里人并不愿纠缠于丧失的交易和残酷的竞争，但一旦发生矛盾，他们就会去加达里商业法庭。这是加达里合众国境内唯一授权可以取消公司之间交易或协议的组织。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3011966
+      size: 20
+    24:
+      divisionNumber: 2
+      leaderID: 3016796
+      size: 79
   enemyID: 1000031
   extent: G
   factionID: 500001
@@ -3959,6 +4465,11 @@
   initialPrice: 20
   investors:
     1000031: 100
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 15
   memberLimit: -1
   minSecurity: 1.0
@@ -4039,6 +4550,15 @@
       постановлениях внутри Государства направляется сюда и хранится в гигантских
       базах данных.
     zh: 每当涉及到档案、交易和通信记录之类的问题时，分治的加达里政府就显得缺乏效率。国家档案所是由加达里国内的一些超级集团共同创建的，意图将这里作为上述信息的资源中心。国内所有关于交易、商业和政府事务的信息都必须送到这里，储存进大型数据库。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012011
+      size: 35
+    24:
+      divisionNumber: 2
+      leaderID: 3016807
+      size: 65
   enemyID: 1000029
   extent: N
   factionID: 500001
@@ -4047,6 +4567,11 @@
   initialPrice: 20
   investors:
     1000031: 100
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 0.0
@@ -4530,6 +5055,15 @@
       над любым другим флотом в мире. Большинство экспертов считают, что они способны
       на это.'
     zh: 加达里海军在人员和飞船数量上均不如联邦海军和帝国海军，但他们的战列舰却是最多的，飞船服役年限也相对较短。这是因为加达里一直通过使用更好的高科技装备来更新其舰船。加达里海军的信条十分简单：战胜世界上任何海军。很多专家对此深信不疑。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012046
+      size: 19
+    24:
+      divisionNumber: 2
+      leaderID: 3016840
+      size: 80
   enemyID: 1000120
   extent: N
   factionID: 500001
@@ -4539,6 +5073,12 @@
   initialPrice: 20
   investors:
     1000031: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -4597,6 +5137,15 @@
       мегакорпорации не совсем доверяют друг другу, им приходится держать собственные
       полицейские войска для защиты своей собственности.
     zh: 内安局是NOH超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012078
+      size: 11
+    24:
+      divisionNumber: 2
+      leaderID: 3016853
+      size: 88
   enemyID: 1000039
   extent: C
   factionID: 500001
@@ -4606,6 +5155,12 @@
   initialPrice: 20
   investors:
     1000017: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -4667,6 +5222,15 @@
       Dai. Так как мегакорпорации не совсем доверяют друг другу, им приходится держать
       собственные полицейские войска для защиты своей собственности.
     zh: 莱戴护卫服务公司是用以保护莱戴超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012081
+      size: 19
+    24:
+      divisionNumber: 2
+      leaderID: 3013644
+      size: 80
   enemyID: 1000038
   extent: R
   factionID: 500001
@@ -4676,6 +5240,11 @@
   initialPrice: 20
   investors:
     1000020: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -4733,6 +5302,15 @@
       как мегакорпорации не совсем доверяют друг другу, им приходится держать собственные
       полицейские войска для защиты своей собственности.
     zh: 异株湖安全部队是保护异株湖超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012090
+      size: 2
+    24:
+      divisionNumber: 2
+      leaderID: 3016877
+      size: 97
   enemyID: 1000037
   extent: R
   factionID: 500001
@@ -4742,6 +5320,12 @@
   initialPrice: 20
   investors:
     1000019: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -4802,6 +5386,15 @@
       мегакорпорации не совсем доверяют друг другу, им приходится держать собственные
       полицейские войска для защиты своей собственности.
     zh: 家庭保安公司是保护卡拉吉塔超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013652
+      size: 13
+    24:
+      divisionNumber: 2
+      leaderID: 3016886
+      size: 86
   enemyID: 1000036
   extent: R
   factionID: 500001
@@ -4811,6 +5404,12 @@
   initialPrice: 20
   investors:
     1000010: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -4872,6 +5471,15 @@
       Так как мегакорпорации не совсем доверяют друг другу, им приходится держать
       собственные полицейские войска для защиты своей собственности.
     zh: 共和秩序局是用以保护斯库维塔集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012122
+      size: 8
+    24:
+      divisionNumber: 2
+      leaderID: 3016925
+      size: 91
   enemyID: 1000042
   extent: R
   factionID: 500001
@@ -4881,6 +5489,12 @@
   initialPrice: 20
   investors:
     1000025: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -4946,6 +5560,15 @@
       мегакорпорации не совсем доверяют друг другу, им приходится держать собственные
       полицейские войска для защиты своей собственности.
     zh: 空间航线巡管局是CBD超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012170
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3016951
+      size: 90
   enemyID: 1000043
   extent: N
   factionID: 500001
@@ -4955,6 +5578,12 @@
   initialPrice: 20
   investors:
     1000002: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -5014,6 +5643,15 @@
       Так как мегакорпорации не совсем доверяют друг другу, им приходится держать
       собственные полицейские войска для защиты своей собственности.
     zh: 维克米和平工业是维克米超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012198
+      size: 13
+    24:
+      divisionNumber: 2
+      leaderID: 3012193
+      size: 86
   enemyID: 1000040
   extent: R
   factionID: 500001
@@ -5023,6 +5661,12 @@
   initialPrice: 20
   investors:
     1000011: 100
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -5085,6 +5729,15 @@
       Так как мегакорпорации не совсем доверяют друг другу, им приходится держать
       собственные полицейские войска для защиты своей собственности.
     zh: 联合警备队是三岛超级集团的警务安全力量。由于超级集团间彼此互不信任，因此它们的产业都由自己的警备队保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012235
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3016990
+      size: 90
   enemyID: 1000041
   extent: N
   factionID: 500001
@@ -5092,6 +5745,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1621
   initialPrice: 20
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -5534,6 +6193,11 @@
       Школа сотрудничает со многими ведущими корпорациями Caldari. Это выгодно для
       школы, для корпораций и, что немаловажно, для самих студентов.
     zh: 应用知识学院主要偏重于技术研究，是有志工程师的理想修学之地。学院与许多加达里主要集团之间的合作，使学校，集团以及学生都受益匪浅。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012240
+      size: 100
   extent: N
   factionID: 500001
   friendID: 1000020
@@ -5544,6 +6208,11 @@
     1000020: 60
     1000021: 20
     1000028: 15
+  lpOfferTables:
+  - 6
+  - 7
+  - 59
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 1.0
@@ -5984,6 +6653,11 @@
       В результате этого, процесс обучения крайне утомителен и скучен, но чрезвычайно
       эффективен.
     zh: 就像所有加达里学校一样，科学及贸易学会有一套非常正规的课程，偏重于实际运用能力的培养。这使得学习过程单调乏味，但却相当有效。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012257
+      size: 100
   enemyID: 1000022
   extent: N
   factionID: 500001
@@ -5996,6 +6670,11 @@
     1000019: 70
     1000022: 8
     1000030: 12
+  lpOfferTables:
+  - 6
+  - 9
+  - 58
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 1.0
@@ -6067,6 +6746,15 @@
       раз ставился под сомнение хитрым племенем Krusual, их главным политическим оппонентом
       в рамках Республики.
     zh: 赛毕斯托部族偏重于技术和机械，米玛塔尔的大多数技术也来源于它们。尽管赛毕斯托当局曾多次受到其主要政敌，狡诈的克鲁夏部族攻击，但这并没影响赛毕斯托部族在米玛塔尔共和国的主导地位。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3017023
+      size: 21
+    24:
+      divisionNumber: 2
+      leaderID: 3012262
+      size: 78
   enemyID: 1000061
   extent: R
   factionID: 500002
@@ -6077,6 +6765,11 @@
   investors:
     1000046: 100
     1000281: 0
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: -1.0
@@ -6143,6 +6836,15 @@
       обретает все большее влияние на политическую жизнь Республики, претендуя на
       господство над ней.'
     zh: 克鲁夏部族诡计多端，谎话连篇，行事隐秘，是天性孤僻的一族人，但最近越来越多地投入了共和国的权力之争，争夺属于自己的统治权。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3017036
+      size: 21
+    24:
+      divisionNumber: 2
+      leaderID: 3012275
+      size: 78
   enemyID: 1000046
   extent: R
   factionID: 500002
@@ -6152,6 +6854,11 @@
   initialPrice: 20
   investors:
     1000047: 100
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
   mainActivityID: 14
   memberLimit: -1
   minSecurity: -3.0
@@ -6221,6 +6928,15 @@
       Большинство Vherokior — владельцы небольших магазинов или мелкие предприниматели,
       редко рискующие ввязываться в игры тяжеловесов.
     zh: 维洛奇亚部族也许是最平静的米玛塔尔部落，不渴望权力，甘愿过着平淡的生活。维洛奇亚人大都是店主或小商人，很少冒险涉足大人物的产业。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012284
+      size: 40
+    24:
+      divisionNumber: 2
+      leaderID: 3013681
+      size: 60
   enemyID: 1000055
   extent: R
   factionID: 500002
@@ -6230,6 +6946,11 @@
   initialPrice: 20
   investors:
     1000048: 100
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
   mainActivityID: 14
   memberLimit: -1
   minSecurity: -4.0
@@ -6300,6 +7021,15 @@
       разжигает их ненависть по отношению к Amarr, и они являются единственным племенем,
       активно добивающимся продолжения войны с Amarr и их марионетками — Ammatar.
     zh: 布鲁特人在艾玛帝国占领时期遭受了最惨痛的经历，至今仍有很多人在艾玛帝国受到奴役。这加剧了他们对艾玛人的痛恨，布鲁特部族也是唯一主动与艾玛人和艾玛达人继续战斗的部族。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3017067
+      size: 8
+    24:
+      divisionNumber: 2
+      leaderID: 3017066
+      size: 91
   enemyID: 1000052
   extent: R
   factionID: 500002
@@ -6309,6 +7039,12 @@
   initialPrice: 20
   investors:
     1000049: 100
+  lpOfferTables:
+  - 14
+  - 16
+  - 57
+  - 62
+  - 66
   mainActivityID: 14
   memberLimit: -1
   minSecurity: -1.0
@@ -6380,6 +7116,15 @@
       он играет роль голоса народа Minmatar, обращающегося ко всему остальному миру
       и управляющего отношениями с зарубежными государствами.
     zh: 共和议会是米玛塔尔共和国的主要政治机构，已代替部落首领集会成为权力和决议的代表地。尽管议会不干预部落内部事务，但它代表米玛塔尔人民的利益，与外国列强对话。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013694
+      size: 42
+    24:
+      divisionNumber: 2
+      leaderID: 3012314
+      size: 57
   enemyID: 1000054
   extent: N
   factionID: 500002
@@ -6392,6 +7137,11 @@
     1000047: 30
     1000048: 15
     1000049: 20
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 0.0
@@ -6891,6 +7641,15 @@
       он более чем компенсирует этот недостаток храбростью персонала и грамотными
       тактическими приемами.
     zh: 共和舰队由米玛塔尔抗争后幸存的叛军所建立。尽管不像其他帝国的舰队一样能得到先进武器或高技术装备，但是他们高涨的热情和成熟的战斗策略远远弥补了这点。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012384
+      size: 8
+    24:
+      divisionNumber: 2
+      leaderID: 3012370
+      size: 91
   enemyID: 1000123
   extent: N
   factionID: 500002
@@ -6903,6 +7662,12 @@
     1000047: 30
     1000048: 15
     1000049: 35
+  lpOfferTables:
+  - 14
+  - 16
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -1.0
@@ -6978,6 +7743,15 @@
       выражает тайное желание большинства Minmatar: нанести поражение Amarr. Поэтому
       парламент не препятствует его работе.'
     zh: 共和国司法部曾是受米玛塔尔政府冷落的部门，但近年来却在支持米玛塔尔叛乱分子。尽管这不是共和国的官方政策，但共和国司法部所做的正是大多数米玛塔尔人心中所愿：打败艾玛人。议会对此也不反对。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012434
+      size: 29
+    24:
+      divisionNumber: 2
+      leaderID: 3014093
+      size: 70
   enemyID: 1000058
   extent: N
   factionID: 500002
@@ -6990,6 +7764,12 @@
     1000047: 20
     1000048: 30
     1000049: 15
+  lpOfferTables:
+  - 14
+  - 16
+  - 57
+  - 62
+  - 66
   mainActivityID: 15
   memberLimit: -1
   minSecurity: 0.0
@@ -7061,6 +7841,15 @@
       Несмотря на это, компания все еще выполняет многие административные функции
       Республики.
     zh: 市政管理局最初是米玛塔尔政府的一部分，在大抗争发生后负责分配土地和房产。等混乱平息，这个公司就与政府断绝了关系，开始自立独营。如今它在共和国内，仍保留着许多重要的行政职责。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014113
+      size: 55
+    24:
+      divisionNumber: 2
+      leaderID: 3014118
+      size: 44
   enemyID: 1000059
   extent: C
   factionID: 500002
@@ -7073,6 +7862,11 @@
     1000047: 15
     1000048: 35
     1000049: 30
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 0.0
@@ -7178,6 +7972,11 @@
       крепкими связями с представителями преступного мира в мире EVE, так как обмен
       информацией и торговля на черном рынке выгодна обеим сторонам.
     zh: 米玛塔尔人从很早开始就已懂得只有通过保密和欺骗才能获得自由。共和安全局的存在帮助共和国在建国初期站稳脚跟，免除了足以吞噬共和国的威胁。共和安全局与新伊甸的地下组织有密切联系，通过情报交换和黑市买卖来互惠互利。
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3012458
+      size: 100
   enemyID: 1000051
   extent: G
   factionID: 500002
@@ -7190,6 +7989,12 @@
     1000047: 35
     1000048: 30
     1000049: 15
+  lpOfferTables:
+  - 14
+  - 16
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -2.0
@@ -7382,6 +8187,19 @@
       так как она поставляет нужное сырье для строительства космического флота, необходимого
       для защиты Республики от Amarr Empire и её марионеток.
     zh: 米玛塔尔矿业联合体是唯一现存的在艾玛征服米玛塔尔空域前就已建立的公司。它能在艾玛统治米玛塔尔时期幸存下来的原因就是它对艾玛人有用。现在它为共和国服务，提供组建太空舰队所需的原材料，以保护共和国免遭艾玛帝国及其走狗们的攻击。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014189
+      size: 8
+    23:
+      divisionNumber: 2
+      leaderID: 3012565
+      size: 81
+    24:
+      divisionNumber: 3
+      leaderID: 3012533
+      size: 9
   enemyID: 1000062
   extent: N
   factionID: 500002
@@ -7392,6 +8210,11 @@
   investors:
     1000056: 5
     1000057: 30
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -7700,6 +8523,23 @@
       Использование инновационных решений и экономичной производственной стратегии
       позволяет компании создавать крайне эффективное оборудование.
     zh: 核心局面公司作为米玛塔尔商业的成功典范，是为数不多的在全宇宙范围内获得成功的商家之一。该公司将独创的设计与低成本的生产方式相结合，生产出来的设备十分热销。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3013455
+      size: 27
+    22:
+      divisionNumber: 1
+      leaderID: 3012600
+      size: 28
+    23:
+      divisionNumber: 2
+      leaderID: 3012619
+      size: 23
+    24:
+      divisionNumber: 3
+      leaderID: 3012618
+      size: 20
   enemyID: 1000160
   extent: G
   factionID: 500002
@@ -7710,6 +8550,11 @@
   investors:
     1000046: 40
     1000112: 20
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -7908,6 +8753,19 @@
       впереди. Главный её актив — исследовательский комплекс, который, как надеются
       минматары, поможет им в ближайшем будущем.
     zh: 最近建立的一个小型生产公司，还有待发展。其主要资产是研究设施，米玛塔尔人十分希望在不久的将来这些设施可以投入生产。
+  divisions:
+    18:
+      divisionNumber: 3
+      leaderID: 3012663
+      size: 45
+    22:
+      divisionNumber: 1
+      leaderID: 3014243
+      size: 20
+    24:
+      divisionNumber: 2
+      leaderID: 3014254
+      size: 34
   enemyID: 1000160
   extent: R
   factionID: 500002
@@ -7919,6 +8777,11 @@
     1000047: 25
     1000049: 18
     1000061: 45
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -8180,6 +9043,14 @@
     47357: 0.083
     47361: 0.083
     49721: 0.083
+    56201: 1.0
+    56202: 1.0
+    56203: 1.0
+    56204: 1.0
+    56205: 1.0
+    56206: 1.0
+    56207: 1.0
+    56208: 1.0
   deleted: false
   descriptionID:
     de: Eifyr wurde vom renommierten Biochemiker Kolvil Eifyr mit Unterstützung des
@@ -8219,6 +9090,15 @@
       дела компании всегда оставались тайной для обычных людей, а неведение, как известно,
       порождает самые невероятные слухи.
     zh: 埃菲尔公司是由著名的生化学家科维尔·埃菲尔创办的，并得到了克鲁夏部族的支持。公司一直被怀疑在研制生产非法神经增效剂，但却始终没有得到证实。不管怎样，公司的运作对外一直都是个谜，相信在谜团背后一定隐藏着某种阴谋。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014266
+      size: 80
+    24:
+      divisionNumber: 2
+      leaderID: 3014262
+      size: 20
   enemyID: 1000049
   extent: L
   factionID: 500002
@@ -8229,6 +9109,12 @@
   investors:
     1000047: 22
     1000048: 6
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
+  - 107
   mainActivityID: 6
   memberLimit: -1
   minSecurity: -1.0
@@ -8300,6 +9186,19 @@
       и демонстрировала в последние годы устойчивый рост, что может позволить ей стать
       одним из самых влиятельных игроков на рынке галактического строительства.
     zh: 作为叛乱后建立的众多公司之一，塞克斯金发展公司一头扎进重建工作。这是个脚踏实地，庄重体面的公司，过去一直发展平稳，在不久的将来，将稳步成为银河内建筑商业的主导者。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012679
+      size: 29
+    23:
+      divisionNumber: 2
+      leaderID: 3012676
+      size: 32
+    24:
+      divisionNumber: 3
+      leaderID: 3013468
+      size: 38
   enemyID: 1000053
   extent: R
   factionID: 500002
@@ -8309,6 +9208,11 @@
   initialPrice: 26
   investors:
     1000049: 67
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 2
   memberLimit: -1
   minSecurity: 0.0
@@ -8371,6 +9275,19 @@
       наследия — традиционная кухня, восстановлением популярности которой занимается
       Native Freshfood.
     zh: 在艾玛人占领米玛塔尔空间时期，他们尽力根除米玛塔尔的任何遗产，其中之一就是米玛塔尔烹饪传统。因此土产公司试图将米玛塔尔的所有美食烹调重新寻回。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014301
+      size: 62
+    23:
+      divisionNumber: 2
+      leaderID: 3014295
+      size: 8
+    24:
+      divisionNumber: 3
+      leaderID: 3014293
+      size: 29
   enemyID: 1000057
   extent: L
   factionID: 500002
@@ -8381,6 +9298,11 @@
   investors:
     1000018: 15
     1000048: 30
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 0.0
@@ -8751,6 +9673,15 @@
       у корпораций Gallente. Она быстро стала самой влиятельной компанией по перевозке
       грузов в пространстве Minmatar.
     zh: 自由扩张集团由大抗争后移居盖伦特联邦的米玛塔尔人建立，但为促进关系，公司又回到了米玛塔尔共和国境内开展业务。自由扩张集团效仿盖伦特快递公司的经营模式，很快就奠定了自己在米玛塔尔境内主要运输公司的地位。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012753
+      size: 60
+    24:
+      divisionNumber: 2
+      leaderID: 3014312
+      size: 40
   enemyID: 1000048
   extent: G
   factionID: 500002
@@ -8761,6 +9692,12 @@
   investors:
     1000047: 40
     1000049: 7
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
+  - 107
   mainActivityID: 10
   memberLimit: -1
   minSecurity: -2.0
@@ -8830,6 +9767,15 @@
       политики Minmatar. The Leisure Group — компания, работающая в сфере развлечений,
       известная своими порой варварскими, но неизменно стимулирующими центрами развлечений.
     zh: 谜一样的科维尔·埃菲尔是罗述集团的一个大股东，而这也使公司与米玛塔尔强权政治阴影下的犯罪分子关系紧密。罗述集团是一个娱乐公司，以其提供的肆无忌惮，动人心魄的欢愉而闻名。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014349
+      size: 97
+    24:
+      divisionNumber: 2
+      leaderID: 3012778
+      size: 2
   enemyID: 1000106
   extent: N
   factionID: 500002
@@ -8842,6 +9788,11 @@
     1000056: 25
     1000057: 15
     1000062: 40
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
   mainActivityID: 8
   memberLimit: -1
   minSecurity: -1.0
@@ -8969,6 +9920,19 @@
       уже давно не занимается, хотя все еще сохраняет большую часть своей былой силы
       и величия.
     zh: 艾玛建设是一个低调保守的建设公司，不喜欢成为公众的焦点。当艾玛人首次进入太空，艾玛建设进入鼎盛时期，参与建设了最早的星门。虽然企业仍保留着自古而来的威严和权力，但其创新思想却早已不复存在。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3012835
+      size: 40
+    23:
+      divisionNumber: 2
+      leaderID: 3012814
+      size: 42
+    24:
+      divisionNumber: 3
+      leaderID: 3012822
+      size: 17
   enemyID: 1000065
   extent: N
   factionID: 500003
@@ -8979,6 +9943,12 @@
   investors:
     1000063: 55
     1000078: 15
+  lpOfferTables:
+  - 3
+  - 58
+  - 59
+  - 61
+  - 62
   mainActivityID: 2
   memberLimit: -1
   minSecurity: 0.0
@@ -9300,6 +10270,23 @@
       благодаря ей, на большинстве новых космических кораблей Amarr установлено очень
       качественное и высокотехнологичное оборудование.
     zh: 天主凝聚会是一个相对较新的公司，它在加达里的莱戴大型集团帮助下建立起来，因此莱戴集团拥有该公司相当大的股份。天主凝聚会给陈腐的研发领域注入了急需的活力，为许多艾玛帝国最新的太空飞船带来了数量可观的高科技配件。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3012843
+      size: 27
+    22:
+      divisionNumber: 1
+      leaderID: 3013406
+      size: 19
+    23:
+      divisionNumber: 2
+      leaderID: 3012879
+      size: 30
+    24:
+      divisionNumber: 3
+      leaderID: 3012881
+      size: 22
   enemyID: 1000151
   extent: N
   factionID: 500003
@@ -9310,6 +10297,11 @@
   investors:
     1000069: 20
     1000088: 35
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -9437,6 +10429,19 @@
       Империи Amarr, и, несмотря на то, что производимое ею снаряжение не является
       особо передовым в технологическом плане, оно очень надежно и прочно.
     zh: 帝国总装部是新伊甸最大的武器制造商。公司制造从轻武器到战列舰的各类军备。和庞大的艾玛帝国一样，公司更看重武器的数量，因此从技术角度而言，他们的产品没有什么特别，但十分可靠、耐用。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014447
+      size: 34
+    23:
+      divisionNumber: 2
+      leaderID: 3012945
+      size: 46
+    24:
+      divisionNumber: 3
+      leaderID: 3012930
+      size: 19
   enemyID: 1000079
   extent: G
   factionID: 500003
@@ -9446,6 +10451,11 @@
   initialPrice: 61
   investors:
     1000078: 15
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 1.0
@@ -9680,6 +10690,19 @@
       высокотехнологичной компании. Viziam получила поддержку от Carthum Conglomerate
       и быстро добилась высокого положения в промышленном секторе Империи Amarr.
     zh: 维鲜集团只有几年的历史，是从一个没落高技术公司的基础上发展起来的。维鲜得到了天主凝聚会的帮助，并快速成长为艾玛帝国工业领域的领头企业。
+  divisions:
+    18:
+      divisionNumber: 3
+      leaderID: 3014474
+      size: 40
+    22:
+      divisionNumber: 1
+      leaderID: 3012968
+      size: 43
+    24:
+      divisionNumber: 2
+      leaderID: 3012969
+      size: 15
   enemyID: 1000151
   extent: R
   factionID: 500003
@@ -9691,6 +10714,11 @@
     1000066: 51
     1000072: 19
     1000090: 30
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -10018,6 +11046,19 @@
       компания существенно ослабла. Но она сумела выжить и сегодня пользуется умеренным
       успехом.
     zh: 这是一家历史悠久的公司，可以追溯到大概1500年前的道德改革时期。佐洱是一个很有影响力的人物，与皇室关系紧密。他利用皇室关系将自己的公司推上了主导地位。佐洱死后，公司遭到对手和政敌的打压，很快衰败下来。但是它艰难地幸存了下来，目前保持着中等发展水平。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014496
+      size: 25
+    23:
+      divisionNumber: 2
+      leaderID: 3013418
+      size: 44
+    24:
+      divisionNumber: 3
+      leaderID: 3012983
+      size: 29
   enemyID: 1000083
   extent: N
   factionID: 500003
@@ -10028,6 +11069,12 @@
   investors:
     1000067: 60
     1000151: 35
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
+  - 107
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -10116,6 +11163,19 @@
       увеличения гибкости и снижения рисков. Сегодня, компания производит как роскошные,
       так и более простые товары, обычно очень качественные, но в маленьком количестве.
     zh: 高尚用具公司是专门为超级富豪定制珠宝的小型制造公司。但是公司的管理者十分精明，扩充了他们的生产线以增强其灵活性和安全性。现在公司的产品名目繁多，有奢华的，也有普通的，大都是些高品质而且限量发行的物品。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014521
+      size: 30
+    23:
+      divisionNumber: 2
+      leaderID: 3013014
+      size: 51
+    24:
+      divisionNumber: 3
+      leaderID: 3014514
+      size: 18
   enemyID: 1000071
   extent: R
   factionID: 500003
@@ -10126,6 +11186,11 @@
   investors:
     1000077: 20
     1000078: 25
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -10487,6 +11552,14 @@
     47357: 0.083
     47361: 0.083
     49721: 0.083
+    56201: 1.0
+    56202: 1.0
+    56203: 1.0
+    56204: 1.0
+    56205: 1.0
+    56206: 1.0
+    56207: 1.0
+    56208: 1.0
   deleted: false
   descriptionID:
     de: Ducia Foundry ist eine der wenigen amarrianischen Gesellschaften, die sich
@@ -10529,6 +11602,19 @@
       Она известна тем, что посылает тяжело вооруженные экспедиции старателей во внешние
       области космоса ― риск, на который готовы пойти немногие респектабельные компании.
     zh: 杜厦铸造是少数几个在边境以外寻找商机的艾玛公司之一。这是个充满活力的采矿公司，愿意冒险寻找富矿。公司会派遣全副武装的采矿探险队深入外层空间。很少有公司愿意冒这样的风险。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013035
+      size: 20
+    23:
+      divisionNumber: 2
+      leaderID: 3013036
+      size: 59
+    24:
+      divisionNumber: 3
+      leaderID: 3013429
+      size: 20
   enemyID: 1000064
   extent: G
   factionID: 500003
@@ -10538,6 +11624,12 @@
   initialPrice: 78
   investors:
     1000067: 80
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
+  - 107
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -10643,6 +11735,15 @@
       власти Ammatar и семья Sarum, которые предоставили компании военные силы для
       охраны её предприятий в опасной зоне.'
     zh: HZO精炼集团是个采矿公司，规模很小但野心勃勃，其主要业务都集中在米玛塔尔和艾玛达间争夺中的空域内。这片空域的大部分都有十分富饶的矿藏资源，因此近几年HZO精炼集团效益很好。艾玛达当局和萨拉姆家族都是公司的坚实后盾。萨拉姆家族给予HZO精炼集团所需的军事保护，以确保其采矿运作顺利进行。
+  divisions:
+    23:
+      divisionNumber: 1
+      leaderID: 3013069
+      size: 83
+    24:
+      divisionNumber: 2
+      leaderID: 3014544
+      size: 16
   enemyID: 1000081
   extent: R
   factionID: 500003
@@ -10653,6 +11754,11 @@
   investors:
     1000088: 14
     1000154: 35
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -10740,6 +11846,15 @@
       слои населения Amarr и даже иностранцы. Это существенно увеличило прибыль компании,
       но ухудшило её репутацию среди консервативных Владетелей Amarr.
     zh: 天赋植体公司是新伊甸主要的计算机植入体公司，他们扎根于该产业已有几个世纪之久。天赋植体公司最早为迎合劳工主尤其是皇室的需要而建立,目前他们仍是公司最大的客户，但最近产品开始被销售给其他艾玛人和外国人，公司利润成倍增长，但这也引起了艾玛劳工主中保守分子的不满。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013438
+      size: 67
+    24:
+      divisionNumber: 2
+      leaderID: 3014555
+      size: 32
   enemyID: 1000066
   extent: N
   factionID: 500003
@@ -10748,6 +11863,11 @@
   initialPrice: 11
   investors:
     1000085: 18
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 6
   memberLimit: -1
   minSecurity: 0.0
@@ -10853,6 +11973,15 @@
       Amarr, но несколько десятилетий назад она выросла в полноценную организацию
       по доставке грузов и охватывает всю Империю Amarr.'
     zh: 帝国运输刚开始是艾玛帝国的官方运送服务部门，几十年前转变成了个运输公司，业务遍及整个艾玛帝国。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013444
+      size: 76
+    24:
+      divisionNumber: 2
+      leaderID: 3014582
+      size: 23
   enemyID: 1000070
   extent: N
   factionID: 500003
@@ -10862,6 +11991,11 @@
   initialPrice: 9
   investors:
     1000065: 9
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: -1.0
@@ -10929,6 +12063,15 @@
       некоторой независимости, какой обладают службы новостей других империй, фактические
       случаи государственной цензуры крайне редки.
     zh: 艾玛帝国内唯一得到皇室授权的官方通讯社。尽管艾玛认证通讯社不像其他帝国通讯社那样独立自主，事实上被审查的案例却十分少。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014609
+      size: 83
+    24:
+      divisionNumber: 2
+      leaderID: 3014608
+      size: 16
   extent: N
   factionID: 500003
   hasPlayerPersonnelManager: false
@@ -10937,6 +12080,11 @@
   investors:
     1000073: 45
     1000082: 10
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 8
   memberLimit: -1
   minSecurity: 0.0
@@ -11042,6 +12190,19 @@
       добычей ресурсов широкого спектра и работает как в Империи Amarr, так и за ее
       пределами.
     zh: 联合收割诞生于十年前，由几个农业采矿公司联合兼并而成。它是新伊甸最大的原材料公司之一，在艾玛帝国内外进行各种各样的资源采集运作。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014625
+      size: 36
+    23:
+      divisionNumber: 2
+      leaderID: 3013250
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3013205
+      size: 24
   enemyID: 1000075
   extent: G
   factionID: 500003
@@ -11049,6 +12210,11 @@
   hasPlayerPersonnelManager: false
   iconID: 1490
   initialPrice: 41
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 0.0
@@ -11123,6 +12289,15 @@
       Nurtura — одна из крупнейших сельскохозяйственных компаний Amarr. Oна остается
       лидером экспорта основных продовольственных товаров в другие империи.'
     zh: 艾玛有一整个专门生产食物的行星。这个人口众多的国家有过饥荒的苦难经历，现在再也不希望重新遭受一次大规模的饥荒。努图拉集团是艾玛最大的农业公司之一，向其他帝国出口基础食料。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013280
+      size: 85
+    24:
+      divisionNumber: 2
+      leaderID: 3014662
+      size: 14
   enemyID: 1000076
   extent: G
   factionID: 500003
@@ -11130,6 +12305,11 @@
   hasPlayerPersonnelManager: false
   iconID: 1491
   initialPrice: 58
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 0.0
@@ -11206,6 +12386,11 @@
       Это не позволяет компании расширить свою деятельность, но зато у флотов семей
       Ardishapur и Sarum никогда не будет недостатка провизии.
     zh: 长足食品是家由阿狄莎波家族和萨拉姆家族共同拥有的小型农业公司，其产品大多被这两个家族的人所享用，只有剩余的一小部分允许在公开市场上出售。虽然这使阿狄莎波和萨拉姆家族永不缺乏美食，但也大大遏止了公司扩张的机会。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014705
+      size: 100
   enemyID: 1000074
   extent: L
   factionID: 500003
@@ -11213,6 +12398,11 @@
   hasPlayerPersonnelManager: false
   iconID: 1492
   initialPrice: 13
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 0.0
@@ -11647,6 +12837,11 @@
       всего один континент на планете Amarr Prime, до появления Империи и Великого
       Освоения.
     zh: 艾玛皇家学院是新伊甸最古老的教育机构之一，它的起源要追溯到帝国和“大归御”之前，那时艾玛人仍旧只能在艾玛首星大陆上生活。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013334
+      size: 100
   extent: N
   factionID: 500003
   friendID: 1000064
@@ -11657,6 +12852,11 @@
     1000064: 45
     1000085: 35
     1000093: 20
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 1.0
@@ -11724,6 +12924,15 @@
       на то, что авторитет Канцлера главным образом ограничен имперской бюрократией,
       он все равно считается одним из самых влиятельных людей империи.'
     zh: 作为艾玛政府部首领，帝国议长由艾玛帝王亲自任命，只对艾玛皇帝负责。尽管帝国议长权力多限于帝国的官僚机构，但是它依然被认为是帝国中最有权力的人之一。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013369
+      size: 90
+    24:
+      divisionNumber: 2
+      leaderID: 3008525
+      size: 9
   enemyID: 1000080
   extent: R
   factionID: 500003
@@ -11732,6 +12941,11 @@
   initialPrice: 20
   investors:
     1000078: 60
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 1.0
@@ -11805,6 +13019,15 @@
       служба является крупнейшим работодателем в империи и обладает значительной политической
       силой благодаря возможности ускорять или затягивать рассмотрение различных дел.
     zh: 艾玛帝国是一个十分官僚的强大国度，艾玛内政部在政府机关和公共机构的巨大网络中承担着重要的责任。内政部是帝国中最大的雇主，掌控着重要的政治权力，因此可以掩盖或加快处理某些事情。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008569
+      size: 60
+    24:
+      divisionNumber: 2
+      leaderID: 3014736
+      size: 39
   enemyID: 1000084
   extent: N
   factionID: 500003
@@ -11815,6 +13038,11 @@
   investors:
     1000078: 15
     1000079: 60
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 0.0
@@ -11880,6 +13108,15 @@
       армии и космического флота Amarr, а также сильно влияет на международную политику
       империи.
     zh: 军务部通过他们的武装部队在艾玛帝国掌握强大的权力。军务部负责艾玛军队和空间海军的组建与维护，在帝国的外交政策中也有重要的发言权。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008605
+      size: 14
+    24:
+      divisionNumber: 2
+      leaderID: 3008588
+      size: 85
   enemyID: 1000082
   extent: N
   factionID: 500003
@@ -11890,6 +13127,12 @@
   investors:
     1000080: 30
     1000084: 15
+  lpOfferTables:
+  - 4
+  - 57
+  - 61
+  - 62
+  - 66
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 1.0
@@ -11959,6 +13202,19 @@
       министерства является наблюдение за шахтерской деятельностью в данных регионах
       и организация деятельности шахтерских компаний Amarr.
     zh: 国土评估局负责对艾玛空域内部和附近的恒星系进行勘测，并制图记录那些有利可图的小行星带和行星。它还负责监督这些地区的采矿活动，组织艾玛公司的采矿行动。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008635
+      size: 20
+    23:
+      divisionNumber: 2
+      leaderID: 3014802
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3008649
+      size: 41
   enemyID: 1000069
   extent: N
   factionID: 500003
@@ -11969,6 +13225,11 @@
   investors:
     1000079: 15
     1000081: 20
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 0.0
@@ -12046,6 +13307,15 @@
       порядка также отвечает за наблюдение за иностранцами в границах государства
       Amarr, в особенности за террористическими ячейками Minmatar.'
     zh: 艾玛政府对于推进集权很有心得。内务府负责追捕并驱逐在社会中不受欢迎的人，还负责监督外国人，尤其是米玛塔尔恐怖分子在艾玛境内的活动。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008685
+      size: 16
+    24:
+      divisionNumber: 2
+      leaderID: 3008676
+      size: 83
   enemyID: 1000078
   extent: N
   factionID: 500003
@@ -12056,6 +13326,12 @@
   investors:
     1000082: 20
     1000093: 10
+  lpOfferTables:
+  - 4
+  - 57
+  - 61
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -1.0
@@ -12092,6 +13368,14 @@
     11134: 0.0005016304949392034
     11135: 0.0005016304949392034
     11585: 0.0012051978574532298
+    56201: -1.0
+    56202: -1.0
+    56203: -1.0
+    56204: -1.0
+    56205: -1.0
+    56206: -1.0
+    56207: -1.0
+    56208: -1.0
   deleted: false
   descriptionID:
     de: Die amarrianische Regierung versucht möglichst viele Aspekte des täglichen
@@ -12128,6 +13412,11 @@
       Amarr, а также обо всех торговых и инвестиционных операциях иностранных компаний
       внутри Империи.
     zh: 艾玛政府总是试图控制其居民生活的方方面面，尤其是与贸易通信有关的每一件事。艾玛商管局拥有艾玛境内所有的交易记录，同时也监控着境内所有的外来贸易和投资。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014849
+      size: 100
   enemyID: 1000072
   extent: N
   factionID: 500003
@@ -12139,6 +13428,11 @@
     1000079: 15
     1000083: 55
     1000091: 30
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 0.0
@@ -12625,6 +13919,15 @@
       амаррских кораблей остается под вопросом: многие из них на протяжении многих
       десятилетий не проходили модернизацию и являются практически полностью устаревшими.'
     zh: 帝国海军信奉在任何情况下动用强大武力的简单信条。虽然帝国海军的很多飞船由于年久失修而几近报废，但其拥有的飞船数量仍几乎是相邻两国海军飞船总数的两倍。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013786
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3014888
+      size: 90
   enemyID: 1000051
   extent: N
   factionID: 500003
@@ -12635,6 +13938,12 @@
   investors:
     1000086: 100
     1000270: 0
+  lpOfferTables:
+  - 4
+  - 57
+  - 61
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -12719,6 +14028,15 @@
 
 
       凯蒂兹女皇一世在YC118年登基后保留了宫务大臣在艾玛帝国政治体系中的重要作用。'
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3014911
+      size: 78
+    24:
+      divisionNumber: 2
+      leaderID: 3014917
+      size: 21
   enemyID: 1000063
   extent: L
   factionID: 500003
@@ -12728,6 +14046,11 @@
   initialPrice: 20
   investors:
     1000085: 70
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 1.0
@@ -12822,6 +14145,15 @@
 
 
       凯蒂兹女皇一世在YC118年登基后，开始运用她早期经营积累下的人脉的经验和智慧来力求使艾玛帝国的繁荣和权势达到全新高度。'
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008785
+      size: 39
+    24:
+      divisionNumber: 2
+      leaderID: 3014934
+      size: 60
   enemyID: 1000093
   extent: N
   factionID: 500003
@@ -12831,6 +14163,11 @@
   initialPrice: 20
   investors:
     1000281: 0
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 2.0
@@ -12896,6 +14233,15 @@
       количество императоров, и для большинства Amarr именно она означает силу и мощь
       империи прошлого.
     zh: 卡多尔家族象征着帝国的荣耀，历代帝王多属于这个家族。对多数艾玛人来说，他们象征着伟大庄严的古老帝国。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008813
+      size: 55
+    24:
+      divisionNumber: 2
+      leaderID: 3008821
+      size: 44
   enemyID: 1000092
   extent: R
   factionID: 500003
@@ -12905,6 +14251,11 @@
   initialPrice: 20
   investors:
     1000281: 0
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 1.0
@@ -12973,6 +14324,15 @@
       в армии и военной промышленности Amarr. Это единственная королевская семья,
       желающая возродить политику Освоения.
     zh: 萨拉姆家族一直都是皇室中最好战的，无论何时需要都愿意拿起武器。这个家族在艾玛军事和军火工业中利益双收。他们是唯一一个想要复兴大开拓时代荣光的皇室家族。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008828
+      size: 15
+    24:
+      divisionNumber: 2
+      leaderID: 3008832
+      size: 84
   enemyID: 1000281
   extent: R
   factionID: 500003
@@ -12982,6 +14342,12 @@
   initialPrice: 20
   investors:
     1000281: 0
+  lpOfferTables:
+  - 4
+  - 57
+  - 62
+  - 66
+  - 61
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -13052,6 +14418,15 @@
       методы, которыми они руководствуются, приветствуются публикой, но они же являются
       причиной появления многих опасных врагов, ожидающих подходящего момента.
     zh: 柯埃佐家族历来在艾玛政治风波中保持中立，为各种问题积极寻求折中办法，力求和平解决。他们的外交风格为公众所喜欢，但也因此树立了许多强敌。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008845
+      size: 51
+    24:
+      divisionNumber: 2
+      leaderID: 3014985
+      size: 48
   enemyID: 1000281
   extent: R
   factionID: 500003
@@ -13061,6 +14436,11 @@
   initialPrice: 20
   investors:
     1000281: 0
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 1.0
@@ -13126,6 +14506,15 @@
       на то, что их владения в некоторых отношениях отстают в развитии, они стабильны
       и безопасны.
     zh: 阿狄莎波家族是传统皇室家族，他们十分保守，尊崇艾玛人的信仰。虽然他们的地位在许多方面都有所减退，但还算稳定可靠。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013812
+      size: 62
+    24:
+      divisionNumber: 2
+      leaderID: 3014999
+      size: 37
   enemyID: 1000077
   extent: R
   factionID: 500003
@@ -13135,6 +14524,11 @@
   initialPrice: 20
   investors:
     1000281: 0
+  lpOfferTables:
+  - 3
+  - 59
+  - 61
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 1.0
@@ -13201,6 +14595,15 @@
       Amarr. Но благодаря своему огромному богатству они смогли добиться столь высокого
       положения.
     zh: 塔什蒙贡家族是在卡尼迪家族退出后被提拔上来的皇室家族。塔什蒙贡还是一个外系，因为他们有尤朵血统，并不是纯种艾玛人。现在拥有巨额资产的他们，已疏通关系，步步高升。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008865
+      size: 45
+    24:
+      divisionNumber: 2
+      leaderID: 3008868
+      size: 55
   enemyID: 1000085
   extent: R
   factionID: 500003
@@ -13211,6 +14614,11 @@
   investors:
     1000091: 100
     1000281: 0
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 0.0
@@ -13277,6 +14685,15 @@
       политических махинаций более влиятельных организаций, но в последнее время ему
       удается оставаться сравнительно независимым.
     zh: 作为艾玛司法系统中一支长久力量，民事法庭一直在神学理事会的阴影之下运作。虽然最近几年民事法庭都在想方设法争取独立，但仍经常在政治阴谋中被更为强大的团体所利用。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008882
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3015034
+      size: 90
   enemyID: 1000067
   extent: N
   factionID: 500003
@@ -13287,6 +14704,11 @@
   investors:
     1000092: 20
     1000093: 5
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 15
   memberLimit: -1
   minSecurity: 1.0
@@ -13363,6 +14785,15 @@
       силу внутри империи, позволяющую проводить расследования, допросы и заключать
       под стражу практически любого человека по своему желанию.
     zh: 作为最后一个统治帝国的宗教派别的余部，神学理事会在其他帝国内有着与最高法院同等的地位。它还是一个道德仲裁和异教徒追捕机构，在帝国内拥有相当大的权力，可随意调查，审问，甚至监禁任何一个人。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008935
+      size: 12
+    24:
+      divisionNumber: 2
+      leaderID: 3008914
+      size: 87
   enemyID: 1000073
   extent: N
   factionID: 500003
@@ -13372,6 +14803,11 @@
   investors:
     1000086: 55
     1000093: 25
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 15
   memberLimit: -1
   minSecurity: 2.0
@@ -13500,6 +14936,15 @@
       крупного игрока на рынке, развивающегося быстрыми темпами исключительно благодаря
       маркетинговым усилиям.
     zh: 泛星船运作为新伊甸最大的船运公司，在各地提供便宜可靠的服务。泛星船运是仅次于星际捷运的第二号星际船运公司，而它也是通过纯粹市场操作发展壮大起来的大公司的典型。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3008988
+      size: 74
+    24:
+      divisionNumber: 2
+      leaderID: 3008959
+      size: 25
   enemyID: 1000099
   extent: G
   factionID: 500004
@@ -13511,6 +14956,11 @@
     1000094: 60
     1000111: 25
     1000133: 10
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: -2.0
@@ -13620,6 +15070,15 @@
       концентрировалась на работе в пространстве Федерации, даже когда было бы более
       выгодно расширить свою деятельность за ее пределы.
     zh: 虽然联邦货运局比其他很多货运公司都小，但它仍是盖伦特境内最被认可的货运公司。公司历史悠久，主要致力于联邦内的工作，即使有时候对外扩张更有利可图，但他们仍不改初衷。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009059
+      size: 60
+    24:
+      divisionNumber: 2
+      leaderID: 3015152
+      size: 39
   enemyID: 1000110
   extent: N
   factionID: 500004
@@ -13630,6 +15089,11 @@
   investors:
     1000100: 20
     1000113: 15
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: 0.0
@@ -13695,6 +15159,15 @@
       и начал использовать IZS для транспортировки денег и других ценных грузов между
       станциями, так как IZS обладает прекрасной системой безопасности.
     zh: 短途物流是个专门从事原材料整装货运的小型运输公司，由于安全体系完备，泛光银行最近收购了它的绝大多数股份，并雇佣它在空间站间运输金钱和其他贵重物品。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015170
+      size: 83
+    24:
+      divisionNumber: 2
+      leaderID: 3015162
+      size: 16
   enemyID: 1000114
   extent: C
   factionID: 500004
@@ -13706,6 +15179,11 @@
     1000098: 28
     1000101: 21
     1000112: 33
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: 0.0
@@ -13884,6 +15362,15 @@
       вложившая огромные средства в MA с целью создания крупнейшей шахтерской компании
       в Федерации.
     zh: 物资集团成立后，在极短的时间内占有了大量市场份额。这主要是因为它的商业运作方式和取向十分极端，甚至以出钱购买竞争者的财产为手段，使其退出市场。酷菲集团是物资集团的母公司，对其投入了大量资金，想将其打造为联邦内最大的采矿公司。
+  divisions:
+    23:
+      divisionNumber: 1
+      leaderID: 3009110
+      size: 61
+    24:
+      divisionNumber: 2
+      leaderID: 3015193
+      size: 38
   enemyID: 1000098
   extent: N
   factionID: 500004
@@ -13895,6 +15382,11 @@
     1000100: 67
     1000102: 20
     1000111: 13
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -13995,6 +15487,19 @@
       обязанностями, занимающихся разведкой, добычей и продажей. Благодаря этому Astral
       Mining из года в год входит в число самых богатых компаний в корпоративном мире.
     zh: 很多人认为星形矿业是新伊甸中运营最好的矿业公司。公司组织良好，有明确的勘测、采矿和销售部门，这使得星形矿业每年都成为整个世界中最大的赢利者。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009172
+      size: 14
+    23:
+      divisionNumber: 2
+      leaderID: 3009123
+      size: 58
+    24:
+      divisionNumber: 3
+      leaderID: 3013763
+      size: 27
   enemyID: 1000094
   extent: N
   factionID: 500004
@@ -14004,6 +15509,11 @@
   initialPrice: 29
   investors:
     1000112: 23
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -14074,6 +15584,19 @@
       Однако она очень ревностно относится к своей доле рынка и пойдет на все, чтобы
       защитить ее от конкурентов.
     zh: 作为盖伦特联邦内主要的农业公司，复合收割实质上是很保守和被动的。它仅在联邦内部运作，并不希望进入其他帝国的市场。然而，它非常在乎自己占有的市场份额，为此愿不惜一切代价。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009220
+      size: 40
+    23:
+      divisionNumber: 2
+      leaderID: 3015276
+      size: 48
+    24:
+      divisionNumber: 3
+      leaderID: 3009191
+      size: 10
   enemyID: 1000111
   extent: N
   factionID: 500004
@@ -14083,6 +15606,11 @@
   initialPrice: 8
   investors:
     1000112: 27
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 0.0
@@ -14154,6 +15682,19 @@
       производимому ею невероятно популярному напитку Quafe. Компания также работает
       во многих других областях и обладает серьезным политическим влиянием.
     zh: 酷菲集团作为新伊甸最大的集团之一，它的巨大成功是基于它们极受欢迎的酷菲饮料。公司在许多其他领域也有投入，因而具有相当大的政治影响力。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009284
+      size: 57
+    23:
+      divisionNumber: 2
+      leaderID: 3009234
+      size: 20
+    24:
+      divisionNumber: 3
+      leaderID: 3009311
+      size: 22
   enemyID: 1000105
   extent: G
   factionID: 500004
@@ -14163,6 +15704,11 @@
   initialPrice: 71
   investors:
     1000114: 8
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: -1.0
@@ -14451,6 +15997,23 @@
       путешествия в систему Ouperia, уже много лет остается ведущей корпорацией в
       сфере разработки и производства дронов.
     zh: 西顿工业是由“老家伙达列克斯”从奥佩里亚星系的奇异旅行回来之后创立的，多年来，它一直都是无人机研制和生产的主要厂商。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3009317
+      size: 24
+    22:
+      divisionNumber: 1
+      leaderID: 3015349
+      size: 20
+    23:
+      divisionNumber: 2
+      leaderID: 3009350
+      size: 44
+    24:
+      divisionNumber: 3
+      leaderID: 3015331
+      size: 9
   enemyID: 1000115
   extent: G
   factionID: 500004
@@ -14463,6 +16026,11 @@
     1000108: 35
     1000111: 20
     1000114: 10
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -14725,6 +16293,23 @@
       поиском самых талантливых специалистов и часто переманивает их из других компаний,
       суля им славу и богатство.
     zh: 莱登船业的所有人是臭名昭著的杰科斯•莱登，史上最恶劣的强盗资本家和恶棍。凭着他的狡诈领导技术，该公司成为了联邦内领先的护卫舰和穿梭机制造商。该公司还运营着一所实力雄厚的研发部门。莱登致力于网罗各地一流人才，通常以名誉和金钱为诱饵，从其他公司挖人。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3009381
+      size: 15
+    22:
+      divisionNumber: 1
+      leaderID: 3009393
+      size: 39
+    23:
+      divisionNumber: 2
+      leaderID: 3013715
+      size: 18
+    24:
+      divisionNumber: 3
+      leaderID: 3019416
+      size: 27
   enemyID: 1000100
   extent: N
   factionID: 500004
@@ -14734,6 +16319,11 @@
   initialPrice: 18
   investors:
     1000114: 15
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -14811,6 +16401,19 @@
       на то, что компания ещё находится в ранней стадии развития, она уже обладает
       широким ассортиментом продукции, что обещает ей прекрасное будущее.
     zh: 阿洛特工业是莱登船业的分公司，创立于几年前，研制并生产顶级飞船装备。虽然公司仍处于发展初期，但其出色的产品使得公司的未来非常光明。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015377
+      size: 38
+    23:
+      divisionNumber: 2
+      leaderID: 3013717
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3015372
+      size: 23
   enemyID: 1000109
   extent: C
   factionID: 500004
@@ -14821,6 +16424,11 @@
   investors:
     1000102: 49
     1000103: 51
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 19
   memberLimit: -1
   minSecurity: 0.0
@@ -14897,6 +16505,15 @@
       научно-исследовательском проекте, производимого по заказу правительства Федерации,
       результаты которого проявятся в ближайшем будущем.
     zh: 波特克集团是新伊甸的主要生物技术集团之一。在它渊远流长的历史中，创造了不少奇迹，拓展了大量人类疾病的治疗方法。目前它正致力于联邦政府的一个最高机密研究项目，应该不久就会有结果。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009420
+      size: 57
+    24:
+      divisionNumber: 2
+      leaderID: 3009410
+      size: 42
   enemyID: 1000122
   extent: G
   factionID: 500004
@@ -14907,6 +16524,11 @@
   investors:
     1000108: 20
     1000135: 15
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 6
   memberLimit: -1
   minSecurity: 0.0
@@ -15201,6 +16823,15 @@
       новостных матриц: технологии, которая может произвести революцию в новостном
       бизнесе.'
     zh: 促进工业是新伊甸主要的全息记录盘制造商，从宏伟的史诗电影到廉价的盗版影片，题材无所不及。促进工业最近几年引领着即时新闻列阵的发展，这项技术一旦研发成功，将给新闻产业带来巨大变革。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009449
+      size: 82
+    24:
+      divisionNumber: 2
+      leaderID: 3015388
+      size: 17
   enemyID: 1000116
   extent: G
   factionID: 500004
@@ -15210,6 +16841,12 @@
   initialPrice: 42
   investors:
     1000114: 5
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
+  - 107
   mainActivityID: 8
   memberLimit: -1
   minSecurity: 0.0
@@ -15288,6 +16925,11 @@
       музыку по вкусу любого слушателя. Успех технологии Egonics понравился не всем;
       например, в Империи Amarr ее продукция запрещена.
     zh: 自尊集团在音乐行业有着特殊的地位。他们采用了一种特殊的音乐播放技术，现在已经变得非常流行，尤其是在年轻一代中。自尊集团雇了自己的音乐制作人，根据听众的不同品位度身定制音乐。但不是所有人都喜欢这样的技术，艾玛帝国已经将该项技术视为非法。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015393
+      size: 100
   enemyID: 1000118
   extent: N
   factionID: 500004
@@ -15297,6 +16939,11 @@
   initialPrice: 105
   investors:
     1000100: 40
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 8
   memberLimit: -1
   minSecurity: 0.0
@@ -15399,6 +17046,15 @@
       но она все же достаточно консервативна, чтобы пользоваться репутацией надежного
       новостного агентства среди самых влиятельных предпринимателей и политиков.
     zh: 视角传媒是新伊甸里的主导通讯社。尽管总部设在联邦境内，但公司却自豪于自己的完全独立，在世界各地都有着不同的星际代理处。视角传媒稍微有点左倾，但也足够保守，被公认为是一个可靠的通讯社，甚至最麻烦的商人和政客也这么认为。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009495
+      size: 63
+    24:
+      divisionNumber: 2
+      leaderID: 3009491
+      size: 36
   enemyID: 1000120
   extent: G
   factionID: 500004
@@ -15410,6 +17066,11 @@
     1000064: 8
     1000104: 14
     1000107: 73
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 8
   memberLimit: -1
   minSecurity: -1.0
@@ -15710,6 +17371,14 @@
     47357: 0.083
     47361: 0.083
     49721: 0.083
+    56201: 1.0
+    56202: 1.0
+    56203: 1.0
+    56204: 1.0
+    56205: 1.0
+    56206: 1.0
+    56207: 1.0
+    56208: 1.0
   deleted: false
   descriptionID:
     de: Chemal Tech ist eine etablierte Hi-Tech Corporation, die vor einigen Jahrzehnten
@@ -15739,6 +17408,19 @@
       Хотя с тех пор компания несколько сдала свои позиции, она все еще производит
       высококачественное оборудование для радиоэлектронной борьбы.
     zh: 切玛科技公司成立于几十年前，曾拥有最先进的电子战技术。虽然此后公司的前景逐渐黯淡，但其所生产的电子战装备仍是一流的。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009544
+      size: 23
+    23:
+      divisionNumber: 2
+      leaderID: 3009551
+      size: 26
+    24:
+      divisionNumber: 3
+      leaderID: 3009515
+      size: 50
   enemyID: 1000102
   extent: G
   factionID: 500004
@@ -15749,6 +17431,12 @@
   investors:
     1000111: 11
     1000112: 15
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
+  - 107
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -16009,6 +17697,19 @@
       высокотехнологичного вооружения и заканчивая разработкой нанороботов и оборудования
       для клонирования.
     zh: 度沃勒实验室是少数几家注重于研究而不是对成果进行实际应用的公司之一。度沃勒实验室开展着数量巨大的各种研究，涵盖了高科技武器、纳米机器人和克隆设备等等。
+  divisions:
+    18:
+      divisionNumber: 3
+      leaderID: 3009566
+      size: 26
+    22:
+      divisionNumber: 1
+      leaderID: 3009562
+      size: 36
+    24:
+      divisionNumber: 2
+      leaderID: 3015419
+      size: 36
   enemyID: 1000020
   extent: N
   factionID: 500004
@@ -16020,6 +17721,11 @@
     1000100: 55
     1000112: 30
     1000114: 15
+  lpOfferTables:
+  - 10
+  - 11
+  - 58
+  - 62
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -16134,6 +17840,15 @@
       монополии в границах Федерации, что вызывает серьезную озабоченность со стороны
       администрации.
     zh: 飞马集团是新伊甸中最大的零售商，它们在盖伦特联邦内几乎处于垄断地位，这使得联邦政府部非常担心。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009646
+      size: 81
+    24:
+      divisionNumber: 2
+      leaderID: 3015436
+      size: 18
   enemyID: 1000102
   extent: N
   factionID: 500004
@@ -16144,6 +17859,11 @@
   investors:
     1000096: 28
     1000112: 13
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 11
   memberLimit: -1
   minSecurity: 0.0
@@ -16367,6 +18087,15 @@
       на рынках всех империй. Aliastra не смогла успешно конкурировать с FedMart в
       самой Федерации, но добилась некоторого успеха в других империях.
     zh: 埃拉斯多集团是一个业务范围广且运营良好的零售公司，其经营范围遍布整个帝国。虽然在国内与飞马集团无法抗衡，但在其他国家却业绩斐然，取得了不小的成功。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009693
+      size: 73
+    24:
+      divisionNumber: 2
+      leaderID: 3015495
+      size: 26
   enemyID: 1000100
   extent: G
   factionID: 500004
@@ -16378,6 +18107,11 @@
     1000110: 20
     1000111: 60
     1000112: 20
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 11
   memberLimit: -1
   minSecurity: 0.0
@@ -16414,6 +18148,14 @@
     9844: 0.5690868956279652
     11129: 0.07006543035279326
     11130: 0.07006543035279326
+    56201: -1.0
+    56202: -1.0
+    56203: -1.0
+    56204: -1.0
+    56205: -1.0
+    56206: -1.0
+    56207: -1.0
+    56208: -1.0
   deleted: false
   descriptionID:
     de: 'Die Nationalbank der Gallente, beheimatet auf Gallente Prime. Sie ist seit
@@ -16443,6 +18185,15 @@
       на протяжении многих веков и имеет обширные экономические интересы в Федерации,
       что позволяет ему влиять на большинство аспектов общественной жизни Gallente.
     zh: 盖伦特国家银行位于盖伦特首星上，有着数百年的历史，网罗整个联邦境内的金融业务。雄厚的实力，广泛的影响使它能够参与或干预盖伦特社会的多方面事务。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009713
+      size: 82
+    24:
+      divisionNumber: 2
+      leaderID: 3009711
+      size: 17
   enemyID: 1000121
   extent: N
   factionID: 500004
@@ -16452,6 +18203,11 @@
   initialPrice: 12
   investors:
     1000117: 33
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 17
   memberLimit: -1
   minSecurity: 1.0
@@ -16492,6 +18248,14 @@
     41135: 1.0
     41148: 1.0
     41615: 1.0
+    56201: -1.0
+    56202: -1.0
+    56203: -1.0
+    56204: -1.0
+    56205: -1.0
+    56206: -1.0
+    56207: -1.0
+    56208: -1.0
   deleted: false
   descriptionID:
     de: 'Pend Insurance wurde vor etwa 20 Jahren von Pier Ancru gegründet. Seine Geschichte
@@ -16532,6 +18296,15 @@
       одним из богатейших людей Федерации Gallente. Несмотря на то, что его компания
       в основном занимается инвестициями, она также действует как традиционный банк.
     zh: 大约20年前，皮尔•安克鲁创建了彭德保险。安克鲁获取成功的故事是一部真实的盖伦特人奋斗史。他出身贫寒，通过非凡的勇气和惊人的毅力出人头地，如今已成为联邦内最富有的人之一。他的公司主营投资业务，同时也承接普通银行业务。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015528
+      size: 96
+    24:
+      divisionNumber: 2
+      leaderID: 3009763
+      size: 3
   enemyID: 1000101
   extent: G
   factionID: 500004
@@ -16539,6 +18312,11 @@
   hasPlayerPersonnelManager: false
   iconID: 1529
   initialPrice: 90
+  lpOfferTables:
+  - 10
+  - 13
+  - 59
+  - 62
   mainActivityID: 17
   memberLimit: -1
   minSecurity: -1.0
@@ -16575,6 +18353,14 @@
     3814: 0.87683763504268
     11129: 0.03649704363287611
     11130: 0.03649704363287611
+    56201: -1.0
+    56202: -1.0
+    56203: -1.0
+    56204: -1.0
+    56205: -1.0
+    56206: -1.0
+    56207: -1.0
+    56208: -1.0
   deleted: false
   descriptionID:
     de: Die Garoun Investment Bank hat sich darauf spezialisiert aufstrebende Unternehmen
@@ -16606,6 +18392,15 @@
       Владельцами банка являются компания Quafe и медиа-магнат Raphel Bar; они создали
       его для увеличения своего влияния в этих важнейших областях.
     zh: 加罗恩投资银行专为刚启动的公司提供融资，特别是那些高科技产业和娱乐行业的公司。它隶属于酷菲集团和媒体大亨拉斐尔·巴。他们建立加罗恩投资银行是为了在这一重要领域扩大自己的影响力。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009775
+      size: 50
+    24:
+      divisionNumber: 2
+      leaderID: 3009787
+      size: 50
   enemyID: 1000109
   extent: N
   factionID: 500004
@@ -16615,6 +18410,11 @@
   initialPrice: 39
   investors:
     1000100: 67
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 17
   memberLimit: -1
   minSecurity: 0.0
@@ -17080,6 +18880,11 @@
       культур и идей всего мира. В нем обучают всем дисциплинам, но больше всего он
       известен своим факультетом антропологии.
     zh: 凯勒大学作为新伊甸的最大学校，拥有将近50万学生，长久以来一直是全世界文化和思想的熔炉。凯勒大学以学科丰富而闻名，其中最有名的是泛人类学系。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009795
+      size: 100
   enemyID: 1000117
   extent: N
   factionID: 500004
@@ -17091,6 +18896,11 @@
     1000100: 30
     1000108: 40
     1000113: 30
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 1.0
@@ -17155,6 +18965,15 @@
       самых могущественных людей в мире EVE. Действующий президент, Foiritan, очень
       популярен среди своего народа.
     zh: 总统是联邦政府行政部的领袖。他拥有强大的权力，就很多方面而言，是新伊甸最具权威的人。现任总统佛里坦非常体恤民情。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009803
+      size: 38
+    24:
+      divisionNumber: 2
+      leaderID: 3015542
+      size: 61
   enemyID: 1000100
   extent: L
   factionID: 500004
@@ -17166,6 +18985,11 @@
     1000116: 60
     1000117: 20
     1000270: 0
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 2.0
@@ -17235,6 +19059,15 @@
       нередко ослабляло положение Сената в прошлом, но его текущий состав практически
       полностью оппозиционен президенту, сильно осложняя ему жизнь.
     zh: 参议院是联邦政府的立法机关。它还负责监督联邦预算，这使得它有非常大的权力。派别斗争时常给参议院带来负面影响，但这届参议院却常能在总统面前组成统一战线，使总统吃足苦头。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009804
+      size: 46
+    24:
+      divisionNumber: 2
+      leaderID: 3015551
+      size: 53
   enemyID: 1000107
   extent: C
   factionID: 500004
@@ -17245,6 +19078,11 @@
   investors:
     1000117: 55
     1000119: 10
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 2.0
@@ -17309,6 +19147,15 @@
       соблюдением конституции Федерации, но его главной заботой является стремление
       сделать федеральную администрацию как можно более открытой и честной.
     zh: 联邦最高法院是联邦内的最高司法机构。它确保联邦宪法得到遵守，但它主要负责权力的公正性，努力使行政公开严明。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009805
+      size: 15
+    24:
+      divisionNumber: 2
+      leaderID: 3015556
+      size: 84
   enemyID: 1000095
   extent: L
   factionID: 500004
@@ -17319,6 +19166,11 @@
   investors:
     1000116: 40
     1000118: 60
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 15
   memberLimit: -1
   minSecurity: 2.0
@@ -17392,6 +19244,15 @@
       Gallente намного раньше, чем для обитателей других держав, а также гораздо более
       развитой системой межзвездной торговли Федерации.
     zh: 联邦政府部在太空的影响力比其他帝国的官僚机构更大，这主要是因为相比其他帝国，太空航行在盖伦特的普通百姓中更早普及，而且联邦内的星际贸易也比其他地方多得多。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009834
+      size: 58
+    24:
+      divisionNumber: 2
+      leaderID: 3009823
+      size: 41
   enemyID: 1000103
   extent: N
   factionID: 500004
@@ -17401,6 +19262,11 @@
   initialPrice: 20
   investors:
     1000117: 20
+  lpOfferTables:
+  - 10
+  - 13
+  - 58
+  - 62
   mainActivityID: 13
   memberLimit: -1
   minSecurity: 0.0
@@ -17874,6 +19740,15 @@
       с Amarr бюджет флота был урезан в несколько раз. Он все еще полагается на армады
       дронов для уничтожения врагов, но сильно страдает от нехватки кораблей.'
     zh: 自从结束了与加达里的战争并且改善了与艾玛帝国的关系之后，联邦海军的预算被大大削减。这支无人机舰队急需新鲜血液加入。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009902
+      size: 15
+    24:
+      divisionNumber: 2
+      leaderID: 3009874
+      size: 84
   enemyID: 1000106
   extent: N
   factionID: 500004
@@ -17884,6 +19759,12 @@
   investors:
     1000116: 55
     1000119: 10
+  lpOfferTables:
+  - 10
+  - 12
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -17946,6 +19827,15 @@
       Предполагается, что оно управляет обширной разведывательной сетью, конкуренцию
       которой могут составить только Jove.
     zh: 联邦情报处直接为总统工作，行事诡秘，总在暗处秘密进行。据说其操纵的特工网络范围之广只有朱庇特人才能与之抗衡。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009918
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3009927
+      size: 90
   enemyID: 1000097
   extent: N
   factionID: 500004
@@ -17956,6 +19846,12 @@
   investors:
     1000116: 40
     1000120: 20
+  lpOfferTables:
+  - 10
+  - 12
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -2.0
@@ -18026,6 +19922,15 @@
       Товары постоянно ввозятся и вывозятся из Федерации, и таможенная служба отвечает
       за проверку законности всех операций и сделок.
     zh: 由于贸易，尤其是星际贸易是盖伦特社会不可或缺的一部分，因此联邦海关局拥有如此大的权力和影响也就不足为奇了。货物经常出入联邦，因此海关经常忙于检查通关流程是否规范。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3009962
+      size: 34
+    24:
+      divisionNumber: 2
+      leaderID: 3013945
+      size: 65
   enemyID: 1000108
   extent: N
   factionID: 500004
@@ -18036,6 +19941,12 @@
   investors:
     1000119: 40
     1000120: 55
+  lpOfferTables:
+  - 10
+  - 12
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -1.0
@@ -18140,6 +20051,15 @@
       с силами Империи. Флот Ammatar нельзя назвать большим или опытным, но он в достаточной
       степени силен, чтобы сдерживать Minmatar.
     zh: 艾玛帝国允许艾玛达人拥有自己的舰队，因为他们深知艾玛达舰队会主动对抗米玛塔尔人，防止其骚扰艾玛帝国。艾玛达军队十分精简，但却足以牵制米玛塔尔人。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013951
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3009979
+      size: 90
   enemyID: 1000051
   extent: N
   factionID: 500007
@@ -18150,6 +20070,12 @@
   investors:
     1000084: 10
     1000126: 90
+  lpOfferTables:
+  - 18
+  - 20
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -2.0
@@ -18346,6 +20272,19 @@
       командного центра, но они бороздят космические просторы по всей галактике. Они
       имеют большой опыт пиратства, мародёрства и контрабанды.
     zh: 作为天使企业联合体的主要势力，大天使集团并没有活动中心，而是在整个太空中游荡。他们同样擅长于海盗行为，袭击和非法贩售行动。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013955
+      size: 8
+    23:
+      divisionNumber: 2
+      leaderID: 3018746
+      size: 4
+    24:
+      divisionNumber: 3
+      leaderID: 3015693
+      size: 88
   enemyID: 1000121
   extent: G
   factionID: 500011
@@ -18355,6 +20294,12 @@
   initialPrice: 38
   investors:
     1000138: 70
+  lpOfferTables:
+  - 40
+  - 42
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -10.0
@@ -18462,6 +20407,15 @@
       организацией, гордящейся своей самостоятельностью и твердо намеренной выполнять
       свои обязанности.
     zh: 统合部是一个多世纪前由所有帝国共同建立的，其意图在于改善各国之间脆弱的关系，并在发生分歧时充当会晤地点，找到和解方法。后来统合部成为一个独立的机构，并以此为荣，坚决履行职责。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010051
+      size: 56
+    24:
+      divisionNumber: 2
+      leaderID: 3010069
+      size: 43
   enemyID: 1000138
   exchangeRates:
     1000002: 0.8
@@ -18616,6 +20570,8 @@
   hasPlayerPersonnelManager: false
   iconID: 1541
   initialPrice: 20
+  lpOfferTables:
+  - 94
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 0.0
@@ -18686,6 +20642,15 @@
       и занимается его управлением. В нем служат амматарцы, но они находятся в подчинении
       у губернатора Амматар, который является амаррцем по происхождению.
     zh: 艾玛达共和国是隶属于艾玛帝国的半主权国家。艾玛达领事馆是其最高政府机关，掌管着国内各项事务。领事馆由艾玛达人操控，但他们都必须服从艾玛达统治者的指挥，这位统治者是艾玛人。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013962
+      size: 28
+    24:
+      divisionNumber: 2
+      leaderID: 3010115
+      size: 72
   enemyID: 1000050
   extent: N
   factionID: 500007
@@ -18695,6 +20660,11 @@
   initialPrice: 20
   investors:
     1000078: 10
+  lpOfferTables:
+  - 18
+  - 58
+  - 62
+  - 68
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 0.0
@@ -18889,6 +20859,19 @@
       наиболее организованной и дисциплинированной пиратской группировкой, действующей
       во внешних областях пространства.
     zh: 古斯塔斯海盗组织让加达里头疼了好多年。古斯塔斯由加达里海军前成员领导，大多在外部星域活动，组织有序，纪律严明。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010126
+      size: 9
+    23:
+      divisionNumber: 2
+      leaderID: 3018722
+      size: 6
+    24:
+      divisionNumber: 3
+      leaderID: 3015759
+      size: 83
   enemyID: 1000035
   extent: R
   factionID: 500010
@@ -18896,6 +20879,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1543
   initialPrice: 51
+  lpOfferTables:
+  - 45
+  - 47
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -10.0
@@ -19252,6 +21241,11 @@
       образом Intaki и Caldari, но в последнее время они стали принимать на службу
       представителей почти всех рас.
     zh: 莫德军团是一个在加达里和盖伦特境外活动的佣兵集团。很多诸如ORE这样的知名集团都会雇佣莫德团来为他们的行动提供保障。起初军团的成员大部分是印塔基人和加达里人，不过最近他们开始吸收各种族的成员加入。
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3015764
+      size: 100
   enemyID: 1000136
   extent: L
   factionID: 500018
@@ -19262,6 +21256,13 @@
   investors:
     1000031: 25
     1000035: 35
+  lpOfferTables:
+  - 26
+  - 27
+  - 57
+  - 62
+  - 66
+  - 107
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -19710,6 +21711,14 @@
     47357: 0.083
     47361: 0.083
     49721: 0.083
+    56201: 1.0
+    56202: 1.0
+    56203: 1.0
+    56204: 1.0
+    56205: 1.0
+    56206: 1.0
+    56207: 1.0
+    56208: 1.0
   deleted: false
   descriptionID:
     de: Outer Ring Excavations ist eine stinkreiche Firma, die sich von der Föderation
@@ -19743,6 +21752,19 @@
       действует главным образом в секторах Аутер-Ринг и Клауд-Ринг; там, в труднодоступных
       местах, размещены принадлежащие ей буровые группы, извлекающие ценнейшие минералы.
     zh: 外空联合矿业集团在矿冶业取得了巨大成果，获利颇丰。所谓树大招风，当联邦试图侵吞公司财产时，ORE选择了退出联邦，现在主要活动于外环星域和云环星域。他们在那里拥有分散在隐秘地点的采矿装置，可以精炼出市场上最有价值的矿石。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010129
+      size: 19
+    23:
+      divisionNumber: 2
+      leaderID: 3013970
+      size: 38
+    24:
+      divisionNumber: 3
+      leaderID: 3015772
+      size: 42
   enemyID: 1000141
   extent: R
   factionID: 500014
@@ -19750,6 +21772,10 @@
   hasPlayerPersonnelManager: false
   iconID: 1545
   initialPrice: 93
+  lpOfferTables:
+  - 31
+  - 59
+  - 107
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -19827,6 +21853,15 @@
       проектах по изучению «Евы», стремясь раскрыть всё её секреты. Сёстры-служительницы
       «Евы» считают эту червоточину вратами в рай.
     zh: 姐妹会是一个基于宗教的人道主义援救组织。姐妹会足迹遍布帝国空域外的许多空间站，在那里疲惫的游客可寻求庇护。姐妹会也参与了新伊甸之门的科学研究项目，他们认为这是通向天堂的入口，并决定揭开它的秘密。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013974
+      size: 65
+    24:
+      divisionNumber: 2
+      leaderID: 3010166
+      size: 34
   enemyID: 1000161
   extent: G
   factionID: 500016
@@ -19834,6 +21869,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1546
   initialPrice: 80
+  lpOfferTables:
+  - 38
+  - 59
+  - 62
+  - 101
+  - 106
   mainActivityID: 14
   memberLimit: -1
   minSecurity: 1.0
@@ -19910,6 +21951,11 @@
       уголках космоса. Эти школы считаются лучшими в мире EVE, и родители из всех
       государств борются за возможность устроить туда своих детей.
     zh: 理性思维社团几个世纪前由一个朱庇特人一手建立，起初作为精神机构而存在，几经周折后，如今以其开办的学校而远近闻名，这些学校开设在偏远的空域，被认为是新伊甸中最棒的，各地家长争相让自己的孩子进入就读。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015798
+      size: 100
   enemyID: 1000159
   extent: R
   factionID: 500017
@@ -19997,6 +22043,15 @@
       станциях. Ее агенты находятся на всех станциях галактики; они регистрируют сделки,
       а также предлагают услуги по депонированию и курьерским доставкам.
     zh: 商业安全委员会负责管理和监视空间站里的所有交易。在所有空间站都有它们的代理人记录交易，同时它们也提供运送和护卫服务来使交易顺利进行。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015803
+      size: 53
+    24:
+      divisionNumber: 2
+      leaderID: 3015807
+      size: 46
   enemyID: 1000144
   extent: L
   factionID: 500006
@@ -20080,6 +22135,19 @@
       Картелю. Для этих целей они часто используют детали кораблей, уничтоженных их
       товарищами из сил Angel.
     zh: 救赎天使集团是天使企业联合体中的非战斗集团。救赎天使负责建造和维修天使空间站和太空船。正因如此，它们经常要从其他天使伙伴遗留下来的残骸中打捞需要的物品。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010191
+      size: 58
+    23:
+      divisionNumber: 2
+      leaderID: 3010189
+      size: 32
+    24:
+      divisionNumber: 3
+      leaderID: 3010182
+      size: 8
   enemyID: 1000139
   extent: G
   factionID: 500011
@@ -20090,6 +22158,10 @@
   investors:
     1000124: 20
     1000138: 80
+  lpOfferTables:
+  - 40
+  - 59
+  - 62
   mainActivityID: 12
   memberLimit: -1
   minSecurity: -8.0
@@ -20293,6 +22365,15 @@
       славой самых опасных и диких пиратов во всём пространстве. CONCORD настойчиво
       рекомендует избегать посещения контролируемых ими зон в Bleak Lands.
     zh: 血袭者由一个古老的艾玛派系演变成一群凶狠的强盗，他们沉溺于作恶。统合部将其视为太空中最危险残忍的海盗团体，并建议人们远离他们在幽暗之域的活动区域。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015827
+      size: 23
+    24:
+      divisionNumber: 2
+      leaderID: 3015822
+      size: 76
   enemyID: 1000084
   extent: R
   factionID: 500012
@@ -20300,6 +22381,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1550
   initialPrice: 7
+  lpOfferTables:
+  - 43
+  - 44
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -10.0
@@ -20500,6 +22587,19 @@
       производителем и распространителем нелегальных нейронных бустеров. Она наняла
       группировку Guardian Angels для защиты своего имущества в космосе.
     zh: 天蛇集团最初是一个盖伦特研究公司，后来演变为一个违规药品集团。天蛇集团被认为是非法神经增效剂的最大生产商和分销商。他们已雇佣守护天使来保护空间内的资产。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015841
+      size: 27
+    23:
+      divisionNumber: 2
+      leaderID: 3010204
+      size: 31
+    24:
+      divisionNumber: 3
+      leaderID: 3010215
+      size: 40
   enemyID: 1000120
   extent: G
   factionID: 500020
@@ -20507,6 +22607,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1551
   initialPrice: 77
+  lpOfferTables:
+  - 51
+  - 52
+  - 57
+  - 62
+  - 66
   mainActivityID: 4
   memberLimit: -1
   minSecurity: -10.0
@@ -20603,6 +22709,15 @@
       Serpentis щедро платит Картелю за защиту, которая достаточно крепка, чтобы сдерживать
       даже DED.
     zh: 守护天使集团是天使企业联合体的一部分，现在专门守卫天蛇集团空间站。天蛇集团为此支付给天使企业联合体相当可观的报酬作为保护费，现在甚至连DED也拿它们毫无办法。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013989
+      size: 3
+    24:
+      divisionNumber: 2
+      leaderID: 3010230
+      size: 96
   enemyID: 1000149
   extent: G
   factionID: 500011
@@ -20613,6 +22728,12 @@
   investors:
     1000124: 40
     1000138: 60
+  lpOfferTables:
+  - 40
+  - 42
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -10.0
@@ -20715,6 +22836,11 @@
       пределами имперского пространства, давая преступникам понять , что им нигде
       не скрыться от правосудия. '
     zh: 联合安全局(DED)是统合部的治安武装，主要负责追捕出名的罪犯并攻击犯罪设施。他们经常在帝国以外的空间行动，让罪犯知道法网恢恢，疏而不漏。
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3010268
+      size: 100
   enemyID: 1000138
   extent: G
   factionID: 500006
@@ -20724,6 +22850,8 @@
   initialPrice: 20
   investors:
     1000125: 100
+  lpOfferTables:
+  - 113
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -4.0
@@ -20822,6 +22950,15 @@
       в регионе Curse. О лидерах Картеля известно крайне мало, кроме того, что они
       являются представителями самых различных рас.
     zh: 主天使集团是天使企业联合体的指挥部门，它们捉摸不定，很少冒险远离其在柯尔斯区域的基地。虽然人们知道天使企业联合体的首领来自各个种族，但对它们的身份却知之甚少。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013998
+      size: 15
+    24:
+      divisionNumber: 2
+      leaderID: 3013997
+      size: 84
   enemyID: 1000137
   extent: G
   factionID: 500011
@@ -20831,6 +22968,12 @@
   initialPrice: 45
   investors:
     1000124: 10
+  lpOfferTables:
+  - 40
+  - 42
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -10.0
@@ -20894,6 +23037,15 @@
       Нового Эдема и расходует их на покупку продовольствия и медикаментов, а затем
       раздаёт покупки тем, кому нужна помощь.
     zh: 粮食救济会是姐妹会的人道主义救助团队。公司收集来自整个新伊甸的捐助，用于购买食品和药物，并分发给需要的人。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015876
+      size: 76
+    24:
+      divisionNumber: 2
+      leaderID: 3015872
+      size: 23
   enemyID: 1000133
   extent: C
   factionID: 500016
@@ -20901,6 +23053,11 @@
   hasPlayerPersonnelManager: false
   iconID: 1555
   initialPrice: 31
+  lpOfferTables:
+  - 38
+  - 59
+  - 62
+  - 103
   mainActivityID: 1
   memberLimit: -1
   minSecurity: 1.0
@@ -20983,6 +23140,15 @@
 
 
       新伊甸纪元118年，朱庇特内议会将格鲁汀集团的运营权移交给了理性思维社团。'
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010336
+      size: 77
+    24:
+      divisionNumber: 2
+      leaderID: 3015889
+      size: 22
   enemyID: 1000104
   extent: G
   factionID: 500017
@@ -21086,6 +23252,19 @@
       за техническое обеспечение его флотов и станций. Guristas Production также подозревается
       в участии в ряде сверхсекретных проектов, в основном в области ракетных технологий.
     zh: 古斯塔斯制造是古斯塔斯海盗联合体最近新增的附属公司，负责对组织的舰船及空间站进行维护。它也被认为参与了几项高度机密的研究项目，多数是在弹药领域。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015916
+      size: 66
+    23:
+      divisionNumber: 2
+      leaderID: 3010350
+      size: 22
+    24:
+      divisionNumber: 3
+      leaderID: 3015914
+      size: 11
   enemyID: 1000120
   extent: C
   factionID: 500010
@@ -21096,6 +23275,10 @@
   investors:
     1000127: 90
     1000160: 10
+  lpOfferTables:
+  - 45
+  - 59
+  - 62
   mainActivityID: 7
   memberLimit: -1
   minSecurity: -10.0
@@ -21181,6 +23364,19 @@
 
 
       新伊甸纪元118年，朱庇特内议会将印普罗集团的运营权移交给了理性思维社团。'
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010362
+      size: 45
+    23:
+      divisionNumber: 2
+      leaderID: 3010364
+      size: 22
+    24:
+      divisionNumber: 3
+      leaderID: 3010366
+      size: 32
   enemyID: 1000016
   extent: G
   factionID: 500017
@@ -21276,6 +23472,15 @@
       успехов в своей деятельности. Это позволяет им оставаться беспристрастными,
       защищая интересы всех империй в равной степени и храня верность лишь CONCORD.
     zh: 协约理事会是统合部的最高部门。统合部的政策都在协约理事会会议上讨论和制定，通常对公众保密。协约理事会成员起初由各个帝国提名，现在都从统合部雇员中提拔。因此，他们不必听命于某个帝国，从而保持统合部的中立。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015921
+      size: 33
+    24:
+      divisionNumber: 2
+      leaderID: 3015920
+      size: 66
   enemyID: 1000134
   extent: L
   factionID: 500006
@@ -21580,6 +23785,15 @@
       что если запретить одному банку заниматься подобной преступной деятельностью,
       его место сразу же займет другой.
     zh: 自从印塔基银行决定将所有帐目对外保密以后，它的事业开始活跃起来。众所周知这家银行洗黑钱，但辛迪加财团一致认为：即使它不提供这项服务，也会有别人这么做的。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010386
+      size: 71
+    24:
+      divisionNumber: 2
+      leaderID: 3013881
+      size: 28
   enemyID: 1000119
   extent: R
   factionID: 500009
@@ -21589,6 +23803,11 @@
   initialPrice: 55
   investors:
     1000147: 80
+  lpOfferTables:
+  - 28
+  - 58
+  - 62
+  - 107
   mainActivityID: 17
   memberLimit: -1
   minSecurity: -1.0
@@ -21657,6 +23876,19 @@
       и заключить выгодные сделки с купцами из имперского пространства. Intaki Commerce
       занимается оформлением этих сделок, извлекая из этого крупную прибыль для Синдиката.
     zh: 辛迪加财团是新伊甸最大的黑市交易商，为外部星域阴暗商人和帝国贸易商的交易提供便利。印塔基商业局专营此类交易，为辛迪加财团牟取暴利。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015929
+      size: 70
+    23:
+      divisionNumber: 2
+      leaderID: 3010394
+      size: 20
+    24:
+      divisionNumber: 3
+      leaderID: 3013886
+      size: 8
   enemyID: 1000033
   extent: R
   factionID: 500009
@@ -21667,6 +23899,10 @@
   investors:
     1000144: 25
     1000147: 51
+  lpOfferTables:
+  - 28
+  - 58
+  - 62
   mainActivityID: 12
   memberLimit: -1
   minSecurity: -2.0
@@ -21730,6 +23966,15 @@
       появляется в этих областях, для поддержания правопорядка им пришлось создать
       собственные полицейские силы.
     zh: 为了鼓励更多人来访消费，辛迪加财团不希望他们的空域有太多的麻烦。由于帝国警力匮乏，他们雇佣了自己的警备队来维持和平。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3013893
+      size: 9
+    24:
+      divisionNumber: 2
+      leaderID: 3015934
+      size: 90
   enemyID: 1000127
   extent: N
   factionID: 500009
@@ -21739,6 +23984,12 @@
   initialPrice: 20
   investors:
     1000147: 100
+  lpOfferTables:
+  - 28
+  - 29
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: -2.0
@@ -21967,6 +24218,15 @@
       Синдиката, чтобы спасти состояние своей семьи. С тех пор она стала такой же
       находчивой и безжалостной, как и её покойный отец.
     zh: 印塔基联合财团是联邦边境一个独立的团体，是那些在主流社会中的不受欢迎者的避风港。印塔基联合财团在帝国内外的商人中扮演中介人物，这使得印塔基空域的贸易欣欣向荣。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010438
+      size: 57
+    24:
+      divisionNumber: 2
+      leaderID: 3010432
+      size: 42
   enemyID: 1000130
   extent: N
   factionID: 500009
@@ -21974,6 +24234,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1563
   initialPrice: 87
+  lpOfferTables:
+  - 28
+  - 29
+  - 57
+  - 62
+  - 66
   mainActivityID: 14
   memberLimit: -1
   minSecurity: -2.0
@@ -22052,6 +24318,15 @@
       маршрутам в мире EVE. InterBus обладает лучшими базами данных станций и картами
       звездной навигации, но она очень тщательно охраняет свои секреты.
     zh: 星际捷运由各大帝国合营，在各方面保持中立使得公司能将人和货物运抵新伊甸中的任何一处。星际捷运拥有最完备的恒星制图和空间站数据，他们对这些信息极为保护。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3015989
+      size: 63
+    24:
+      divisionNumber: 2
+      leaderID: 3015966
+      size: 36
   enemyID: 1000162
   extent: G
   factionID: 500013
@@ -22126,6 +24401,15 @@
       после войны между Amarr и Jove, когда в ходе одного боя полностью разгромил
       вооруженные силы Amarr.
     zh: 虽然就人数上而言，朱庇特海军并不算庞大，但没人知道其真正实力如何。它被公认为是帝国舰队中最强大的，并因此而普受敬畏。在艾玛—朱庇特战争中，朱庇特海军一战成名，仅在一场战役中，就消灭了整支艾玛舰队。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010475
+      size: 13
+    24:
+      divisionNumber: 2
+      leaderID: 3010468
+      size: 86
   enemyID: 1000135
   extent: N
   factionID: 500005
@@ -22193,6 +24477,15 @@
       факт никогда не подтверждался и не отрицался ими. Что происходит внутри директората,
       также остается неясным.
     zh: 朱庇特内议会被认为是朱庇特帝国的最高政府部门，不过，这点从未得到确认或证实，议会的内部操作更是无人知晓。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010529
+      size: 37
+    24:
+      divisionNumber: 2
+      leaderID: 3010533
+      size: 62
   extent: N
   factionID: 500005
   friendID: 1000131
@@ -22414,6 +24707,19 @@
       Компания всегда находилась на переднем плане исследований в военной сфере, отчасти
       из-за угрозы вторжения Amarr.
     zh: 卡尼迪创新集团是一个高科技研究公司，在过去的几十年里有许多令人惊讶的发现。由于急需应对艾玛人的侵略，该公司在武器研究方面一直处于领先地位。
+  divisions:
+    18:
+      divisionNumber: 3
+      leaderID: 3015993
+      size: 33
+    22:
+      divisionNumber: 1
+      leaderID: 3015992
+      size: 33
+    24:
+      divisionNumber: 2
+      leaderID: 3015991
+      size: 33
   enemyID: 1000157
   extent: C
   factionID: 500008
@@ -22425,6 +24731,10 @@
     1000020: 30
     1000067: 15
     1000156: 51
+  lpOfferTables:
+  - 22
+  - 59
+  - 62
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -22486,6 +24796,15 @@
       новых территорий, но ничего не известно ни об их провалах, ни об успехах в этой
       сфере.
     zh: 卡尼迪运输是个小型运输公司，其业务主要集中在卡尼迪王国境内，曾尝试开拓市场，但进展不大。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010546
+      size: 52
+    24:
+      divisionNumber: 2
+      leaderID: 3010544
+      size: 47
   enemyID: 1000124
   extent: N
   factionID: 500008
@@ -22497,6 +24816,10 @@
     1000004: 20
     1000010: 25
     1000156: 55
+  lpOfferTables:
+  - 22
+  - 58
+  - 62
   mainActivityID: 10
   memberLimit: -1
   minSecurity: -1.0
@@ -22583,6 +24906,19 @@
       в течение нескольких недель. Успех этой компании очевиден хотя бы тем, что Amarr
       так и не вторглись в королевство.
     zh: 艾玛帝国分裂以后，卡尼迪二世做的第一件事就是建立一个组织，打造一支全新的太空舰队来抵御艾玛人的入侵。卡尼迪工作室的第一艘飞船只用了几周时间就问世了。艾玛人此后再也没有入侵卡尼迪王国，它的成功不言而喻。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016002
+      size: 14
+    23:
+      divisionNumber: 2
+      leaderID: 3016001
+      size: 57
+    24:
+      divisionNumber: 3
+      leaderID: 3015997
+      size: 28
   enemyID: 1000064
   extent: C
   factionID: 500008
@@ -22593,6 +24929,10 @@
   investors:
     1000014: 25
     1000156: 60
+  lpOfferTables:
+  - 22
+  - 59
+  - 62
   mainActivityID: 9
   memberLimit: -1
   minSecurity: 0.0
@@ -22683,6 +25023,19 @@
       в районах между территориями Ammatar и Minmatar. Эта область богата минералами,
       поэтому она нравится практически всем.
     zh: 内凡达矿业协会起初是一个采矿公司，但带有强烈的军国主义色彩。这是因为它主要在艾玛达和米玛塔尔领空之间的空域行动。这片空域有许多富矿带，令所有人垂涎不已。
+  divisions:
+    18:
+      divisionNumber: 3
+      leaderID: 3017101
+      size: 13
+    23:
+      divisionNumber: 1
+      leaderID: 3010549
+      size: 53
+    24:
+      divisionNumber: 2
+      leaderID: 3016005
+      size: 33
   enemyID: 1000055
   extent: R
   factionID: 500007
@@ -22693,6 +25046,11 @@
   investors:
     1000069: 30
     1000126: 55
+  lpOfferTables:
+  - 18
+  - 19
+  - 59
+  - 62
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -3.0
@@ -22765,6 +25123,19 @@
       политикой невмешательства. Несмотря на это, большинство компаний с радостью
       принимают их инвестиции просто из-за престижа, который приносит инвестор Jove.
     zh: 昌隆集团是一个财团，近年来在世界各地投资了几家高科技公司。它不以抢夺公司所有权为目标，而是实行互不干涉的政策。尽管如此，大多数公司还是热情欢迎他们的资本流入，因为引进朱庇特投资会带来很多好处。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010569
+      size: 50
+    23:
+      divisionNumber: 2
+      leaderID: 3010556
+      size: 40
+    24:
+      divisionNumber: 3
+      leaderID: 3010560
+      size: 10
   enemyID: 1000083
   extent: N
   factionID: 500005
@@ -22876,6 +25247,15 @@
       отношения. Несмотря на свою небольшую численность, Королевский флот является
       намного более высокотехнологичным, чем флот их кузенов, Amarr.
     zh: 卡尼迪皇家海军的舰船是由“黑色艾玛”自己设计的，与王国一直交好的加达里也帮了一点忙。卡尼迪皇家海军并不庞大，但相比艾玛人，他们拥有更先进的科技。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010574
+      size: 16
+    24:
+      divisionNumber: 2
+      leaderID: 3016010
+      size: 83
   enemyID: 1000084
   extent: N
   factionID: 500008
@@ -22883,6 +25263,12 @@
   hasPlayerPersonnelManager: false
   iconID: 1572
   initialPrice: 20
+  lpOfferTables:
+  - 22
+  - 24
+  - 57
+  - 62
+  - 66
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -22972,6 +25358,15 @@
       научными исследованиями, но работающим не над нейронными бустерами, а над разработкой
       киберимплантатов для черного рынка и альтернативных методик клонирования.
     zh: 天蛇集团调查处是天蛇集团的分支，也是一个研发机构，但是并不专著于神经增效体的研发，而是在研究黑色电脑植体和替代的克隆方法。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016016
+      size: 50
+    24:
+      divisionNumber: 2
+      leaderID: 3016015
+      size: 50
   enemyID: 1000021
   extent: C
   factionID: 500020
@@ -22982,6 +25377,10 @@
   investors:
     1000135: 80
     1000138: 20
+  lpOfferTables:
+  - 51
+  - 59
+  - 62
   mainActivityID: 6
   memberLimit: -1
   minSecurity: -10.0
@@ -23035,6 +25434,15 @@
       Jove. Компания действует исключительно в границах пространства Jove и полностью
       отказалась от торговли своей продукцией с представителями других рас.
     zh: 锋锐工业是朱庇特舰船和舰船装备的主要生产商，经营范围只在朱庇特空域内，拒绝所有来自外国的交易，不愿将产品卖给朱庇特以外的人。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010599
+      size: 65
+    24:
+      divisionNumber: 2
+      leaderID: 3010595
+      size: 35
   enemyID: 1000019
   extent: N
   factionID: 500005
@@ -23117,6 +25525,15 @@
       «Приют странников». Услуги по обеспечению убежища (доступные на всех станциях
       Конгрегации) для «Приюта странников» вторичны по сравнению с научной деятельностью.
     zh: 避难会是姐妹会对新伊甸之门进行科学研究的中心。与其它姐妹会空间站一样，它也作为一个典型的避难场所而存在，但是首先还是以科学研究为主。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3016021
+      size: 70
+    24:
+      divisionNumber: 2
+      leaderID: 3016019
+      size: 30
   enemyID: 1000093
   extent: L
   factionID: 500016
@@ -23126,6 +25543,11 @@
   initialPrice: 20
   investors:
     1000130: 100
+  lpOfferTables:
+  - 38
+  - 59
+  - 62
+  - 104
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 2.0
@@ -23452,6 +25874,23 @@
       и можно назвать их домом, то это регион Great Wildlands, где у них есть несколько
       пиратских гаваней.
     zh: 图克尔部落是米玛塔尔部落之一。实质上是一个游牧部族，不断从一个地方迁移到另一个地方。对他们来说，最近似家园的地方莫过于大荒野星域，那里他们有几个海盗避难所。
+  divisions:
+    18:
+      divisionNumber: 4
+      leaderID: 3014020
+      size: 13
+    22:
+      divisionNumber: 1
+      leaderID: 3010617
+      size: 38
+    23:
+      divisionNumber: 2
+      leaderID: 3016024
+      size: 26
+    24:
+      divisionNumber: 3
+      leaderID: 3010623
+      size: 21
   enemyID: 1000046
   extent: G
   factionID: 500015
@@ -23459,6 +25898,13 @@
   hasPlayerPersonnelManager: false
   iconID: 1576
   initialPrice: 11
+  lpOfferTables:
+  - 33
+  - 34
+  - 57
+  - 59
+  - 62
+  - 66
   mainActivityID: 7
   memberLimit: -1
   minSecurity: -5.0
@@ -23559,6 +26005,19 @@
       True Creations управляет несколькими кораблестроительными заводами, которые
       каждый день увеличивают число бороздящих космос кораблей Sansha.
     zh: 尽管萨沙共和国几十年前被毁灭，但是幸存者仍生活在深层空间里，并往不同方面发展起来。忠实制造集团经营几个船厂，正日以继夜地不断制造航行于空间内的萨沙飞船。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010659
+      size: 33
+    23:
+      divisionNumber: 2
+      leaderID: 3010660
+      size: 43
+    24:
+      divisionNumber: 3
+      leaderID: 3016031
+      size: 23
   enemyID: 1000125
   extent: G
   factionID: 500019
@@ -23568,6 +26027,10 @@
   initialPrice: 71
   investors:
     1000162: 40
+  lpOfferTables:
+  - 48
+  - 59
+  - 62
   mainActivityID: 9
   memberLimit: -1
   minSecurity: -10.0
@@ -23775,6 +26238,11 @@
       также ведет шахтерские и производственные операции, чтобы поддерживать свои
       силы.
     zh: 实力派集团是萨沙共和国军事部队的余部。尽管主要负责保护共和国剩下的财产，但也参与采矿和生产活动以保持自己的力量生生不息。
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3010693
+      size: 100
   enemyID: 1000125
   extent: G
   factionID: 500019
@@ -23785,6 +26253,12 @@
   investors:
     1000161: 40
     1000162: 60
+  lpOfferTables:
+  - 48
+  - 50
+  - 57
+  - 62
+  - 66
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -10.0
@@ -23855,6 +26329,15 @@
       транспортировкой грузов и торговлей, и даже уважаемые имперские корпорации начали
       сотрудничать с ней.
     zh: 很多人认为图克尔人都是无赖或海盗，但他们中的许多人其实是合法行事的。信任伙伴集团将自己树立成一个正派的船运和贸易公司，甚至著名的帝国集团也开始与他们有生意来往。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010737
+      size: 52
+    24:
+      divisionNumber: 2
+      leaderID: 3010728
+      size: 47
   enemyID: 1000051
   extent: G
   factionID: 500015
@@ -23866,6 +26349,9 @@
     1000062: 15
     1000160: 10
     1000163: 75
+  lpOfferTables:
+  - 33
+  - 58
   mainActivityID: 12
   memberLimit: -1
   minSecurity: -5.0
@@ -23948,6 +26434,15 @@
 
 
       新伊甸纪元118年，朱庇特内议会将超感集团的运营权移交给了理性思维社团。'
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010784
+      size: 73
+    24:
+      divisionNumber: 2
+      leaderID: 3010758
+      size: 26
   enemyID: 1000135
   extent: G
   factionID: 500017
@@ -24426,11 +26921,21 @@
       после их собственной. Университет был основан энергичными и свободомыслящими
       учёными, свободными от постоянного надзора со стороны Императора и его теологов.
     zh: 赫迪农大学位于赫迪农星系—第一个被艾玛殖民的恒星系。这个大学由高尚而崇尚自由的学者们创建，避开了君王以及他的神学家们的严密监视。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010797
+      size: 100
   extent: N
   factionID: 500003
   hasPlayerPersonnelManager: false
   iconID: 10180
   initialPrice: 200
+  lpOfferTables:
+  - 5
+  - 58
+  - 61
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -24878,11 +27383,22 @@
       как более современные военные институты других государств. Тем не менее, это
       единственное подобное заведение в Империи Amarr, и его важность сложно переоценить.
     zh: 帝国学院注重传统，和其它帝国中的一些现代军事机构相比，显得十分落伍。然而，艾玛帝国内此类学院只此一家，因此其作用不可小视。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010804
+      size: 100
   extent: N
   factionID: 500003
   hasPlayerPersonnelManager: false
   iconID: 10181
   initialPrice: 200
+  lpOfferTables:
+  - 4
+  - 57
+  - 61
+  - 62
+  - 66
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -25354,11 +27870,22 @@
       всегда большее значение придавали непосредственно боевой подготовке, а не просто
       управлению кораблями.
     zh: 加达里合众国成立不久，国立军事学院就建立起来了，当时国家与盖伦特联邦的战争正如火如荼地进行着。正因如此，学院一贯有好战倾向，培养了无数优秀的战斗飞行员。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010820
+      size: 100
   extent: N
   factionID: 500001
   hasPlayerPersonnelManager: false
   iconID: 10182
   initialPrice: 200
+  lpOfferTables:
+  - 6
+  - 8
+  - 57
+  - 62
+  - 66
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -25828,11 +28355,22 @@
       кадетов. В результате Академия также претерпела значительные изменения: требования
       к поступающим стали намного строже, а процесс обучения ― еще более жестким.'
     zh: 联邦海军正遵照最新的政策强化学员的职业精神，这使得普通学院的录取要求更为苛刻，而学院教育也更为严格。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010823
+      size: 100
   extent: N
   factionID: 500004
   hasPlayerPersonnelManager: false
   iconID: 10183
   initialPrice: 200
+  lpOfferTables:
+  - 10
+  - 12
+  - 57
+  - 62
+  - 66
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -26289,11 +28827,21 @@
       центр для исследователей корпорации Chemal Tech. Сейчас это независимое учебное
       заведение выросло в одну из лучших технических школ в мире EVE.
     zh: 高级教育中心原打算作为切玛科技公司研究员的智囊团，但其随后演变成了一个独立的教育机构，如今，它被认为是新伊甸中最好的技术学校。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010832
+      size: 100
   extent: N
   factionID: 500004
   hasPlayerPersonnelManager: false
   iconID: 10184
   initialPrice: 200
+  lpOfferTables:
+  - 10
+  - 11
+  - 59
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -26752,11 +29300,22 @@
       независимости, Республиканская военная школа начала превращаться в престижное
       военное учебное заведение.
     zh: 共和军事学院是米玛塔尔教育体制的产物，因需要而建立，却没得到应有的支持；大多数军事人员都由盖伦特培训。但近年来，由于共和国正努力实现自己的完全独立，所以正致力于将共和军事学院变成一所一流军事学校。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010846
+      size: 100
   extent: N
   factionID: 500002
   hasPlayerPersonnelManager: false
   iconID: 10185
   initialPrice: 200
+  lpOfferTables:
+  - 14
+  - 16
+  - 57
+  - 62
+  - 66
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -27200,11 +29759,21 @@
       государства сразу после его основания. Организация школы скопирована с Университета
       Caille и опирается на систему образования Gallente.
     zh: 共和大学由米玛塔尔移民创办，用来表明他们在新生共和国创立后不久便给予了支持。学校以凯勒大学为原型，并以盖伦特教育体制为基础。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010856
+      size: 100
   extent: N
   factionID: 500002
   hasPlayerPersonnelManager: false
   iconID: 10186
   initialPrice: 200
+  lpOfferTables:
+  - 14
+  - 15
+  - 59
+  - 62
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -27686,11 +30255,21 @@
       Принцип ее работы остается все тем же, несмотря на то, что Республика уже давно
       прочно стоит на ногах.
     zh: 帕特工学院旨在帮助有天赋的米玛塔尔孩子胜任高级职务，这也是共和国所急需的。当时共和国政府和行政部门都是新建的，毫无基础，他们急需这样的人才。时至今日，共和国已根基稳健，但这样的原则并未有丝毫动摇。
+  divisions:
+    22:
+      divisionNumber: 1
+      leaderID: 3010863
+      size: 100
   extent: N
   factionID: 500002
   hasPlayerPersonnelManager: false
   iconID: 10187
   initialPrice: 200
+  lpOfferTables:
+  - 14
+  - 58
+  - 62
+  - 67
   mainActivityID: 18
   memberLimit: -1
   minSecurity: 0.0
@@ -28025,6 +30604,11 @@
       истинный путь и используем для этого бессмертную силу, которой владеете лишь
       вы.
     zh: 正是我们，将文明带到了这个原本阴暗肮脏的世界。也正是我们，带着博爱、奋进和勇气一直支持着这个宇宙的发展。我们需要你帮助我们将米玛塔尔从他们自己的水深火热中解放出来。我们会帮助那些迷途的人们重新走上正道，但这个艰巨的任务需要像你这样的克隆人才拥有的永恒力量才能真正实现！
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3018998
+      size: 100
   enemyID: 1000182
   extent: N
   factionID: 500003
@@ -28035,6 +30619,13 @@
   investors:
     1000080: 20
     1000084: 80
+  lpOfferTables:
+  - 57
+  - 62
+  - 66
+  - 79
+  - 85
+  - 86
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -28104,6 +30695,11 @@
       ему нужна ваша сила и отвага, чтобы покончить с угрозой Gallente. Государство
       не падет. Присоединяйтесь к нам. Сражайтесь. Побеждайте.
     zh: 我们是一个主权独立的国家，我们夺回了失去已久的家园。现在我们开战了，联合起来！集中我们全部的怒火冲向我们的目标！祖国在召唤你，克隆飞行员们，祖国需要你的力量和智慧来反击盖伦特人制造的恐怖。祖国永远不会倒下！加入我们，为了战斗！为了征服！
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3018995
+      size: 100
   enemyID: 1000181
   extent: N
   factionID: 500001
@@ -28113,6 +30709,13 @@
   initialPrice: 20
   investors:
     1000035: 100
+  lpOfferTables:
+  - 57
+  - 62
+  - 66
+  - 80
+  - 87
+  - 88
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -28188,6 +30791,11 @@
       поддерживает их в это смутное время. Присоединяйтесь к нам, пилот. Ваша сила
       и ваша доблесть — вот, что нужно для нашей победы.
     zh: 联邦政府对当前的威胁已经非常警觉，在这个时候，武力应当被赋予实施。尽管我们期待和平，但现在却面对战争，由那些走向毁灭的加达里人发动的战争。我们需要勇敢的飞行员，飞到战斗的前沿，不光光是为了我们的理想而战，也是为了在黑暗的岁月中守护他们的联邦政府而战！加入我们，克隆飞行员们。通过你们的力量和信仰，我们将屹立不倒！
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3018997
+      size: 100
   enemyID: 1000180
   extent: N
   factionID: 500004
@@ -28199,6 +30807,13 @@
     1000120: 70
     1000121: 15
     1000122: 15
+  lpOfferTables:
+  - 57
+  - 62
+  - 66
+  - 81
+  - 89
+  - 90
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -28268,6 +30883,11 @@
       освободить наших людей. Вы ― герои своего поколения. Присоединитесь к нам в
       борьбе за свободу. Смерть Amarr, да здравствует нация Minmatar!
     zh: 米玛塔尔的心为了自由而歌唱，米玛塔尔的灵魂为了开阔的星空而奋斗！但米玛塔尔的心却被奴役而摧残。现在，一切都将由你们做主，克隆飞行员们。你们有这样的力量，来解放我们的人民，你们是时代的英雄！加入到我们为了自由的战斗，将死亡送给艾玛人；米玛塔尔万岁！
+  divisions:
+    24:
+      divisionNumber: 1
+      leaderID: 3018996
+      size: 100
   enemyID: 1000179
   extent: N
   factionID: 500002
@@ -28278,6 +30898,13 @@
   investors:
     1000051: 70
     1000054: 30
+  lpOfferTables:
+  - 57
+  - 62
+  - 66
+  - 82
+  - 91
+  - 92
   mainActivityID: 5
   memberLimit: -1
   minSecurity: 0.0
@@ -32684,6 +35311,7 @@
   allowedMemberRaces:
   - 8
   ceoID: 3019573
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: ''
@@ -32711,6 +35339,7 @@
     ru: ''
     zh: 自从与盖伦特联邦分开以来，ORE在卫星开采与太空殖民方面的研究让他们在多年里都有创新。为了能更加独立，ORE召集了一批思想更前卫，更极端，更奇异的人组成了一个被称为“外空联合开发”的新部门。有传言说他们正在研发一种可以消化黑赭石然后吐出纯正的超新星诺克石的转基因费多，不过这一说法并未被证实也未被否定。
   enemyID: 1000141
+  exchangeRates: {}
   extent: R
   factionID: 500014
   friendID: 1000103
@@ -32719,6 +35348,8 @@
   initialPrice: 93
   investors:
     1000270: 0
+  lpOfferTables:
+  - 31
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -32746,6 +35377,7 @@
   allowedMemberRaces:
   - 8
   ceoID: 3019576
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Outer Ring Prospecting startete als Firmenzweig, der sich der Erkundung des
@@ -32777,6 +35409,7 @@
       будто ищут что-то важное, но неуловимое.
     zh: 外空联合勘探原来是一个专门进行深空探索，收集其中物品的部门，最终它成了外空联合集团里的一个独立成员。传言说，里面的员工各个都是一副饿狼样，不喜欢与人交往，喜欢长时间看窗外的飞船，好像一直在搜寻要紧的东西一样。
   enemyID: 1000141
+  exchangeRates: {}
   extent: R
   factionID: 500014
   friendID: 1000103
@@ -32784,6 +35417,8 @@
   initialPrice: 93
   investors:
     1000270: 0
+  lpOfferTables:
+  - 31
   mainActivityID: 3
   memberLimit: -1
   minSecurity: -1.0
@@ -32808,7 +35443,9 @@
   tickerName: ORPro
   uniqueName: true
 1000274:
+  allowedMemberRaces: []
   ceoID: 3019583
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Geheimberichten von CONCORD zufolge agieren Drifter-Militärformationen unter
@@ -32836,15 +35473,17 @@
       перемещений кораблей, связанных с данной организацией, не дал ключа к пониманию
       преследуемых ей целей
     zh: 统合部收到情报表明这支流浪者军事编队由一个名为“暴君推进统治集团”的割据势力组织所控制。我们除了监视到这些舰船在四处散播该组织的标识外，对这支军队的动机和目标目前仍不得而知。
-  enemyID: 1000270
+  enemyID: 1000297
+  exchangeRates: {}
   extent: G
   factionID: 500024
-  friendID: 1000270
+  friendID: 1000290
   hasPlayerPersonnelManager: false
   iconID: 21404
   initialPrice: 0
   investors:
-    1000270: 0
+    1000274: 0
+  lpOfferTables: []
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -32861,8 +35500,7 @@
   sendCharTerminationMessage: true
   shares: 0
   size: L
-  solarSystemID: 30001642
-  stationID: 60013903
+  solarSystemID: 30005286
   taxRate: 0.0
   tickerName: VI-TY
   uniqueName: true
@@ -32870,6 +35508,7 @@
   allowedMemberRaces:
   - 8
   ceoID: 3019586
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Aufgrund der zunehmenden Involvierung von ORE bei der Entwicklung von Technologien
@@ -32894,6 +35533,7 @@
       контроля различных исследовательских и проектирующих дочерних организаций.
     zh: 不再囿于采矿的传统，联合矿业越来越多地投身于科技研发和商业运作。这导致了联合矿业科技的诞生，这个集团充当了其诸多子公司的保护伞，协调和控制各种科学研究和产品研发。
   enemyID: 1000157
+  exchangeRates: {}
   extent: R
   factionID: 500014
   friendID: 1000108
@@ -32902,6 +35542,8 @@
   investors:
     1000129: 100
     1000270: 0
+  lpOfferTables:
+  - 31
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -32929,6 +35571,7 @@
   allowedMemberRaces:
   - 8
   ceoID: 3019587
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Gegen Ende des Jahres YC117 begann ORE, seine diversen für den Eis-Bergbau
@@ -32957,6 +35600,7 @@
       льда.
     zh: 新伊甸纪元117年末，联合矿业霜线品牌旗下的冰矿采集类产品开始投向市场。该品牌的旗舰产品永恒者级勘探护卫舰的大获成功促使联合矿业设立了一个子公司，专门用来从事冰矿采集工业全新产品的研发。
   enemyID: 1000157
+  exchangeRates: {}
   extent: L
   factionID: 500014
   friendID: 1000069
@@ -32965,6 +35609,8 @@
   investors:
     1000129: 100
     1000270: 0
+  lpOfferTables:
+  - 31
   mainActivityID: 7
   memberLimit: -1
   minSecurity: 0.0
@@ -33326,6 +35972,8 @@
     1000080: 50
     1000081: 50
     1000281: 0
+  lpOfferTables:
+  - 108
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -33387,6 +36035,8 @@
     1000031: 50
     1000035: 25
     1000261: 5
+  lpOfferTables:
+  - 109
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -33449,6 +36099,8 @@
     1000120: 25
     1000122: 15
     1000262: 10
+  lpOfferTables:
+  - 110
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -33512,6 +36164,8 @@
     1000054: 30
     1000263: 20
     1000281: 0
+  lpOfferTables:
+  - 111
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -33537,7 +36191,7 @@
 1000287:
   allowedMemberRaces:
   - 134
-  ceoID: 0
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: 'CONCORD-Sicherheitseinordnung: Omega Silver (Revoked) Aria-Patrouille: Bericht
@@ -33579,15 +36233,17 @@
       自代号：埃利亚调查结束已过去了十年，被占据的星域的现状仍不乐观。自由无人机的侵袭由于克隆飞行员的活动而保持着一种微妙的平衡，但这种平衡随时可能被打破，被占据星域的母巢意识的威胁性仍然巨大。
 
 '
-  enemyID: 1000281
+  enemyID: 1000288
+  exchangeRates: {}
   extent: G
   factionID: 500025
-  friendID: 1000281
+  friendID: 1000289
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000287: 0
+  lpOfferTables: []
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33604,7 +36260,6 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
   taxRate: 0.0
   tickerName: RDIRH
   uniqueName: true
@@ -33612,7 +36267,7 @@
   allowedMemberRaces:
   - 134
   - 135
-  ceoID: 0
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Die Navka Overminds sind eine Art Raubdrohnenschwarm, die in bedeutender Anzahl
@@ -33648,15 +36303,17 @@
 
 
       看起来纳夫卡主宰要么完全听从三神裔的指令，要么以自己的意志而战，而后者显然更为令人忧心。'
-  enemyID: 1000281
+  enemyID: 1000289
+  exchangeRates: {}
   extent: G
-  factionID: 500025
-  friendID: 1000281
+  factionID: 500026
+  friendID: 1000292
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000298: 0
+  lpOfferTables: []
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33673,15 +36330,13 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
   taxRate: 0.0
   tickerName: NAVKA
   uniqueName: true
-  url: ''
 1000289:
   allowedMemberRaces:
   - 134
-  ceoID: 0
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Die Absichten der Unshackled Overminds sind unklar und rätselhaft, doch der
@@ -33702,15 +36357,17 @@
       взаимосвязь этих восставших дронов с новыми угрозами в лице Скитальцев и Триглава
       вызывают у КОНКОРДа сильное беспокойство.
     zh: 不受束缚的主宰的动机仍然未知而神秘，但是这种类型的自由无人机之间的联系，以及流浪者和三神裔的威胁引起了统合部的深度关切。
-  enemyID: 1000281
+  enemyID: 1000288
+  exchangeRates: {}
   extent: G
   factionID: 500025
-  friendID: 1000281
+  friendID: 1000287
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000289: 0
+  lpOfferTables: []
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33727,14 +36384,13 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
   taxRate: 0.0
   tickerName: UNOVM
   uniqueName: true
 1000290:
   allowedMemberRaces:
   - 134
-  ceoID: 0
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: 'Codename: Karybdis Infestation CONCORD-Sicherheitseinordnung: Omega Gold
@@ -33754,15 +36410,16 @@
 
 
       威胁等级：红色伽马'
-  enemyID: 1000281
+  enemyID: 1000287
+  exchangeRates: {}
   extent: G
-  factionID: 500025
-  friendID: 1000281
+  friendID: 1000291
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000290: 0
+  lpOfferTables: []
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33779,14 +36436,13 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
   taxRate: 0.0
   tickerName: KARYB
   uniqueName: true
 1000291:
   allowedMemberRaces:
   - 134
-  ceoID: 0
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: 'Codename: Scylla Infestation CONCORD-Sicherheitseinordnung: Omega Gold (Aktiv)
@@ -33806,15 +36462,16 @@
 
 
       威胁等级：红色伽马'
-  enemyID: 1000281
+  enemyID: 1000287
+  exchangeRates: {}
   extent: G
-  factionID: 500025
-  friendID: 1000281
+  friendID: 1000290
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000291: 0
+  lpOfferTables: []
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33831,14 +36488,14 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
   taxRate: 0.0
   tickerName: SCYLI
   uniqueName: true
 1000292:
   allowedMemberRaces:
   - 135
-  ceoID: 0
+  corporationTrades:
+    56065: 1.0
   deleted: false
   descriptionID:
     de: Das Triglavia-Kollektiv hatte eine komplexe soziale Struktur, die für Außenstehende
@@ -33885,15 +36542,18 @@
 
 
       暗泽裔演化枝大概由许多分枝组成，似乎在重型太空工业、通信技术和高能量异种粒子物理领域颇有建树。暗泽裔演化枝似乎青睐在冲突之后使用演说和外交手腕——如果对现有证据解读正确的话。'
-  enemyID: 1000281
+  enemyID: 1000297
+  exchangeRates: {}
   extent: G
   factionID: 500026
-  friendID: 1000281
+  friendID: 1000298
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000292: 0
+  lpOfferTables:
+  - 212
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33910,14 +36570,15 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
+  solarSystemID: 30002702
   taxRate: 0.0
   tickerName: CLVEL
   uniqueName: true
 1000293:
   allowedMemberRaces:
   - 135
-  ceoID: 0
+  corporationTrades:
+    56065: 1.0
   deleted: false
   descriptionID:
     de: Das Triglavia-Kollektiv hatte eine komplexe soziale Struktur, die für Außenstehende
@@ -33960,15 +36621,18 @@
 
 
       雷电裔演化枝大概由许多分枝组成，似乎在时空技术、高脉冲超光速引擎制造和电子系统领域颇有建树。雷电裔演化枝显然在三神裔的战略领导层中占据主导地位。'
-  enemyID: 1000281
+  enemyID: 1000297
+  exchangeRates: {}
   extent: G
   factionID: 500026
-  friendID: 1000281
+  friendID: 1000298
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000293: 0
+  lpOfferTables:
+  - 212
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -33985,14 +36649,15 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
+  solarSystemID: 30001372
   taxRate: 0.0
   tickerName: CLPER
   uniqueName: true
 1000294:
   allowedMemberRaces:
   - 135
-  ceoID: 0
+  corporationTrades:
+    56065: 1.0
   deleted: false
   descriptionID:
     de: Das Triglavia-Kollektiv hatte eine komplexe soziale Struktur, die für Außenstehende
@@ -34040,15 +36705,18 @@
 
 
       熔火裔演化枝显然由许多分枝组成，擅长制造战斗舰船、开发新型武器系统以及广泛应用生化适应突变质体技术。熔火裔分枝可能是最激进且传统的，倾向于不断探索新机遇。'
-  enemyID: 1000281
+  enemyID: 1000297
+  exchangeRates: {}
   extent: G
   factionID: 500026
-  friendID: 1000281
+  friendID: 1000298
   hasPlayerPersonnelManager: false
   iconID: 20996
   initialPrice: 0
   investors:
-    1000281: 0
+    1000294: 0
+  lpOfferTables:
+  - 212
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -34065,13 +36733,14 @@
   shares: 0
   size: L
   sizeFactor: 1.0
-  stationID: 0
+  solarSystemID: 30003504
   taxRate: 0.0
   tickerName: CLSVA
   uniqueName: true
-  url: ''
 1000297:
+  allowedMemberRaces: []
   ceoID: 3019611
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: Die Authority for Emergency Interdiction and Security (AEGIS) wurde von CONCORD
@@ -34104,6 +36773,7 @@
       военное командование ЭДЕНКОМа, бросившего все силы на защиту систем Нового Эдема.
     zh: 统合部紧急干预和安全局于YC120年成立，旨在应对星际航运业频频受到骚扰和打击的状况。
   enemyID: 1000298
+  exchangeRates: {}
   extent: G
   factionID: 500027
   friendID: 1000125
@@ -34111,8 +36781,9 @@
   initialPrice: 0
   investors:
     1000125: 50
-    1000137: 50
-    1000281: 0
+    1000137: 25
+    1000282: 25
+  lpOfferTables: []
   mainActivityID: 16
   memberLimit: -1
   minSecurity: 0.0
@@ -34138,6 +36809,8 @@
 1000298:
   allowedMemberRaces:
   - 135
+  corporationTrades:
+    56065: 1.0
   deleted: false
   descriptionID:
     de: Die Versammlung von Triglavia Abseits des Kampfes scheint ein zentraler Bestandteil
@@ -34160,15 +36833,18 @@
       и Перуновой, и Велесовой, и Свароговой клад.
     zh: 三神避世会是三神裔的核心组织。从三神裔建筑和残骸中复原出的数据显示，三神避世会中包括了来自熔火裔、雷电裔和暗泽裔演化枝的成员。
   enemyID: 1000297
+  exchangeRates: {}
   extent: G
   factionID: 500026
-  friendID: 1000271
+  friendID: 1000293
   hasPlayerPersonnelManager: false
   initialPrice: 0
   investors:
-    1000271: 0
-    1000274: 0
-    1000276: 0
+    1000292: 0
+    1000293: 0
+    1000294: 0
+  lpOfferTables:
+  - 212
   memberLimit: -1
   minSecurity: 0.0
   minimumJoinStanding: 1
@@ -34184,6 +36860,8 @@
   sendCharTerminationMessage: false
   shares: 0
   size: L
+  solarSystemID: 30000157
+  stationID: 60003034
   taxRate: 0.0
   tickerName: CTPSV
   uniqueName: true
@@ -34330,7 +37008,9 @@
   tickerName: PKNIC
   uniqueName: true
 1000301:
+  allowedMemberRaces: []
   ceoID: 3019612
+  corporationTrades: {}
   deleted: false
   descriptionID:
     de: '<i>Zu lange habt ihr in Furcht gelebt. Zu lange habt ihr gedacht: „Wenn die
@@ -34363,12 +37043,14 @@
     zh: "<i>\t长久以来，你生活在恐惧中。长久以来，你有这样一个念头“如果萨沙来了，我们就躲起来，直到安全为止”。要让世人都知道，“安全”是不存在的。等待你的只有审判，或是湮灭。</i>
       - 来自从空间站残骸中复原的录音。讲话者确认为前萨沙爱国者成员，现<b>维摩沙颂歌</b>领导人考内琉斯·塞迪克。"
   enemyID: 1000162
+  exchangeRates: {}
   extent: G
   friendID: 1000197
   hasPlayerPersonnelManager: false
   initialPrice: 0
   investors:
     1000270: 0
+  lpOfferTables: []
   mainActivityID: 3
   memberLimit: -1
   minSecurity: 0.0
@@ -34386,7 +37068,6 @@
   sendCharTerminationMessage: true
   shares: 0
   size: T
-  solarSystemID: 30001868
   taxRate: 0.0
   tickerName: VIMOK
   uniqueName: true

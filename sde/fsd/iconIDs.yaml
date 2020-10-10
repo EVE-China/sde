@@ -7258,16 +7258,16 @@
   description: Abyssal Weather Electrical
   iconFile: res:/UI/Texture/Icons/StatusEffects/weatherLightning.png
 21904:
-  description: Abyssal Weather Xenon
+  description: Abyssal Weather Gamma Ray
   iconFile: res:/UI/Texture/Icons/StatusEffects/weatherXenonGas.png
 21905:
-  description: Abyssal Weather Caustic
+  description: Abyssal Weather Exotic Matter
   iconFile: res:/UI/Texture/Icons/StatusEffects/weatherCaustic.png
 21906:
   description: Abyssal Weather Dark
   iconFile: res:/UI/Texture/Icons/StatusEffects/weatherDarkness.png
 21907:
-  description: Abyssal Weather Infernal
+  description: Abyssal Weather Plasma
   iconFile: res:/UI/Texture/Icons/StatusEffects/weatherInfernal.png
 21909:
   description: Abyssal Plate
@@ -8515,3 +8515,96 @@
 24505:
   description: 55858_Male_outer_VanguardM01_Types_VanguardM01_TG_PVP_Arena.png
   iconFile: res:/UI/Asset/mannequin/outer/55858_Male_outer_VanguardM01_Types_VanguardM01_TG_PVP_Arena.png
+24506:
+  description: 56144_Female_hair_HeadWear_Beret_F01_Types_HeadWear_Beret_EdencomF01.png
+  iconFile: res:/UI/Asset/mannequin/hair/56144_Female_hair_HeadWear_Beret_F01_Types_HeadWear_Beret_EdencomF01.png
+24507:
+  description: 56145_Male_hair_HeadWear_Beret_M01_Types_HeadWear_Beret_EdencomM01.png
+  iconFile: res:/UI/Asset/mannequin/hair/56145_Male_hair_HeadWear_Beret_M01_Types_HeadWear_Beret_EdencomM01.png
+24508:
+  description: 56146_Female_TopMiddle_TshirtF01_Types_TshirtF01_Edencom.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56146_Female_TopMiddle_TshirtF01_Types_TshirtF01_Edencom.png
+24509:
+  description: 56147_Male_topMiddle_TshirtM01_Types_TshirtM01_Edencom.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56147_Male_topMiddle_TshirtM01_Types_TshirtM01_Edencom.png
+24510:
+  description: Abyssal Filament L0
+  iconFile: res:/UI/Texture/Icons/Inventory/abyssalFilamentL0.png
+24511:
+  description: Abyssal Filament L6
+  iconFile: res:/UI/Texture/Icons/Inventory/abyssalFilamentL6.png
+24512:
+  description: 56209_Female_hair_HeadWear_Beret_F01_Types_HeadWear_Beret_TriglavianF01.png
+  iconFile: res:/UI/Asset/mannequin/hair/56209_Female_hair_HeadWear_Beret_F01_Types_HeadWear_Beret_TriglavianF01.png
+24513:
+  description: 56210_Male_hair_HeadWear_Beret_M01_Types_HeadWear_Beret_TriglavianM01.png
+  iconFile: res:/UI/Asset/mannequin/hair/56210_Male_hair_HeadWear_Beret_M01_Types_HeadWear_Beret_TriglavianM01.png
+24514:
+  description: 56211_Female_TopMiddle_TshirtF01_Types_TshirtF01_Triglavian.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56211_Female_TopMiddle_TshirtF01_Types_TshirtF01_Triglavian.png
+24515:
+  description: 56212_Male_topMiddle_TshirtM01_Types_TshirtM01_Triglavian.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56212_Male_topMiddle_TshirtM01_Types_TshirtM01_Triglavian.png
+24516:
+  description: 56223_Female_Outer_JacketCMF01_Types_JacketCMF01_Edencom.png
+  iconFile: res:/UI/Asset/mannequin/outer/56223_Female_Outer_JacketCMF01_Types_JacketCMF01_Edencom.png
+24517:
+  description: 56224_Male_outer_JacketCMM01_Types_JacketCMM01_Edencom.png
+  iconFile: res:/UI/Asset/mannequin/outer/56224_Male_outer_JacketCMM01_Types_JacketCMM01_Edencom.png
+24518:
+  description: 56225_Female_Outer_VanguardF01_Types_VanguardF01_TG_LP.png
+  iconFile: res:/UI/Asset/mannequin/outer/56225_Female_Outer_VanguardF01_Types_VanguardF01_TG_LP.png
+24519:
+  description: 56226_Male_outer_VanguardM01_Types_VanguardM01_TG_LP.png
+  iconFile: res:/UI/Asset/mannequin/outer/56226_Male_outer_VanguardM01_Types_VanguardM01_TG_LP.png
+24525:
+  description: 56264_Female_Outer_ArmorSuitCF01_Types_ArmorSuitCF01_TG_LP.png
+  iconFile: res:/UI/Asset/mannequin/outer/56264_Female_Outer_ArmorSuitCF01_Types_ArmorSuitCF01_TG_LP.png
+24526:
+  description: 56265_Female_Outer_ArmorSuitCF01_Types_ArmorSuitCF01_Edencom.png
+  iconFile: res:/UI/Asset/mannequin/outer/56265_Female_Outer_ArmorSuitCF01_Types_ArmorSuitCF01_Edencom.png
+24527:
+  description: 56266_Male_outer_ArmorSuitMM01_Types_ArmorSuitMM01_TG_LP.png
+  iconFile: res:/UI/Asset/mannequin/outer/56266_Male_outer_ArmorSuitMM01_Types_ArmorSuitMM01_TG_LP.png
+24528:
+  description: 56267_Male_outer_ArmorSuitMM01_Types_ArmorSuitMM01_Edencom.png
+  iconFile: res:/UI/Asset/mannequin/outer/56267_Male_outer_ArmorSuitMM01_Types_ArmorSuitMM01_Edencom.png
+24529:
+  description: Agency Icon used in Conversations in the Tutorial
+  iconFile: res:/UI/Texture/Icons/Conversations/theAgency.png
+24530:
+  description: Triglavian Space Filament 1
+  iconFile: res:/UI/Texture/Icons/Inventory/FilamentTSpace1.png
+24531:
+  description: Triglavian Space Filament 2
+  iconFile: res:/UI/Texture/Icons/Inventory/FilamentTSpace2.png
+24532:
+  description: Triglavian Space Filament 3
+  iconFile: res:/UI/Texture/Icons/Inventory/FilamentTSpace3.png
+24533:
+  description: Upwell Quantum Core M
+  iconFile: res:/ui/texture/icons/upwell/QuantumCoreM.png
+24534:
+  description: Upwell Quantum Core L
+  iconFile: res:/ui/texture/icons/upwell/QuantumCoreL.png
+24535:
+  description: Upwell Quantum Core XL
+  iconFile: res:/ui/texture/icons/upwell/QuantumCoreXL.png
+24536:
+  description: 56634_Female_hair_HeadWear_Cap_F01_Types_HeadWear_Cap_F01_BR_CrimonHarvest.png
+  iconFile: res:/UI/Asset/mannequin/hair/56634_Female_hair_HeadWear_Cap_F01_Types_HeadWear_Cap_F01_BR_CrimonHarvest.png
+24537:
+  description: 56635_Female_Outer_JacketFBR01_Types_JacketFBR01_BR_CrimsonHarvest.png
+  iconFile: res:/UI/Asset/mannequin/outer/56635_Female_Outer_JacketFBR01_Types_JacketFBR01_BR_CrimsonHarvest.png
+24538:
+  description: 56636_Female_TopMiddle_TshirtF01_Types_TshirtF01_BR_CrimsonHarvest.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56636_Female_TopMiddle_TshirtF01_Types_TshirtF01_BR_CrimsonHarvest.png
+24539:
+  description: 56637_Male_hair_HeadWear_Cap_M01_Types_HeadWear_Cap_M01_BR_CrimsonHarvest.png
+  iconFile: res:/UI/Asset/mannequin/hair/56637_Male_hair_HeadWear_Cap_M01_Types_HeadWear_Cap_M01_BR_CrimsonHarvest.png
+24540:
+  description: 56638_Male_outer_JacketMFBR01_Types_JacketMFBR01_BR_CrimsonHarvest.png
+  iconFile: res:/UI/Asset/mannequin/outer/56638_Male_outer_JacketMFBR01_Types_JacketMFBR01_BR_CrimsonHarvest.png
+24541:
+  description: 56639_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CrimsonHarvest.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56639_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CrimsonHarvest.png
