@@ -2104,20 +2104,20 @@
     x: -1619350364160.0
     y: 205073080320.0
     z: 2712686960640.0
--   constellationID: 20000200
-    corporationID: 1000004
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 26
-    regionID: 10000016
+    operationID: 113
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.7277339255835833
+    security: -1.0
     solarSystemID: 30001372
     stationID: 60000355
-    stationName: Kino VII - Moon 13 - Ytiri Storage
+    stationName: Kino VII - Moon 13 - Perun Clade
     stationTypeID: 1531
     x: 632787148800.0
     y: 13068410880.0
@@ -2266,20 +2266,20 @@
     x: 1406767964160.0
     y: 165226045440.0
     z: -987173560320.0
--   constellationID: 20000027
-    corporationID: 1000004
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 26
-    regionID: 10000002
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3722872563531221
+    security: -1.0
     solarSystemID: 30000192
     stationID: 60000382
-    stationName: Otanuomi IV - Moon 5 - Ytiri Storage
+    stationName: Otanuomi IV - Moon 5 - Perun Clade
     stationTypeID: 1531
     x: 333710008320.0
     y: -19070361600.0
@@ -2320,20 +2320,20 @@
     x: 1555675668480.0
     y: 130312396800.0
     z: -888002764800.0
--   constellationID: 20000027
-    corporationID: 1000004
+-   constellationID: 20000787
+    corporationID: 1000298
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 26
-    regionID: 10000002
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3722872563531221
+    security: -1.0
     solarSystemID: 30000192
     stationID: 60000391
-    stationName: Otanuomi VI - Moon 9 - Ytiri Storage
+    stationName: Otanuomi VI - Moon 9 - The Convocation of Triglav
     stationTypeID: 1531
     x: -2314164510720.0
     y: 132243578880.0
@@ -2896,38 +2896,38 @@
     x: 1605678735360.0
     y: -312925102080.0
     z: 1124867235840.0
--   constellationID: 20000029
-    corporationID: 1000005
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000002
-    reprocessingEfficiency: 0.32
+    operationID: 112
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.4936357904460346
+    security: -1.0
     solarSystemID: 30000206
     stationID: 60000487
-    stationName: Wirashoda VII - Moon 5 - Hyasyoda Corporation Mining Outpost
+    stationName: Wirashoda VII - Moon 5 - Veles Clade
     stationTypeID: 4023
     x: -1068753838080.0
     y: -48692305920.0
     z: -249647063040.0
--   constellationID: 20000029
-    corporationID: 1000005
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000002
-    reprocessingEfficiency: 0.32
+    operationID: 109
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.4936357904460346
+    security: -1.0
     solarSystemID: 30000206
     stationID: 60000490
-    stationName: Wirashoda V - Hyasyoda Corporation Mining Outpost
+    stationName: Wirashoda V - Veles Clade
     stationTypeID: 4023
     x: -147563765760.0
     y: -6727557120.0
@@ -3310,38 +3310,38 @@
     x: 1707431731200.0
     y: -286770831360.0
     z: 3549984153600.0
--   constellationID: 20000410
-    corporationID: 1000005
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000033
-    reprocessingEfficiency: 0.32
+    operationID: 111
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60000556
-    stationName: Kaunokka IV - Hyasyoda Corporation Mining Outpost
+    stationName: Kaunokka IV - Veles Clade
     stationTypeID: 4023
     x: 98016583680.0
     y: 512286720.0
     z: 341574819840.0
--   constellationID: 20000410
-    corporationID: 1000005
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 9
-    regionID: 10000033
+    operationID: 112
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60000559
-    stationName: Kaunokka II - Moon 1 - Hyasyoda Corporation Mineral Reserve
+    stationName: Kaunokka II - Moon 1 - Veles Clade
     stationTypeID: 4023
     x: -165127987200.0
     y: -868638720.0
@@ -3472,38 +3472,38 @@
     x: 1565029294080.0
     y: 131094650880.0
     z: -885372641280.0
--   constellationID: 20000027
-    corporationID: 1000005
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 8
-    regionID: 10000002
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3722872563531221
+    security: -1.0
     solarSystemID: 30000192
     stationID: 60000583
-    stationName: Otanuomi VI - Moon 7 - Hyasyoda Corporation Refinery
+    stationName: Otanuomi VI - Moon 7 - Perun Clade
     stationTypeID: 4024
     x: -2313332613120.0
     y: 132195409920.0
     z: 1966423695360.0
--   constellationID: 20000027
-    corporationID: 1000005
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 8
-    regionID: 10000002
+    operationID: 112
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3722872563531221
+    security: -1.0
     solarSystemID: 30000192
     stationID: 60000586
-    stationName: Otanuomi V - Moon 16 - Hyasyoda Corporation Refinery
+    stationName: Otanuomi V - Moon 16 - Perun Clade
     stationTypeID: 4024
     x: 354312314880.0
     y: -20247306240.0
@@ -3742,20 +3742,20 @@
     x: -338071511040.0
     y: -19637821440.0
     z: -1895645552640.0
--   constellationID: 20000410
-    corporationID: 1000006
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 9
-    regionID: 10000033
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60000628
-    stationName: Kaunokka VI - Moon 1 - Deep Core Mining Inc. Mineral Reserve
+    stationName: Kaunokka VI - Moon 1 - Veles Clade
     stationTypeID: 4023
     x: -867432407040.0
     y: -4563640320.0
@@ -3778,20 +3778,20 @@
     x: 270925209600.0
     y: 41267650560.0
     z: -88146862080.0
--   constellationID: 20000410
-    corporationID: 1000006
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000033
-    reprocessingEfficiency: 0.32
+    operationID: 109
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60000634
-    stationName: Kaunokka III - Moon 1 - Deep Core Mining Inc. Mining Outpost
+    stationName: Kaunokka III - Moon 1 - Veles Clade
     stationTypeID: 4023
     x: 226586664960.0
     y: 1191813120.0
@@ -4210,20 +4210,20 @@
     x: -687631441920.0
     y: -19268935680.0
     z: -1453448355840.0
--   constellationID: 20000200
-    corporationID: 1000007
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000016
-    reprocessingEfficiency: 0.32
+    operationID: 111
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.7277339255835833
+    security: -1.0
     solarSystemID: 30001372
     stationID: 60000706
-    stationName: Kino V - Moon 3 - Poksu Mineral Group Mining Outpost
+    stationName: Kino V - Moon 3 - Perun Clade
     stationTypeID: 4023
     x: 382086881280.0
     y: 7890739200.0
@@ -4246,20 +4246,20 @@
     x: 305101824000.0
     y: 56796979200.0
     z: -544699392000.0
--   constellationID: 20000200
-    corporationID: 1000007
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000016
-    reprocessingEfficiency: 0.32
+    operationID: 109
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.7277339255835833
+    security: -1.0
     solarSystemID: 30001372
     stationID: 60000712
-    stationName: Kino IV - Moon 12 - Poksu Mineral Group Mining Outpost
+    stationName: Kino IV - Moon 12 - Perun Clade
     stationTypeID: 4023
     x: 283936235520.0
     y: 5864693760.0
@@ -5686,20 +5686,20 @@
     x: -486835445760.0
     y: -77874339840.0
     z: 1739803975680.0
--   constellationID: 20000200
-    corporationID: 1000009
+-   constellationID: 20000787
+    corporationID: 1000298
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 1
-    regionID: 10000016
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.7277339255835833
+    security: -1.0
     solarSystemID: 30001372
     stationID: 60000952
-    stationName: Kino VII - Moon 17 - Caldari Provisions Plantation
+    stationName: Kino VII - Moon 17 - The Convocation of Triglav
     stationTypeID: 1531
     x: 628407705600.0
     y: 12978462720.0
@@ -5740,20 +5740,20 @@
     x: 307510272000.0
     y: 57248440320.0
     z: -544610426880.0
--   constellationID: 20000200
-    corporationID: 1000009
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 1
-    regionID: 10000016
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.7277339255835833
+    security: -1.0
     solarSystemID: 30001372
     stationID: 60000961
-    stationName: Kino VII - Moon 10 - Caldari Provisions Plantation
+    stationName: Kino VII - Moon 10 - Perun Clade
     stationTypeID: 1531
     x: 632845885440.0
     y: 13069148160.0
@@ -5794,20 +5794,20 @@
     x: 305236500480.0
     y: -32931717120.0
     z: 203612528640.0
--   constellationID: 20000029
-    corporationID: 1000009
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 1
-    regionID: 10000002
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.4936357904460346
+    security: -1.0
     solarSystemID: 30000206
     stationID: 60000970
-    stationName: Wirashoda VIII - Moon 5 - Caldari Provisions Plantation
+    stationName: Wirashoda VIII - Moon 5 - Veles Clade
     stationTypeID: 1531
     x: 3083493580800.0
     y: 140485877760.0
@@ -8800,20 +8800,20 @@
     x: -1748197662720.0
     y: -228749598720.0
     z: -1391060951040.0
--   constellationID: 20000406
-    corporationID: 1000013
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 39
-    regionID: 10000033
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.4143776905288217
+    security: -1.0
     solarSystemID: 30002770
     stationID: 60001471
-    stationName: Tunudan VII - Moon 4 - Rapid Assembly Warehouse
+    stationName: Tunudan VII - Moon 4 - Svarog Clade
     stationTypeID: 1531
     x: 432332021760.0
     y: -14745231360.0
@@ -9682,20 +9682,20 @@
     x: -1914541793280.0
     y: -50463498240.0
     z: -2697572720640.0
--   constellationID: 20000406
-    corporationID: 1000014
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 39
-    regionID: 10000033
+    operationID: 113
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.4143776905288217
+    security: -1.0
     solarSystemID: 30002770
     stationID: 60001618
-    stationName: Tunudan IX - Perkone Warehouse
+    stationName: Tunudan IX - Svarog Clade
     stationTypeID: 1531
     x: 291634913280.0
     y: -9966428160.0
@@ -11986,20 +11986,20 @@
     x: -944275660800.0
     y: -187550146560.0
     z: -181918064640.0
--   constellationID: 20000306
-    corporationID: 1000017
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 22
-    regionID: 10000042
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.1647438814508468
+    security: -1.0
     solarSystemID: 30002079
     stationID: 60002002
-    stationName: Krirald IX - Moon 1 - Nugoeihuvi Corporation Development Studio
+    stationName: Krirald IX - Moon 1 - Perun Clade
     stationTypeID: 1531
     x: 5438905344000.0
     y: -755710402560.0
@@ -13427,20 +13427,20 @@
     x: -646744104960.0
     y: 8369725440.0
     z: 1450697072640.0
--   constellationID: 20000027
-    corporationID: 1000019
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 20
-    regionID: 10000002
-    reprocessingEfficiency: 0.3
+    operationID: 110
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3722872563531221
+    security: -1.0
     solarSystemID: 30000192
     stationID: 60002242
-    stationName: Otanuomi IV - Moon 4 - Ishukone Corporation Factory
+    stationName: Otanuomi IV - Moon 4 - Perun Clade
     stationTypeID: 1529
     x: 333783736320.0
     y: -19074048000.0
@@ -13733,20 +13733,20 @@
     x: -141796270080.0
     y: 20997120000.0
     z: 27274813440.0
--   constellationID: 20000401
-    corporationID: 1000020
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 21
-    regionID: 10000033
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.6657173159595942
+    security: -1.0
     solarSystemID: 30002737
     stationID: 60002293
-    stationName: Konola V - Moon 12 - Lai Dai Corporation Warehouse
+    stationName: Konola V - Moon 12 - Perun Clade
     stationTypeID: 1531
     x: 583322296320.0
     y: 84648468480.0
@@ -14579,20 +14579,20 @@
     x: 91768627200.0
     y: -15108956160.0
     z: -33472634880.0
--   constellationID: 20000022
-    corporationID: 1000023
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 27
-    regionID: 10000002
+    operationID: 112
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.531906740544569
+    security: -1.0
     solarSystemID: 30000157
     stationID: 60002434
-    stationName: Otela IV - Moon 9 - Expert Distribution Warehouse
+    stationName: Otela IV - Moon 9 - Perun Clade
     stationTypeID: 1531
     x: -614042050560.0
     y: 7271424000.0
@@ -17279,20 +17279,20 @@
     x: -991937126400.0
     y: -193077043200.0
     z: -1002272317440.0
--   constellationID: 20000202
-    corporationID: 1000025
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 5
-    regionID: 10000016
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.5167338461520279
+    security: -1.0
     solarSystemID: 30001381
     stationID: 60002884
-    stationName: Arvasaras II - Moon 1 - Sukuuvestaa Corporation Production Plant
+    stationName: Arvasaras II - Moon 1 - Veles Clade
     stationTypeID: 1529
     x: -71872880640.0
     y: -10663157760.0
@@ -18179,38 +18179,38 @@
     x: 1556216094720.0
     y: -291493355520.0
     z: 1519048089600.0
--   constellationID: 20000022
-    corporationID: 1000027
+-   constellationID: 20000787
+    corporationID: 1000298
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 4
-    regionID: 10000002
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.531906740544569
+    security: -1.0
     solarSystemID: 30000157
     stationID: 60003034
-    stationName: Otela V - Moon 1 - Expert Housing Foundry
+    stationName: Otela V - Moon 1 - The Convocation of Triglav
     stationTypeID: 1529
     x: 571541790720.0
     y: -6767861760.0
     z: -1333535416320.0
--   constellationID: 20000022
-    corporationID: 1000027
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 4
-    regionID: 10000002
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.531906740544569
+    security: -1.0
     solarSystemID: 30000157
     stationID: 60003037
-    stationName: Otela II - Expert Housing Foundry
+    stationName: Otela II - Perun Clade
     stationTypeID: 1529
     x: -116607590400.0
     y: 1376624640.0
@@ -21185,20 +21185,20 @@
     x: 1021267599360.0
     y: -108032040960.0
     z: 1815805747200.0
--   constellationID: 20000446
-    corporationID: 1000033
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 40
-    regionID: 10000037
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.5613352787066217
+    security: -1.0
     solarSystemID: 30003046
     stationID: 60003535
-    stationName: Angymonne V - Moon 6 - Caldari Business Tribunal
+    stationName: Angymonne V - Moon 6 - Veles Clade
     stationTypeID: 1530
     x: 394697072640.0
     y: -62365900800.0
@@ -23058,38 +23058,38 @@
     x: 1227303444480.0
     y: -35172556800.0
     z: -176240517120.0
--   constellationID: 20000410
-    corporationID: 1000035
+-   constellationID: 20000789
+    corporationID: 1000298
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 14
-    regionID: 10000033
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60003847
-    stationName: Kaunokka VI - Moon 2 - Caldari Navy Assembly Plant
+    stationName: Kaunokka VI - Moon 2 - The Convocation of Triglav
     stationTypeID: 1529
     x: -867151011840.0
     y: -4562411520.0
     z: -49197588480.0
--   constellationID: 20000410
-    corporationID: 1000035
+-   constellationID: 20000789
+    corporationID: 1000298
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 13
-    regionID: 10000033
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60003850
-    stationName: Kaunokka II - Moon 1 - Caldari Navy Testing Facilities
+    stationName: Kaunokka II - Moon 1 - The Convocation of Triglav
     stationTypeID: 54
     x: -165127495680.0
     y: -868638720.0
@@ -24120,20 +24120,20 @@
     x: 6153461760.0
     y: 621895680.0
     z: -34768035840.0
--   constellationID: 20000200
-    corporationID: 1000039
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 13
-    regionID: 10000016
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.7277339255835833
+    security: -1.0
     solarSystemID: 30001372
     stationID: 60004024
-    stationName: Kino VII - Moon 7 - Home Guard Testing Facilities
+    stationName: Kino VII - Moon 7 - Perun Clade
     stationTypeID: 54
     x: 633568665600.0
     y: 13083893760.0
@@ -24876,20 +24876,20 @@
     x: 997201305600.0
     y: 37995601920.0
     z: -383519662080.0
--   constellationID: 20000212
-    corporationID: 1000041
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 14
-    regionID: 10000016
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3873241927184699
+    security: -1.0
     solarSystemID: 30001445
     stationID: 60004150
-    stationName: Nalvula IX - Moon 2 - Spacelane Patrol Assembly Plant
+    stationName: Nalvula IX - Moon 2 - Perun Clade
     stationTypeID: 1529
     x: 853629788160.0
     y: -151672872960.0
@@ -25668,20 +25668,20 @@
     x: -1655631421440.0
     y: -326183116800.0
     z: -2054145024000.0
--   constellationID: 20000202
-    corporationID: 1000042
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 13
-    regionID: 10000016
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.5167338461520279
+    security: -1.0
     solarSystemID: 30001381
     stationID: 60004282
-    stationName: Arvasaras II - Moon 3 - Wiyrkomi Peace Corps Testing Facilities
+    stationName: Arvasaras II - Moon 3 - Veles Clade
     stationTypeID: 54
     x: -71773102080.0
     y: -10647674880.0
@@ -26838,20 +26838,20 @@
     x: -362397327360.0
     y: 30825308160.0
     z: 179075112960.0
--   constellationID: 20000212
-    corporationID: 1000045
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 37
-    regionID: 10000016
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.3873241927184699
+    security: -1.0
     solarSystemID: 30001445
     stationID: 60004477
-    stationName: Nalvula IV - Moon 1 - Science and Trade Institute School
+    stationName: Nalvula IV - Moon 1 - Perun Clade
     stationTypeID: 1529
     x: -94831779840.0
     y: 16849428480.0
@@ -27882,20 +27882,20 @@
     x: -1009523466240.0
     y: 23479787520.0
     z: 2391134822400.0
--   constellationID: 20000354
-    corporationID: 1000050
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 33
-    regionID: 10000028
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.04776934987083226
+    security: -1.0
     solarSystemID: 30002411
     stationID: 60004651
-    stationName: Skarkon III - Moon 14 - Republic Parliament Bureau
+    stationName: Skarkon III - Moon 14 - Svarog Clade
     stationTypeID: 2502
     x: 437751275520.0
     y: -44579512320.0
@@ -28098,20 +28098,20 @@
     x: 3088611287040.0
     y: 613448785920.0
     z: -3333106606080.0
--   constellationID: 20000306
-    corporationID: 1000050
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 33
-    regionID: 10000042
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.1647438814508468
+    security: -1.0
     solarSystemID: 30002079
     stationID: 60004687
-    stationName: Krirald VII - Moon 11 - Republic Parliament Bureau
+    stationName: Krirald VII - Moon 11 - Perun Clade
     stationTypeID: 2502
     x: -862792212480.0
     y: 119877918720.0
@@ -28998,20 +28998,20 @@
     x: -2444578529280.0
     y: 154639196160.0
     z: 451144704000.0
--   constellationID: 20000306
-    corporationID: 1000051
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 14
-    regionID: 10000042
+    operationID: 112
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.1647438814508468
+    security: -1.0
     solarSystemID: 30002079
     stationID: 60004837
-    stationName: Krirald VII - Moon 14 - Republic Fleet Assembly Plant
+    stationName: Krirald VII - Moon 14 - Perun Clade
     stationTypeID: 2498
     x: -894189035520.0
     y: 124242616320.0
@@ -36001,20 +36001,20 @@
     x: 342143754240.0
     y: -53355601920.0
     z: 326236938240.0
--   constellationID: 20000410
-    corporationID: 1000061
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 26
-    regionID: 10000033
+    operationID: 113
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60006004
-    stationName: Kaunokka V - Freedom Extension Storage
+    stationName: Kaunokka V - Veles Clade
     stationTypeID: 2501
     x: -342464471040.0
     y: -1798348800.0
@@ -36055,38 +36055,38 @@
     x: -41145753600.0
     y: -481812480.0
     z: -651894988800.0
--   constellationID: 20000410
-    corporationID: 1000061
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 26
-    regionID: 10000033
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60006013
-    stationName: Kaunokka VI - Moon 2 - Freedom Extension Storage
+    stationName: Kaunokka VI - Moon 2 - Veles Clade
     stationTypeID: 2501
     x: -867150274560.0
     y: -4562165760.0
     z: -49196605440.0
--   constellationID: 20000410
-    corporationID: 1000061
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 27
-    regionID: 10000033
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.489406820381512
+    security: -1.0
     solarSystemID: 30002797
     stationID: 60006016
-    stationName: Kaunokka II - Freedom Extension Warehouse
+    stationName: Kaunokka II - Veles Clade
     stationTypeID: 2501
     x: -165041479680.0
     y: -864706560.0
@@ -56756,20 +56756,20 @@
     x: -1586248212480.0
     y: 11385446400.0
     z: -1613847797760.0
--   constellationID: 20000735
-    corporationID: 1000097
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 7
-    regionID: 10000064
-    reprocessingEfficiency: 0.32
+    operationID: 109
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.6512425203838945
+    security: -1.0
     solarSystemID: 30005029
     stationID: 60009463
-    stationName: Vale II - Moon 1 - Material Acquisition Mining Outpost
+    stationName: Vale II - Moon 1 - Veles Clade
     stationTypeID: 3865
     x: -251167088640.0
     y: -31931719680.0
@@ -62608,40 +62608,38 @@
     x: 2578294333440.0
     y: -109161308160.0
     z: -858209525760.0
--   constellationID: 20000207
-    corporationID: 1000104
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 18
-    regionID: 10000016
+    operationID: 106
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.84282983212425
+    security: -1.0
     solarSystemID: 30001413
     stationID: 60010438
-    stationName: Nani V - Moon 18 - Poteque Pharmaceuticals Biohazard Containment
-        Facility
+    stationName: Nani V - Moon 18 - Svarog Clade
     stationTypeID: 3869
     x: -1935938887680.0
     y: -161174691840.0
     z: 1613542563840.0
--   constellationID: 20000207
-    corporationID: 1000104
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 18
-    regionID: 10000016
+    operationID: 112
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.84282983212425
+    security: -1.0
     solarSystemID: 30001413
     stationID: 60010441
-    stationName: Nani VIII - Moon 2 - Poteque Pharmaceuticals Biohazard Containment
-        Facility
+    stationName: Nani VIII - Moon 2 - Svarog Clade
     stationTypeID: 3869
     x: 3117818880000.0
     y: 259573555200.0
@@ -64554,20 +64552,20 @@
     x: -2280460247040.0
     y: -373297766400.0
     z: -1336734965760.0
--   constellationID: 20000735
-    corporationID: 1000108
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 19
-    regionID: 10000064
-    reprocessingEfficiency: 0.25
+    operationID: 111
+    regionID: 10000070
+    reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.6512425203838945
+    security: -1.0
     solarSystemID: 30005029
     stationID: 60010762
-    stationName: Vale VI - Moon 2 - Chemal Tech Research Center
+    stationName: Vale VI - Moon 2 - Veles Clade
     stationTypeID: 3869
     x: -653056942080.0
     y: -83024732160.0
@@ -67002,38 +67000,38 @@
     x: -298759741440.0
     y: -11391344640.0
     z: 215043072000.0
--   constellationID: 20000207
-    corporationID: 1000111
+-   constellationID: 20000788
+    corporationID: 1000298
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 27
-    regionID: 10000016
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.84282983212425
+    security: -1.0
     solarSystemID: 30001413
     stationID: 60011170
-    stationName: Nani IV - Moon 2 - Aliastra Warehouse
+    stationName: Nani IV - Moon 2 - The Convocation of Triglav
     stationTypeID: 3870
     x: 85487493120.0
     y: 7117332480.0
     z: 483025674240.0
--   constellationID: 20000207
-    corporationID: 1000111
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 27
-    regionID: 10000016
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.84282983212425
+    security: -1.0
     solarSystemID: 30001413
     stationID: 60011173
-    stationName: Nani I - Aliastra Warehouse
+    stationName: Nani I - Svarog Clade
     stationTypeID: 3870
     x: -43320729600.0
     y: -3603701760.0
@@ -71793,20 +71791,20 @@
     x: 1036241510400.0
     y: 18638807040.0
     z: -941823221760.0
--   constellationID: 20000732
-    corporationID: 1000121
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 15
-    regionID: 10000064
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.531516781442841
+    security: -1.0
     solarSystemID: 30005005
     stationID: 60011968
-    stationName: Ignebaener VI - Moon 1 - Federal Intelligence Office Logistic Support
+    stationName: Ignebaener VI - Moon 1 - Perun Clade
     stationTypeID: 3868
     x: -1737391349760.0
     y: 4925890560.0
@@ -71829,20 +71827,20 @@
     x: 196246855680.0
     y: 21569495040.0
     z: 264067031040.0
--   constellationID: 20000732
-    corporationID: 1000121
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 15
-    regionID: 10000064
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.531516781442841
+    security: -1.0
     solarSystemID: 30005005
     stationID: 60011974
-    stationName: Ignebaener IV - Federal Intelligence Office Logistic Support
+    stationName: Ignebaener IV - Perun Clade
     stationTypeID: 3868
     x: 462474485760.0
     y: -1315676160.0
@@ -74009,20 +74007,20 @@
     x: -857011691520.0
     y: 65466408960.0
     z: -942958387200.0
--   constellationID: 20000202
-    corporationID: 1000125
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 32
-    regionID: 10000016
+    operationID: 111
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.5167338461520279
+    security: -1.0
     solarSystemID: 30001381
     stationID: 60012337
-    stationName: Arvasaras IV - Moon 15 - CONCORD Academy
+    stationName: Arvasaras IV - Moon 15 - Veles Clade
     stationTypeID: 1932
     x: 563689758720.0
     y: 83630039040.0
@@ -89526,20 +89524,20 @@
     x: -132935639040.0
     y: 6285434880.0
     z: -543018639360.0
--   constellationID: 20000413
-    corporationID: 1000045
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 37
-    regionID: 10000033
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.802817851745103
+    security: -1.0
     solarSystemID: 30031392
     stationID: 60015007
-    stationName: Komo IX - Science and Trade Institute School
+    stationName: Komo IX - Perun Clade
     stationTypeID: 1529
     x: -1250045583360.0
     y: 59114987520.0
@@ -89850,38 +89848,38 @@
     x: 127519825920.0
     y: -6570270720.0
     z: -145358315520.0
--   constellationID: 20000019
-    corporationID: 1000167
+-   constellationID: 20000787
+    corporationID: 1000293
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 37
-    regionID: 10000002
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.9792566471688858
+    security: -1.0
     solarSystemID: 30010141
     stationID: 60015025
-    stationName: Sakenta I - State War Academy
+    stationName: Sakenta I - Perun Clade
     stationTypeID: 1529
     x: -7010672640.0
     y: 851189760.0
     z: -55119667200.0
--   constellationID: 20000018
-    corporationID: 1000167
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 37
-    regionID: 10000002
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.9066284839206079
+    security: -1.0
     solarSystemID: 30020141
     stationID: 60015026
-    stationName: Senda III - Moon 1 - State War Academy
+    stationName: Senda III - Moon 1 - Veles Clade
     stationTypeID: 1529
     x: 115114598400.0
     y: -13954621440.0
@@ -89904,20 +89902,20 @@
     x: -306228879360.0
     y: 37123399680.0
     z: 1004932669440.0
--   constellationID: 20000409
-    corporationID: 1000167
+-   constellationID: 20000788
+    corporationID: 1000294
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 37
-    regionID: 10000033
+    operationID: 110
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
     reprocessingStationsTake: 0.05
-    security: 0.8409210258401633
+    security: -1.0
     solarSystemID: 30040141
     stationID: 60015028
-    stationName: Urhinichi IX - State War Academy
+    stationName: Urhinichi IX - Svarog Clade
     stationTypeID: 1529
     x: -1791117434880.0
     y: 217133015040.0
@@ -91560,20 +91558,20 @@
     x: -4617421086720.0
     y: -106618920960.0
     z: 554376437760.0
--   constellationID: 20000784
-    corporationID: 1000010
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 38
-    regionID: 10000069
+    operationID: 109
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
-    reprocessingStationsTake: 0.025
-    security: 0.5710318155360672
+    reprocessingStationsTake: 0.05
+    security: -1.0
     solarSystemID: 30045329
     stationID: 60015120
-    stationName: Ichoriya VI - Kaalakiota Corporation Factory
+    stationName: Ichoriya VI - Veles Clade
     stationTypeID: 4024
     x: -1331274424320.0
     y: -4797603840.0
@@ -92046,20 +92044,20 @@
     x: 2199749222400.0
     y: -147521986560.0
     z: 336443842560.0
--   constellationID: 20000784
-    corporationID: 1000035
+-   constellationID: 20000789
+    corporationID: 1000292
     dockingCostPerVolume: 0
     maxShipVolumeDockable: 50000000
     officeRentalCost: 10000
-    operationID: 15
-    regionID: 10000069
+    operationID: 112
+    regionID: 10000070
     reprocessingEfficiency: 0.5
     reprocessingHangarFlag: 4
-    reprocessingStationsTake: 0.025
-    security: 0.5710318155360672
+    reprocessingStationsTake: 0.05
+    security: -1.0
     solarSystemID: 30045329
     stationID: 60015147
-    stationName: Ichoriya V - Caldari Navy Logistic Support
+    stationName: Ichoriya V - Veles Clade
     stationTypeID: 1530
     x: -582453534720.0
     y: -15661670400.0
