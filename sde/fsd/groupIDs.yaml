@@ -19971,7 +19971,7 @@
         en: Triglavian Entities
         fr: Entités triglavian
         ru: Объекты Триглава
-        zh: 入侵的先驱者实体
+        zh: 三神裔实体
     published: false
     useBasePrice: false
 4029:
@@ -20036,7 +20036,7 @@
         en: EDENCOM Entities
         fr: Entités EDENCOM
         ru: Объекты ЭДЕНКОМа
-        zh: 反击艾玛单位
+        zh: 伊甸联合防御阵线实体
     published: false
     useBasePrice: false
 4035:
@@ -20049,7 +20049,7 @@
         en: Drifter Entities
         fr: Entités drifter
         ru: Объекты скитальцев
-        zh: 反击加达里单位
+        zh: 流浪者实体
     published: false
     useBasePrice: false
 4036:
@@ -20062,7 +20062,7 @@
         en: Sleeper Entities
         fr: Entités sleeper
         ru: Объекты Спящих
-        zh: 反击盖伦特单位
+        zh: 冬眠者实体
     published: false
     useBasePrice: false
 4037:
@@ -20075,7 +20075,7 @@
         en: Rogue Drone Entities
         fr: Entités drones renégats
         ru: Объекты восставших дронов
-        zh: 反击米玛塔尔单位
+        zh: 自由无人机实体
     published: false
     useBasePrice: false
 4040:
@@ -20336,6 +20336,7 @@
         en: Disrupted Gate
         fr: Portail perturbé
         ru: Нестабильные гиперврата
+        zh: 受干扰的星门
     published: false
     useBasePrice: false
 4086:
@@ -20361,6 +20362,7 @@
         en: Triglavian Space Filaments
         fr: Filaments de l'espace triglavian
         ru: Нити пространства Триглава
+        zh: 三神裔星系纤维
     published: true
     useBasePrice: true
 350858:
