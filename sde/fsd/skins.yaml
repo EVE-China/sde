@@ -385,7 +385,7 @@
     skinMaterialID: 31
     types:
     - 28606
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 69:
     allowCCPDevs: true
@@ -394,7 +394,7 @@
     skinMaterialID: 31
     types:
     - 28352
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 70:
     allowCCPDevs: true
@@ -1373,7 +1373,7 @@
     skinMaterialID: 31
     types:
     - 22544
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 181:
     allowCCPDevs: true
@@ -1382,7 +1382,7 @@
     skinMaterialID: 31
     types:
     - 22548
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 182:
     allowCCPDevs: true
@@ -1391,7 +1391,7 @@
     skinMaterialID: 31
     types:
     - 22546
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 183:
     allowCCPDevs: true
