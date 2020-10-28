@@ -35218,6 +35218,7 @@
     fr: Ces filaments transportent les pilotes hors de la région triglavian de Pochven
     ko: 트리글라비안 포치벤 지역 밖으로 사용자를 전송합니다.
     ru: Прыжковые нити, возвращающие пилотов из триглавского сектора Почвень.
+    zh: 可以跳跃离开三神裔波赫文星域的纤维
   hasTypes: true
   iconID: 24530
   nameID:
@@ -35226,6 +35227,7 @@
     fr: Sortie de l'espace triglavian
     ko: 트리글라비안 우주 아웃바운드
     ru: Выход из пространства Триглава
+    zh: 三神裔领地离境
   parentGroupID: 2456
 2757:
   descriptionID:
@@ -35235,6 +35237,7 @@
       Pochven
     ko: 트리글라비안 포치벤 지역 안으로 사용자를 전송합니다.
     ru: Прыжковые нити, переносящие пилотов в триглавский сектор Почвень.
+    zh: 可以跳跃到三神裔波赫文星域的纤维
   hasTypes: true
   iconID: 24530
   nameID:
@@ -35243,6 +35246,7 @@
     fr: Entrée dans l'espace triglavian
     ko: 트리글라비안 우주 인바운드
     ru: Вход в пространство Триглава
+    zh: 三神裔领地入境
   parentGroupID: 2456
 2760:
   descriptionID:
@@ -35251,6 +35255,7 @@
     fr: Structures déployables édition spéciale
     ko: 특수 에디션 전개형 구조물
     ru: Полевые сооружения особой версии
+    zh: 特别版可部署建筑
   hasTypes: true
   iconID: 16
   nameID:
@@ -35259,4 +35264,5 @@
     fr: Structures déployables édition spéciale
     ko: 특수 에디션 전개형 구조물
     ru: Полевые сооружения особой версии
+    zh: 特别版可部署建筑
   parentGroupID: 1659

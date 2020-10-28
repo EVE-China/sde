@@ -20365,6 +20365,16 @@
         zh: 三神裔星系纤维
     published: true
     useBasePrice: true
+4088:
+    anchorable: false
+    anchored: false
+    categoryID: 8
+    fittableNonSingleton: true
+    iconID: 1721
+    name:
+        en: Interdiction Burst Probes
+    published: false
+    useBasePrice: false
 350858:
     anchorable: false
     anchored: false

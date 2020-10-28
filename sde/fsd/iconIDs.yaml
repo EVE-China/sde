@@ -8608,3 +8608,15 @@
 24541:
   description: 56639_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CrimsonHarvest.png
   iconFile: res:/UI/Asset/mannequin/topmiddle/56639_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CrimsonHarvest.png
+24543:
+  description: Stasis webification probe
+  iconFile: res:/UI/Texture/Icons/Ammo/probe_charge_green.png
+24544:
+  description: Probe Charge Coral
+  iconFile: res:/UI/Texture/Icons/Ammo/probe_charge_coral.png
+24545:
+  description: Probe Charge Olive
+  iconFile: res:/UI/Texture/Icons/Ammo/probe_charge_olive.png
+24546:
+  description: Probe Charge Violet
+  iconFile: res:/UI/Texture/Icons/Ammo/probe_charge_violet.png

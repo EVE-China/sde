@@ -1494,13 +1494,14 @@
     visibleTranquility: false
 195:
     allowCCPDevs: true
-    internalName: Apocalypse Blood Raider
+    internalName: Apocalypse Blood Raiders
+    isStructureSkin: false
     skinID: 195
     skinMaterialID: 25
     types:
     - 642
     visibleSerenity: true
-    visibleTranquility: false
+    visibleTranquility: true
 196:
     allowCCPDevs: true
     internalName: Armageddon Serenity YC117
@@ -43651,5 +43652,215 @@
     skinMaterialID: 2548
     types:
     - 54733
+    visibleSerenity: true
+    visibleTranquility: true
+9529:
+    allowCCPDevs: true
+    internalName: Prophecy Abyssal Glory
+    skinDescription: 571816
+    skinID: 9529
+    skinMaterialID: 2542
+    types:
+    - 16233
+    visibleSerenity: true
+    visibleTranquility: true
+9530:
+    allowCCPDevs: true
+    internalName: Coercer Abyssal Glory
+    skinDescription: 571819
+    skinID: 9530
+    skinMaterialID: 2542
+    types:
+    - 16236
+    visibleSerenity: true
+    visibleTranquility: true
+9531:
+    allowCCPDevs: true
+    internalName: Ferox Abyssal Glory
+    skinDescription: 571822
+    skinID: 9531
+    skinMaterialID: 2543
+    types:
+    - 16227
+    visibleSerenity: true
+    visibleTranquility: true
+9532:
+    allowCCPDevs: true
+    internalName: Cormorant Abyssal Glory
+    skinDescription: 571825
+    skinID: 9532
+    skinMaterialID: 2543
+    types:
+    - 16238
+    visibleSerenity: true
+    visibleTranquility: true
+9533:
+    allowCCPDevs: true
+    internalName: Brutix Abyssal Glory
+    skinDescription: 571828
+    skinID: 9533
+    skinMaterialID: 2544
+    types:
+    - 16229
+    visibleSerenity: true
+    visibleTranquility: true
+9534:
+    allowCCPDevs: true
+    internalName: Catalyst Abyssal Glory
+    skinDescription: 571831
+    skinID: 9534
+    skinMaterialID: 2544
+    types:
+    - 16240
+    visibleSerenity: true
+    visibleTranquility: true
+9535:
+    allowCCPDevs: true
+    internalName: Cyclone Abyssal Glory
+    skinDescription: 571834
+    skinID: 9535
+    skinMaterialID: 2545
+    types:
+    - 16231
+    visibleSerenity: true
+    visibleTranquility: true
+9536:
+    allowCCPDevs: true
+    internalName: Thrasher Abyssal Glory
+    skinDescription: 571837
+    skinID: 9536
+    skinMaterialID: 2545
+    types:
+    - 16242
+    visibleSerenity: true
+    visibleTranquility: true
+9537:
+    allowCCPDevs: true
+    internalName: Raven Deathglow Remnant
+    skinDescription: 571855
+    skinID: 9537
+    skinMaterialID: 2555
+    types:
+    - 638
+    visibleSerenity: true
+    visibleTranquility: true
+9538:
+    allowCCPDevs: true
+    internalName: Typhoon Deathglow Remnant
+    skinDescription: 571858
+    skinID: 9538
+    skinMaterialID: 2555
+    types:
+    - 644
+    visibleSerenity: true
+    visibleTranquility: true
+9539:
+    allowCCPDevs: true
+    internalName: Slasher Deathglow Remnant
+    skinDescription: 571861
+    skinID: 9539
+    skinMaterialID: 2555
+    types:
+    - 585
+    visibleSerenity: true
+    visibleTranquility: true
+9540:
+    allowCCPDevs: true
+    internalName: Bantam Deathglow Remnant
+    skinDescription: 571864
+    skinID: 9540
+    skinMaterialID: 2555
+    types:
+    - 582
+    visibleSerenity: true
+    visibleTranquility: true
+9541:
+    allowCCPDevs: true
+    internalName: Imperial Navy Slicer Sarum
+    skinID: 9541
+    skinMaterialID: 5
+    types:
+    - 17703
+    visibleSerenity: true
+    visibleTranquility: true
+9542:
+    allowCCPDevs: true
+    internalName: Apocalypse Navy Issue Sarum
+    skinID: 9542
+    skinMaterialID: 5
+    types:
+    - 17726
+    visibleSerenity: true
+    visibleTranquility: true
+9543:
+    allowCCPDevs: true
+    internalName: Armageddon Navy Issue Sarum
+    skinID: 9543
+    skinMaterialID: 5
+    types:
+    - 32305
+    visibleSerenity: true
+    visibleTranquility: true
+9544:
+    allowCCPDevs: true
+    internalName: Augoror Navy Issue Sarum
+    skinID: 9544
+    skinMaterialID: 5
+    types:
+    - 29337
+    visibleSerenity: true
+    visibleTranquility: true
+9545:
+    allowCCPDevs: true
+    internalName: Crucifier Navy Issue Sarum
+    skinID: 9545
+    skinMaterialID: 5
+    types:
+    - 37453
+    visibleSerenity: true
+    visibleTranquility: true
+9546:
+    allowCCPDevs: true
+    internalName: Harbinger Navy Issue Sarum
+    skinID: 9546
+    skinMaterialID: 5
+    types:
+    - 33155
+    visibleSerenity: true
+    visibleTranquility: true
+9547:
+    allowCCPDevs: true
+    internalName: Omen Navy Issue Sarum
+    skinID: 9547
+    skinMaterialID: 5
+    types:
+    - 17709
+    visibleSerenity: true
+    visibleTranquility: true
+9548:
+    allowCCPDevs: true
+    internalName: Tormentor Blood Raiders
+    skinID: 9548
+    skinMaterialID: 25
+    types:
+    - 591
+    visibleSerenity: true
+    visibleTranquility: true
+9549:
+    allowCCPDevs: true
+    internalName: Arbitrator Blood Raiders
+    skinID: 9549
+    skinMaterialID: 25
+    types:
+    - 628
+    visibleSerenity: true
+    visibleTranquility: true
+9550:
+    allowCCPDevs: true
+    internalName: Apocalypse Blood Raiders
+    skinID: 9550
+    skinMaterialID: 25
+    types:
+    - 642
     visibleSerenity: true
     visibleTranquility: true

@@ -70318,3 +70318,96 @@
   propulsionChance: false
   published: false
   rangeChance: false
+8094:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8094
+  effectName: shipBonusHybridROFGD1
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationRequiredSkillModifier
+    modifiedAttributeID: 51
+    modifyingAttributeID: 738
+    operation: postPercent
+    skillTypeID: 3301
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8095:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8095
+  effectName: eliteBonusInterdictors1massAddition
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: LocationGroupModifier
+    groupID: 329
+    modifiedAttributeID: 796
+    modifyingAttributeID: 1012
+    operation: postPercent
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8096:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8096
+  effectName: shipBonusKinMissileDamageCD2
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: charID
+    func: OwnerRequiredSkillModifier
+    modifiedAttributeID: 117
+    modifyingAttributeID: 735
+    operation: postPercent
+    skillTypeID: 3319
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8097:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8097
+  effectName: eliteBonusInterdictors1ShieldCapacity
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: ItemModifier
+    modifiedAttributeID: 263
+    modifyingAttributeID: 1012
+    operation: postPercent
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8098:
+  disallowAutoRepeat: false
+  effectCategory: passive
+  effectID: 8098
+  effectName: shipBonusArmorHPAD2
+  electronicChance: false
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
+  modifierInfo:
+  - domain: shipID
+    func: ItemModifier
+    modifiedAttributeID: 265
+    modifyingAttributeID: 1888
+    operation: postPercent
+  propulsionChance: false
+  published: false
+  rangeChance: false
