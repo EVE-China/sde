@@ -3238,11 +3238,12 @@
 1181:
     allowCCPDevs: true
     internalName: Astero Sanctuary
+    isStructureSkin: false
     skinID: 1181
     skinMaterialID: 34
     types:
     - 33468
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 1182:
     allowCCPDevs: true
@@ -3256,11 +3257,12 @@
 1183:
     allowCCPDevs: true
     internalName: Stratios Sanctuary
+    isStructureSkin: false
     skinID: 1183
     skinMaterialID: 34
     types:
     - 33470
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 1184:
     allowCCPDevs: true
@@ -3274,11 +3276,12 @@
 1185:
     allowCCPDevs: true
     internalName: Nestor Sanctuary
+    isStructureSkin: false
     skinID: 1185
     skinMaterialID: 34
     types:
     - 33472
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 1186:
     allowCCPDevs: true
@@ -16307,7 +16310,7 @@
     skinMaterialID: 108
     types:
     - 2161
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3301:
     allowCCPDevs: false
@@ -16316,7 +16319,7 @@
     skinMaterialID: 108
     types:
     - 589
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3302:
     allowCCPDevs: true
@@ -16325,7 +16328,7 @@
     skinMaterialID: 108
     types:
     - 590
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3303:
     allowCCPDevs: false
@@ -16334,7 +16337,7 @@
     skinMaterialID: 108
     types:
     - 29248
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3304:
     allowCCPDevs: false
@@ -16343,7 +16346,7 @@
     skinMaterialID: 108
     types:
     - 597
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3305:
     allowCCPDevs: true
@@ -16352,7 +16355,7 @@
     skinMaterialID: 108
     types:
     - 591
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3306:
     allowCCPDevs: false
@@ -16361,7 +16364,7 @@
     skinMaterialID: 108
     types:
     - 11393
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3307:
     allowCCPDevs: false
@@ -16370,7 +16373,7 @@
     skinMaterialID: 108
     types:
     - 11365
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3308:
     allowCCPDevs: false
@@ -16379,7 +16382,7 @@
     skinMaterialID: 108
     types:
     - 11188
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3309:
     allowCCPDevs: false
@@ -16388,7 +16391,7 @@
     skinMaterialID: 108
     types:
     - 12038
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3310:
     allowCCPDevs: false
@@ -16397,7 +16400,7 @@
     skinMaterialID: 108
     types:
     - 11190
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3311:
     allowCCPDevs: false
@@ -16406,7 +16409,7 @@
     skinMaterialID: 108
     types:
     - 11184
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3312:
     allowCCPDevs: false
@@ -16415,7 +16418,7 @@
     skinMaterialID: 108
     types:
     - 11186
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3313:
     allowCCPDevs: false
@@ -16424,7 +16427,7 @@
     skinMaterialID: 108
     types:
     - 37457
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3314:
     allowCCPDevs: false
@@ -16433,7 +16436,7 @@
     skinMaterialID: 108
     types:
     - 17703
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3315:
     allowCCPDevs: false
@@ -16442,7 +16445,7 @@
     skinMaterialID: 108
     types:
     - 37453
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3316:
     allowCCPDevs: false
@@ -16451,7 +16454,7 @@
     skinMaterialID: 108
     types:
     - 16236
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3317:
     allowCCPDevs: false
@@ -16460,7 +16463,7 @@
     skinMaterialID: 108
     types:
     - 32874
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3318:
     allowCCPDevs: false
@@ -16469,7 +16472,7 @@
     skinMaterialID: 108
     types:
     - 37481
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3319:
     allowCCPDevs: false
@@ -16478,7 +16481,7 @@
     skinMaterialID: 108
     types:
     - 22452
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3320:
     allowCCPDevs: false
@@ -16487,7 +16490,7 @@
     skinMaterialID: 108
     types:
     - 628
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3321:
     allowCCPDevs: false
@@ -16496,7 +16499,7 @@
     skinMaterialID: 108
     types:
     - 625
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3322:
     allowCCPDevs: false
@@ -16505,7 +16508,7 @@
     skinMaterialID: 108
     types:
     - 624
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3323:
     allowCCPDevs: false
@@ -16514,7 +16517,7 @@
     skinMaterialID: 108
     types:
     - 2006
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3324:
     allowCCPDevs: false
@@ -16523,7 +16526,7 @@
     skinMaterialID: 108
     types:
     - 12019
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3325:
     allowCCPDevs: false
@@ -16532,7 +16535,7 @@
     skinMaterialID: 108
     types:
     - 12003
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3326:
     allowCCPDevs: false
@@ -16541,7 +16544,7 @@
     skinMaterialID: 108
     types:
     - 12017
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3327:
     allowCCPDevs: false
@@ -16550,7 +16553,7 @@
     skinMaterialID: 108
     types:
     - 11987
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3328:
     allowCCPDevs: false
@@ -16559,7 +16562,7 @@
     skinMaterialID: 108
     types:
     - 20125
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3329:
     allowCCPDevs: false
@@ -16568,7 +16571,7 @@
     skinMaterialID: 108
     types:
     - 11965
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3330:
     allowCCPDevs: false
@@ -16577,7 +16580,7 @@
     skinMaterialID: 108
     types:
     - 29337
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3331:
     allowCCPDevs: false
@@ -16586,7 +16589,7 @@
     skinMaterialID: 108
     types:
     - 17709
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3332:
     allowCCPDevs: false
@@ -16595,7 +16598,7 @@
     skinMaterialID: 108
     types:
     - 24696
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3333:
     allowCCPDevs: false
@@ -16604,7 +16607,7 @@
     skinMaterialID: 108
     types:
     - 4302
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3334:
     allowCCPDevs: false
@@ -16613,7 +16616,7 @@
     skinMaterialID: 108
     types:
     - 16233
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3335:
     allowCCPDevs: false
@@ -16622,7 +16625,7 @@
     skinMaterialID: 108
     types:
     - 22448
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3336:
     allowCCPDevs: false
@@ -16631,7 +16634,7 @@
     skinMaterialID: 108
     types:
     - 22474
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3337:
     allowCCPDevs: false
@@ -16640,7 +16643,7 @@
     skinMaterialID: 108
     types:
     - 33155
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3338:
     allowCCPDevs: false
@@ -16649,7 +16652,7 @@
     skinMaterialID: 108
     types:
     - 24692
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3339:
     allowCCPDevs: false
@@ -16658,7 +16661,7 @@
     skinMaterialID: 108
     types:
     - 642
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3340:
     allowCCPDevs: false
@@ -16667,7 +16670,7 @@
     skinMaterialID: 108
     types:
     - 643
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3341:
     allowCCPDevs: false
@@ -16676,7 +16679,7 @@
     skinMaterialID: 108
     types:
     - 22428
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3342:
     allowCCPDevs: false
@@ -16685,7 +16688,7 @@
     skinMaterialID: 108
     types:
     - 28659
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3343:
     allowCCPDevs: false
@@ -16694,7 +16697,7 @@
     skinMaterialID: 108
     types:
     - 17726
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3344:
     allowCCPDevs: false
@@ -16703,7 +16706,7 @@
     skinMaterialID: 108
     types:
     - 32305
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3345:
     allowCCPDevs: false
@@ -16712,7 +16715,7 @@
     skinMaterialID: 108
     types:
     - 19720
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3346:
     allowCCPDevs: false
@@ -16721,7 +16724,7 @@
     skinMaterialID: 108
     types:
     - 23757
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3347:
     allowCCPDevs: false
@@ -16730,7 +16733,7 @@
     skinMaterialID: 108
     types:
     - 23919
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3348:
     allowCCPDevs: false
@@ -16739,7 +16742,7 @@
     skinMaterialID: 108
     types:
     - 11567
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3349:
     allowCCPDevs: false
@@ -16748,7 +16751,7 @@
     skinMaterialID: 108
     types:
     - 1944
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3350:
     allowCCPDevs: false
@@ -16757,7 +16760,7 @@
     skinMaterialID: 108
     types:
     - 19744
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3351:
     allowCCPDevs: false
@@ -16766,7 +16769,7 @@
     skinMaterialID: 108
     types:
     - 12733
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3352:
     allowCCPDevs: false
@@ -16775,7 +16778,7 @@
     skinMaterialID: 108
     types:
     - 12753
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3353:
     allowCCPDevs: false
@@ -16784,7 +16787,7 @@
     skinMaterialID: 108
     types:
     - 20183
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3354:
     allowCCPDevs: false
@@ -16793,7 +16796,7 @@
     skinMaterialID: 108
     types:
     - 28850
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3356:
     allowCCPDevs: true
@@ -16802,7 +16805,7 @@
     skinMaterialID: 108
     types:
     - 34317
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3357:
     allowCCPDevs: true
@@ -16811,7 +16814,7 @@
     skinMaterialID: 108
     types:
     - 37604
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3358:
     allowCCPDevs: true
@@ -16820,7 +16823,7 @@
     skinMaterialID: 108
     types:
     - 596
-    visibleSerenity: false
+    visibleSerenity: true
     visibleTranquility: true
 3359:
     allowCCPDevs: true
@@ -20165,7 +20168,7 @@
     skinMaterialID: 108
     types:
     - 596
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3829:
     allowCCPDevs: true
@@ -20174,7 +20177,7 @@
     skinMaterialID: 108
     types:
     - 2161
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3830:
     allowCCPDevs: true
@@ -20183,7 +20186,7 @@
     skinMaterialID: 108
     types:
     - 589
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3831:
     allowCCPDevs: true
@@ -20192,7 +20195,7 @@
     skinMaterialID: 108
     types:
     - 590
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3832:
     allowCCPDevs: true
@@ -20201,7 +20204,7 @@
     skinMaterialID: 108
     types:
     - 29248
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3833:
     allowCCPDevs: true
@@ -20210,7 +20213,7 @@
     skinMaterialID: 108
     types:
     - 597
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3834:
     allowCCPDevs: true
@@ -20219,7 +20222,7 @@
     skinMaterialID: 108
     types:
     - 591
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3835:
     allowCCPDevs: true
@@ -20228,7 +20231,7 @@
     skinMaterialID: 108
     types:
     - 11393
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3836:
     allowCCPDevs: true
@@ -20237,7 +20240,7 @@
     skinMaterialID: 108
     types:
     - 11365
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3837:
     allowCCPDevs: true
@@ -20246,7 +20249,7 @@
     skinMaterialID: 108
     types:
     - 11188
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3838:
     allowCCPDevs: true
@@ -20255,7 +20258,7 @@
     skinMaterialID: 108
     types:
     - 12038
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3839:
     allowCCPDevs: true
@@ -20264,7 +20267,7 @@
     skinMaterialID: 108
     types:
     - 11190
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3840:
     allowCCPDevs: true
@@ -20273,7 +20276,7 @@
     skinMaterialID: 108
     types:
     - 11184
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3841:
     allowCCPDevs: true
@@ -20282,7 +20285,7 @@
     skinMaterialID: 108
     types:
     - 11186
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3842:
     allowCCPDevs: true
@@ -20291,7 +20294,7 @@
     skinMaterialID: 108
     types:
     - 37457
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3843:
     allowCCPDevs: true
@@ -20300,7 +20303,7 @@
     skinMaterialID: 108
     types:
     - 17703
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3844:
     allowCCPDevs: true
@@ -20309,7 +20312,7 @@
     skinMaterialID: 108
     types:
     - 37453
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3845:
     allowCCPDevs: true
@@ -20318,7 +20321,7 @@
     skinMaterialID: 108
     types:
     - 16236
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3846:
     allowCCPDevs: true
@@ -20327,7 +20330,7 @@
     skinMaterialID: 108
     types:
     - 32874
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3847:
     allowCCPDevs: true
@@ -20336,7 +20339,7 @@
     skinMaterialID: 108
     types:
     - 37481
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3848:
     allowCCPDevs: true
@@ -20345,7 +20348,7 @@
     skinMaterialID: 108
     types:
     - 22452
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3849:
     allowCCPDevs: true
@@ -20354,7 +20357,7 @@
     skinMaterialID: 108
     types:
     - 34317
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3850:
     allowCCPDevs: true
@@ -20363,7 +20366,7 @@
     skinMaterialID: 108
     types:
     - 628
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3851:
     allowCCPDevs: true
@@ -20372,7 +20375,7 @@
     skinMaterialID: 108
     types:
     - 625
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3852:
     allowCCPDevs: true
@@ -20381,7 +20384,7 @@
     skinMaterialID: 108
     types:
     - 624
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3853:
     allowCCPDevs: true
@@ -20390,7 +20393,7 @@
     skinMaterialID: 108
     types:
     - 2006
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3854:
     allowCCPDevs: true
@@ -20399,7 +20402,7 @@
     skinMaterialID: 108
     types:
     - 12019
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3855:
     allowCCPDevs: true
@@ -20408,7 +20411,7 @@
     skinMaterialID: 108
     types:
     - 12003
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3856:
     allowCCPDevs: true
@@ -20417,7 +20420,7 @@
     skinMaterialID: 108
     types:
     - 12017
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3857:
     allowCCPDevs: true
@@ -20426,7 +20429,7 @@
     skinMaterialID: 108
     types:
     - 11987
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3858:
     allowCCPDevs: true
@@ -20435,7 +20438,7 @@
     skinMaterialID: 108
     types:
     - 20125
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3859:
     allowCCPDevs: true
@@ -20444,7 +20447,7 @@
     skinMaterialID: 108
     types:
     - 11965
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3860:
     allowCCPDevs: true
@@ -20453,7 +20456,7 @@
     skinMaterialID: 108
     types:
     - 29337
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3861:
     allowCCPDevs: true
@@ -20462,7 +20465,7 @@
     skinMaterialID: 108
     types:
     - 17709
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3862:
     allowCCPDevs: true
@@ -20471,7 +20474,7 @@
     skinMaterialID: 108
     types:
     - 24696
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3863:
     allowCCPDevs: true
@@ -20480,7 +20483,7 @@
     skinMaterialID: 108
     types:
     - 4302
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3864:
     allowCCPDevs: true
@@ -20489,7 +20492,7 @@
     skinMaterialID: 108
     types:
     - 16233
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3865:
     allowCCPDevs: true
@@ -20498,7 +20501,7 @@
     skinMaterialID: 108
     types:
     - 22448
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3866:
     allowCCPDevs: true
@@ -20507,7 +20510,7 @@
     skinMaterialID: 108
     types:
     - 22474
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3867:
     allowCCPDevs: true
@@ -20516,7 +20519,7 @@
     skinMaterialID: 108
     types:
     - 33155
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3868:
     allowCCPDevs: true
@@ -20525,7 +20528,7 @@
     skinMaterialID: 108
     types:
     - 24692
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3869:
     allowCCPDevs: true
@@ -20534,7 +20537,7 @@
     skinMaterialID: 108
     types:
     - 642
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3870:
     allowCCPDevs: true
@@ -20543,7 +20546,7 @@
     skinMaterialID: 108
     types:
     - 643
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3871:
     allowCCPDevs: true
@@ -20552,7 +20555,7 @@
     skinMaterialID: 108
     types:
     - 22428
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3872:
     allowCCPDevs: true
@@ -20561,7 +20564,7 @@
     skinMaterialID: 108
     types:
     - 28659
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3873:
     allowCCPDevs: true
@@ -20570,7 +20573,7 @@
     skinMaterialID: 108
     types:
     - 17726
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3874:
     allowCCPDevs: true
@@ -20579,7 +20582,7 @@
     skinMaterialID: 108
     types:
     - 32305
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3875:
     allowCCPDevs: true
@@ -20588,7 +20591,7 @@
     skinMaterialID: 108
     types:
     - 19720
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3876:
     allowCCPDevs: true
@@ -20597,7 +20600,7 @@
     skinMaterialID: 108
     types:
     - 23757
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3877:
     allowCCPDevs: true
@@ -20606,7 +20609,7 @@
     skinMaterialID: 108
     types:
     - 23919
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3878:
     allowCCPDevs: true
@@ -20615,7 +20618,7 @@
     skinMaterialID: 108
     types:
     - 11567
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3879:
     allowCCPDevs: true
@@ -20624,7 +20627,7 @@
     skinMaterialID: 108
     types:
     - 1944
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3880:
     allowCCPDevs: true
@@ -20633,7 +20636,7 @@
     skinMaterialID: 108
     types:
     - 19744
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3881:
     allowCCPDevs: true
@@ -20642,7 +20645,7 @@
     skinMaterialID: 108
     types:
     - 12733
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3882:
     allowCCPDevs: true
@@ -20651,7 +20654,7 @@
     skinMaterialID: 108
     types:
     - 12753
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3883:
     allowCCPDevs: true
@@ -20660,7 +20663,7 @@
     skinMaterialID: 108
     types:
     - 20183
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3884:
     allowCCPDevs: true
@@ -20669,7 +20672,7 @@
     skinMaterialID: 108
     types:
     - 28850
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3885:
     allowCCPDevs: true
@@ -20678,7 +20681,7 @@
     skinMaterialID: 108
     types:
     - 37604
-    visibleSerenity: true
+    visibleSerenity: false
     visibleTranquility: false
 3886:
     allowCCPDevs: true
