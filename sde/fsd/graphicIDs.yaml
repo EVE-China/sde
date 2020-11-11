@@ -20021,7 +20021,7 @@
   description: Caldari Elevator Hub
   iconInfo:
     folder: res:/dx9/model/structure/caldari/spaceelevator/hub/icons
-  sofFactionName: caldaribase
+  sofFactionName: dcmbase
   sofHullName: celevatorhub
   sofRaceName: caldari
 24485:
@@ -20047,11 +20047,11 @@
   sofRaceName: caldari
 24488:
   description: Jita 4-4 Station
-  graphicFile: res:/dx9/model/spaceobjectfactory/hulls/cs9.red
+  graphicFile: res:/dx9/model/spaceobjectfactory/hulls/jita.red
   iconInfo:
-    folder: res:/dx9/model/station/caldari/cs9/icons
-  sofFactionName: caldaribase
-  sofHullName: cs9
+    folder: res:/dx9/model/station/caldari/jita/icons
+  sofFactionName: caldarinavy
+  sofHullName: jita
   sofRaceName: caldari
 24490:
   description: p_moon_Jita4-4
@@ -20403,6 +20403,8 @@
   sofRaceName: generic
 24564:
   description: Deployable Upwell Encounter Surveillance System (Bounty Monitor)
+  iconInfo:
+    folder: res:/dx9/model/deployables/mobile/bountymonitor/upwell/icons/
   sofFactionName: upwell
   sofHullName: mbm_uw_t1
   sofRaceName: soe
@@ -21541,3 +21543,16 @@
   sofFactionName: bloodraider
   sofHullName: gat01
   sofRaceName: generic
+24890:
+  description: buildLink multiEffect
+  graphicFile: res:\FisFX\Module\RapidAssembly\MultiEffect_RapidAssembly_SuperCarrier_01a.red
+24891:
+  description: Clone Bay
+  graphicFile: res:/dx9/model/turret/clonebay/xl/clonebay_xl01_t1.red
+24893:
+  description: Capsule Respawner effect 01a
+  graphicFile: res:\FisFX\Module\RapidAssembly\RapidAssembly_SpawnIn_01a.red
+24894:
+  description: Impact effect for missile (Jita Firework)
+  graphicFile: res:/dx9/model/turret/launcher/holiday/holiday_impact_Jita.red
+  sofRaceName: caldari

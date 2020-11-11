@@ -8620,3 +8620,60 @@
 24546:
   description: Probe Charge Violet
   iconFile: res:/UI/Texture/Icons/Ammo/probe_charge_violet.png
+24547:
+  description: Clone Bay Module
+  iconFile: res:/UI/Texture/Icons/Modules/SuperCarrierCloneBay.png
+24548:
+  description: 56844_Female_Feet_ShoesEngF01_Types_ShoesEngF01_Jita.png
+  iconFile: res:/UI/Asset/mannequin/feet/56844_Female_Feet_ShoesEngF01_Types_ShoesEngF01_Jita.png
+24549:
+  description: 56845_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_Jita.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56845_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_Jita.png
+24550:
+  description: 56846_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_Jita.png
+  iconFile: res:/UI/Asset/mannequin/bottomouter/56846_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_Jita.png
+24551:
+  description: 56847_Male_Feet_ShoesEngM01_Types_ShoesEngM01_jita.png
+  iconFile: res:/UI/Asset/mannequin/feet/56847_Male_Feet_ShoesEngM01_Types_ShoesEngM01_jita.png
+24552:
+  description: 56848_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_jita.png
+  iconFile: res:/UI/Asset/mannequin/topmiddle/56848_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_jita.png
+24553:
+  description: 56849_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_jita.png
+  iconFile: res:/UI/Asset/mannequin/bottomouter/56849_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_jita.png
+24554:
+  description: 56850_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Jita.png
+  iconFile: res:/UI/Asset/mannequin/bottomouter/56850_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Jita.png
+24555:
+  description: 56851_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Jita_Tie.png
+  iconFile: res:/UI/Asset/mannequin/outer/56851_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Jita_Tie.png
+24556:
+  description: 56852_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Jita_Tie.png
+  iconFile: res:/UI/Asset/mannequin/outer/56852_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Jita_Tie.png
+24557:
+  description: 56853_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Jita.png
+  iconFile: res:/UI/Asset/mannequin/bottomouter/56853_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Jita.png
+24558:
+  description: 56854_Female_Makeup_Augmentations_Face_Paint_F01_Types_Face_Paint_F01_V33_Japan.png
+  iconFile: res:/UI/Asset/mannequin/makeup_augmentations/56854_Female_Makeup_Augmentations_Face_Paint_F01_Types_Face_Paint_F01_V33_Japan.png
+24559:
+  description: 56855_Male_Makeup_Augmentations_Face_Paint_M01_Types_Face_Paint_M01_V34_Japan.png
+  iconFile: res:/UI/Asset/mannequin/makeup_augmentations/56855_Male_Makeup_Augmentations_Face_Paint_M01_Types_Face_Paint_M01_V34_Japan.png
+24560:
+  description: 56856_Male_outer_ExplorationSuit_M01_Types_ExplorationSuit_M01_Japan.png
+  iconFile: res:/UI/Asset/mannequin/outer/56856_Male_outer_ExplorationSuit_M01_Types_ExplorationSuit_M01_Japan.png
+24561:
+  description: 56857_Female_Outer_ExplorationSuit_F01_Types_ExplorationSuit_F01_Japan.png
+  iconFile: res:/UI/Asset/mannequin/outer/56857_Female_Outer_ExplorationSuit_F01_Types_ExplorationSuit_F01_Japan.png
+24562:
+  description: Encrypted bond small
+  iconFile: res:/UI/Texture/Icons/Inventory/encrypted_bond_1.png
+24563:
+  description: Encrypted bond medium
+  iconFile: res:/UI/Texture/Icons/Inventory/encrypted_bond_2.png
+24564:
+  description: Encrypted bond large
+  iconFile: res:/UI/Texture/Icons/Inventory/encrypted_bond_3.png
+24565:
+  description: Encrypted bond very large
+  iconFile: res:/UI/Texture/Icons/Inventory/encrypted_bond_4.png

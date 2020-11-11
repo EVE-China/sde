@@ -4933,11 +4933,7 @@
     33150: 0.25
     33401: 0.25
     33449: 0.249116992381
-    33483: -1.0
-    33595: 1.0
-    33598: -1.0
-    33602: -1.0
-    33612: -1.0
+    33595: -1.0
     34841: 0.25
     34842: 0.25
     34843: 0.25
@@ -5005,6 +5001,7 @@
     43661: 1.0
     45011: 0.0776255920767
     52695: 0.25
+    56734: 0.25
   deleted: false
   descriptionID:
     de: 'Die Caldari Navy ist im Bezug auf Personal und Anzahl der Schiffe kleiner
@@ -7537,11 +7534,7 @@
     33150: 0.25
     33401: 0.25
     33449: 0.11702831211
-    33482: -1.0
-    33600: -1.0
-    33604: -1.0
-    33607: -1.0
-    33610: 1.0
+    33610: -1.0
     34841: 0.25
     34842: 0.25
     34843: 0.25
@@ -7609,6 +7602,7 @@
     43665: 1.0
     45011: 0.0909090909091
     52695: 0.25
+    56734: 0.25
   deleted: false
   descriptionID:
     de: Die Flotte der Republik wurde aus den übrig gebliebenen Teilen der Rebellenflotte
@@ -13811,11 +13805,7 @@
     32875: 1.0
     33150: 0.25
     33401: 0.25
-    33484: -1.0
-    33585: 1.0
-    33597: -1.0
-    33601: -1.0
-    33605: -1.0
+    33585: -1.0
     34841: 0.25
     34842: 0.25
     34843: 0.25
@@ -13884,6 +13874,7 @@
     43659: 1.0
     45011: 0.0786900086584
     52695: 0.25
+    56734: 0.25
   deleted: false
   descriptionID:
     de: Die Imperial Navy operiert nach der einfachen Doktrin, jedes Problem durch
@@ -19645,11 +19636,7 @@
     32873: 1.0
     33150: 0.25
     33401: 0.25
-    33485: -1.0
-    33599: -1.0
-    33603: -1.0
-    33606: -1.0
-    33608: 1.0
+    33608: -1.0
     34841: 0.25
     34842: 0.25
     34843: 0.25
@@ -19715,6 +19702,7 @@
     43663: 1.0
     45011: 0.0811895158956
     52695: 0.25
+    56734: 0.25
   deleted: false
   descriptionID:
     de: Die Federation Navy hat schon bessere Tage erlebt. Seit dem Ende des Kriegs
@@ -20371,6 +20359,10 @@
     33271: 0.25
     47450: -0.0714232060347
     48121: -0.1
+    55930: -1.0
+    55931: -1.0
+    55932: -1.0
+    55933: -1.0
   deleted: false
   descriptionID:
     de: 'CONCORD wurde vor einem Jahrhundert von allen Imperien gemeinsam gegründet.
@@ -22018,6 +22010,10 @@
     30747: -0.1
     33271: 0.25
     48121: -0.1
+    55930: -1.0
+    55931: -1.0
+    55932: -1.0
+    55933: -1.0
   deleted: false
   descriptionID:
     de: Die SCC ist für die Regulierung und Überwachung aller Handelsgeschäfte, die
@@ -22811,6 +22807,10 @@
     33271: 0.25
     47450: -0.0714948932219
     48121: -0.1
+    55930: -1.0
+    55931: -1.0
+    55932: -1.0
+    55933: -1.0
   deleted: false
   descriptionID:
     de: Der ausführende Arm von CONCORD. DED hat die Aufgabe, bekannte Kriminelle

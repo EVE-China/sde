@@ -13883,11 +13883,11 @@
     categoryID: 17
     fittableNonSingleton: false
     name:
-        de: Imperiale Kopfgeld-Vergütungsmarken
-        en: Empire Bounty Reimbursement Tags
-        fr: Insignes de remboursement de prime d'Empire
+        de: Kopfgeld-Vergütungsmarken
+        en: Bounty Encrypted Bonds
+        fr: Insignes de remboursement de prime
         ja: 帝国懸賞1メガ回収タグ
-        ru: Жетоны получения наград за головы.
+        ru: Метки компенсации наград за голову
         zh: 帝国追击赏金铭牌
     published: true
     useBasePrice: true
@@ -20326,6 +20326,18 @@
         zh: 临时性可碰撞建筑
     published: false
     useBasePrice: false
+4079:
+    anchorable: false
+    anchored: false
+    categoryID: 2
+    fittableNonSingleton: false
+    name:
+        de: Gefechtsüberwachungssystem
+        en: Encounter Surveillance System
+        fr: Système de surveillance des affrontements
+        ru: Система наблюдения за столкновениями
+    published: true
+    useBasePrice: false
 4081:
     anchorable: false
     anchored: false
@@ -20372,7 +20384,10 @@
     fittableNonSingleton: true
     iconID: 1721
     name:
+        de: Burst-Unterbrechungssonden
         en: Interdiction Burst Probes
+        fr: Sondes de salves d'interdiction
+        ru: Заградительные импульсные зонды
         zh: 拦截脉冲波探针
     published: false
     useBasePrice: false

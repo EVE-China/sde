@@ -2603,6 +2603,14 @@
   border: 0.0
   corridor: 0.0
   descriptionID:
+    de: Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die
+      Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar
+      dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt
+      ein nützliches Werkzeug zu zerstören. Diese Station wurde in eine Einrichtung
+      umgewandelt, die sich auf die biologische Anpassung von Lebensformen an eine
+      Vielzahl von Umgebungsbedingungen spezialisiert. Zu diesem Zweck dienen zahlreiche
+      Kammern, in denen sowohl Triglavianer als auch Nicht-Triglavianer je nach ihren
+      Bedürfnissen und den erforderlichen Umgebungsbedingungen angepasst werden.
     en: Triglavian occupation of a space station typically involves converting much
       of its interior from its former purpose, the Clades apparently being inclined
       to use the seized station for their own ends rather than destroy a useful asset.  This
@@ -2610,6 +2618,27 @@
       to a variety of environmental conditions. The numerous chambers devoted to this
       purpose are used to adapt both Triglavians and non-Triglavians, depending on
       their needs and the environmental adjustments necessary.
+    fr: L'occupation triglavian d'une station spatiale implique généralement la transformation
+      de la majeure partie de son intérieur par rapport à son utilisation antérieure,
+      les clades étant apparemment incités à se servir de la station conquise pour
+      leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette
+      station a été transformée en usine centrée sur la bioadaptation des formes de
+      vie à diverses conditions environnementales. Les nombreuses salles dédiées à
+      cet objectif sont utilisées pour l'adaptation à la fois des Triglavians et des
+      non-Triglavians, en fonction de leurs besoins et des ajustements environnementaux
+      nécessaires.
+    ko: 정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을
+      위한 "증명" 시설로 개조되었습니다. 현재는 생체적응 연구소로 운영되고 있으며 유기체가 극한 환경에서 생존할 수 있도록 개조 작업을 진행하고
+      있습니다. 정거장 내 대부분의 구역은 트리글라비안을 비롯한 비트리글라비안 개체의 생체 개조 작업에 사용되고 있습니다.
+    ru: После захвата космической станции Триглав, как правило, подвергает её значительным
+      внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать
+      захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция
+      была превращена в объект, который специализируется на биологической адаптации
+      различных форм жизни к разнообразным внешним условиям. Она поделена на многочисленные
+      камеры, предназначенные как для триглавских, так и нетриглавских форм жизни,
+      условия содержания в которых различаются в зависимости от потребностей помещённых
+      в них индивидов и требований к конечному результату.
+    zh: 三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站已被改造为一座研究设施，主要针对各种环境条件下的生命形态进行生化适应突变的相关研究。为这个目的而服务的众多舱室除了接纳三神裔之外，也根据环境变化需求而对非三神裔生命体进行适应突变。
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
@@ -2619,6 +2648,7 @@
     fr: Chambres de bioadaptation
     ko: 바이오적응형 시설
     ru: Камеры биоадаптации
+    zh: 生化适应舱室
   ratio: 0.0
   researchFactor: 0.98
   services:
@@ -2641,6 +2671,14 @@
   border: 0.0
   corridor: 0.0
   descriptionID:
+    de: Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die
+      Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar
+      dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt
+      ein nützliches Werkzeug zu zerstören. Die Klade, die diese Station übernommen
+      hat, hat sie in einen Terminus für die Rohstoffförderung verwandelt, die in
+      der gesamten Krai-Region betrieben wird. Die umfangreichen Verarbeitungsprozesse
+      erhalten offenbar auch Lieferungen aus dem Ressourcenabbau und von Überfällen
+      in System des bekannten Weltraums, die für die Triglavianer von Interesse sind.
     en: Triglavian occupation of a space station typically involves converting much
       of its interior from its former purpose, the Clades apparently being inclined
       to use the seized station for their own ends rather than destroy a useful asset.  The
@@ -2648,6 +2686,26 @@
       extraction operations being carried out across its Krai. The vast processing
       operations are evidently also receiving deliveries from resource harvesting
       and raids taking place in Known Space systems of continued interest to the Triglavians.
+    fr: L'occupation triglavian d'une station spatiale implique généralement la transformation
+      de la majeure partie de son intérieur par rapport à son utilisation antérieure,
+      les clades étant apparemment incités à se servir de la station conquise pour
+      leurs intérêts plutôt que de détruire un élément potentiellement utile. Le clade
+      qui a pris possession de cette station a jugé bon de la convertir en un terminal
+      d'opérations d'extraction de ressources menées à travers sa Krai. Le vaste traitement
+      d'opérations reçoit aussi à l'évidence des livraisons issues de la collecte
+      de ressources et des raids effectués dans les systèmes de l'espace connu attirant
+      l'intérêt des Triglavians de manière continue.
+    ko: 정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을
+      위한 "증명" 시설로 개조되었습니다. 현재는 크라이 전역에서 수집한 자원을 추출하기 위한 장소로 활용되고 있습니다. 트리글라비안은 일반
+      우주에서 약탈 또는 추출한 자원을 정제하기 위해 해당 정거장을 사용하고 있습니다.
+    ru: После захвата космической станции Триглав, как правило, подвергает её значительным
+      внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать
+      захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Клада,
+      завладевшая этой станцией, решила преобразовать её в сортировочный узел для
+      всех добывающих операций, которые проходят в этом Крае. На переработку сюда
+      поступают ресурсы, добываемые — в том числе и во время налётов — в системах
+      освоенной части космоса, представляющих интерес для Сообщества Триглава.
+    zh: 三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  占据这里的演化枝将其改造为全星系范围内的资源开采作业的终端。它巨大的提炼设施除了接受开采而来的资源外，还包括从三神裔觊觎的已知星系中掠夺来的资源。
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
@@ -2656,7 +2714,8 @@
     en: Extractive Terminus
     fr: Terminus extractif
     ko: 추출형 터미너스
-    ru: Извлекающий Терминус
+    ru: Сортировочный узел
+    zh: 开采终端
   ratio: 0.0
   researchFactor: 0.98
   services:
@@ -2679,6 +2738,15 @@
   border: 0.0
   corridor: 0.0
   descriptionID:
+    de: 'Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die
+      Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar
+      dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt
+      ein nützliches Werkzeug zu zerstören. Diese Station wurde in eine Einrichtung
+      umgewandelt, in der die kontrollierende Klade und ihre Unterkladen verschiedene
+      Formen der „Prüfung“ durchführen. Diese Verfahren scheinen eine komplexe Mischung
+      aus Tests und rituellem wie philosophischem Diskurs zu sein: eine Form konkreter
+      Dialektik, die darauf abzielt, den Wert von Individuen, Gruppen, Theorien, Ideologien,
+      Technologien, sozialen Praktiken und vielem mehr zu bestimmen.'
     en: 'Triglavian occupation of a space station typically involves converting much
       of its interior from its former purpose, the Clades apparently being inclined
       to use the seized station for their own ends rather than destroy a useful asset.  This
@@ -2687,15 +2755,37 @@
       procedures appear to be a complex mix of testing, ritual and philosophical discourse:
       a form of concrete dialectics aimed at determining the worth of individuals,
       groups, theories, ideologies, technology, social practices and more besides.'
+    fr: 'L''occupation triglavian d''une station spatiale implique généralement la
+      transformation de la majeure partie de son intérieur par rapport à son utilisation
+      antérieure, les clades étant apparemment incités à se servir de la station conquise
+      pour leurs intérêts plutôt que de détruire un élément potentiellement utile.
+      Cette station a été transformée en usine dédiée à différentes formes d''« expériences »
+      effectuées par le clade propriétaire et ses sous-clades. Ces procédures semblent
+      être un mélange complexe de discours expérimentaux, rituels et philosophiques :
+      une forme de dialectique concrète visant à déterminer la valeur des individus,
+      groupes, théories, idéologies, technologies, pratiques sociales et bien d''autres.'
+    ko: 정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을
+      위한 "증명" 시설로 개조되었습니다. "증명"은 다양한 실험, 의식, 그리고 철학적 담론을 바탕으로 한 검증 절차로 실질적인 담론을 통해
+      개인, 단체, 이론, 사상, 기술, 그리고 사회적 관습 등의 가치를 검증하는 데 활용됩니다.
+    ru: После захвата космической станции Триглав, как правило, подвергает её значительным
+      внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать
+      захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция
+      была преобразована в объект, предназначенный для различного рода «испытаний»,
+      которые проводит владеющая станцией клада и её малые клады. Эти процедуры представляют
+      собой сложную смесь разного рода экспертиз, ритуалов и философских дискуссий,
+      предназначенных для оценки отдельных лиц, групп, теорий, идеологий, технологий
+      и так далее.
+    zh: 三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站被改造为一座专门研究各种“试炼”的设施。这其中混合了复杂的测试，仪式和哲学论述：一种用来确定个体、群体、理论、观念、技术、社会实践和其他等等一切的价值的具体辩证法。
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
   operationNameID:
-    de: Textkomplex
+    de: Testkomplex
     en: Proving Complex
     fr: Complexe d'expérimentation
     ko: 증명 시설
     ru: Полигонный комплекс
+    zh: 试炼复合体
   ratio: 0.0
   researchFactor: 0.98
   services:
@@ -2718,6 +2808,15 @@
   border: 0.0
   corridor: 0.0
   descriptionID:
+    de: Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die
+      Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar
+      dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt
+      ein nützliches Werkzeug zu zerstören. Die kontrollierende Klade hat diese Station
+      in eine Einrichtung umgewandelt, die als Mischung aus Kommunikationszentrum,
+      Datenverarbeitungsanlage und diplomatischem Anlaufpunkt fungiert. Es könnte
+      sich um eine spezialisierte Klasse von Prüfungszentren handeln, die sich auf
+      die semiotischen Aspekte der zutiefst dialektischen Denk- und Handlungsweise
+      konzentriert, die die Kultur Triglavias dominiert.
     en: Triglavian occupation of a space station typically involves converting much
       of its interior from its former purpose, the Clades apparently being inclined
       to use the seized station for their own ends rather than destroy a useful asset.  The
@@ -2726,6 +2825,27 @@
       It may be a specialized class of proving center focusing on the semiotic aspects
       of the profoundly dialectical way of thinking and acting that dominates Triglavian
       culture.
+    fr: L'occupation triglavian d'une station spatiale implique généralement la transformation
+      de la majeure partie de son intérieur par rapport à son utilisation antérieure,
+      les clades étant apparemment incités à se servir de la station conquise pour
+      leurs intérêts plutôt que de détruire un élément potentiellement utile. Le clade
+      qui en est devenu propriétaire a transformé cette station en une structure qui
+      semble être un hybride entre une plateforme de communication, un complexe de
+      traitement de données et un haut lieu diplomatique. Il s'agit peut-être d'un
+      type de centre d'essais se focalisant sur les aspects sémiotiques de la méthode
+      de pensée et d'action profondément dialectique qui domine dans la culture triglavian.
+    ko: 정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을
+      위한 "증명" 시설로 개조되었습니다. 현재는 데이터 처리, 통신, 그리고 외교사절을 위한 종합 시설로 활용되고 있습니다. 이 정거장은 트리글라비안
+      문화의 변증법적 행동 양식에 맞춰 설계되었습니다.
+    ru: После захвата космической станции Триглав, как правило, подвергает её значительным
+      внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать
+      захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Клада,
+      владеющая этой станцией, превратила её в некий объект, сочетающий функции узла
+      связи, комплекса переработки данных и дипломатического центра. Возможно, это
+      особый испытательный центр, который специализируется на семиотических аспектах
+      сугубо диалектического образа мышления и действия, свойственного триглавской
+      культуре.
+    zh: 三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  占据这里的演化枝将其改造为一座融合了信息中继、数据处理和外事接待的综合场所。它也可能是一座特殊的试炼场，专注于主导了三神裔文化的符号化层面辩证性思考和行为方式。
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
@@ -2735,6 +2855,7 @@
     fr: Théâtre sémiotique
     ko: 세미오시스 상영관
     ru: Театр семиозиса
+    zh: 符号化剧场
   ratio: 0.0
   researchFactor: 0.98
   services:
@@ -2757,6 +2878,15 @@
   border: 0.0
   corridor: 0.0
   descriptionID:
+    de: Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die
+      Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar
+      dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt
+      ein nützliches Werkzeug zu zerstören. Diese Station wurde aufgrund der Entscheidung
+      der kontrollierenden Klade, sie als Einrichtung zum Farmen von Mutaplasmiden
+      aller Art zu nutzen, umfassend umgebaut. Viele der Innenräume sind jetzt brodelnde
+      Höhlen, die mit der skurrilen halb-biologischen, halb-künstlichen evolutionären
+      Nanotechnologie gefüllt sind, mit der die Triglavianer Technologien entwickeln
+      und verändern.
     en: Triglavian occupation of a space station typically involves converting much
       of its interior from its former purpose, the Clades apparently being inclined
       to use the seized station for their own ends rather than destroy a useful asset.  This
@@ -2765,6 +2895,27 @@
       of the internal spaces are now seething caverns filled with the bizarre semi-biological,
       semi-artificial form of evolutionary nanotechnology used by the Triglavians
       to develop and adapt technology.
+    fr: L'occupation triglavian d'une station spatiale implique généralement la transformation
+      de la majeure partie de son intérieur par rapport à son utilisation antérieure,
+      les clades étant apparemment incités à se servir de la station conquise pour
+      leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette
+      station a été considérablement transformée par la décision du clade qui l'occupe
+      de l'utiliser comme structure dédiée à l'élevage de tous types de mutaplasmides.
+      Nombre d'espaces intérieurs sont maintenant des grottes grouillant de formes
+      mi-biologiques, mi-artificielles, produits de la nanotechnologie évolutionnaire
+      dont les Triglavians se servent pour développer et adapter leurs technologies.
+    ko: 정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을
+      위한 "증명" 시설로 개조되었습니다. 현재는 정거장을 운영하는 클레이드의 지침에 따라 뮤타플라즈미드를 재배하고 있습니다. 정거장 내 대부분의
+      구역은 생체공학 물질을 생산하기 위해 개조되었으며 트리글라비안 나노기술 개발을 위해 운영되고 있습니다.
+    ru: После захвата космической станции Триглав, как правило, подвергает её значительным
+      внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать
+      захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция
+      подверглась значительным преобразованиям, поскольку владеющая ею клада решила
+      использовать её для производства разнообразных мутаплазмидов. Существенная часть
+      внутренних залов станции превратилась в бурлящие каверны, заполненные жуткими
+      полуискусственными формами эволюционной нанотехнологии, которую Триглав использует
+      для разработки и адаптации технологий.
+    zh: 三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站被占据这里的演化枝进行了大规模改造，将其作为一座专门进行突变质体制造的设施。空间站内部的大部分空间现在充满了怪异的半生物质，半人工合成的纳米科技形态，三神裔将其用于生化适应技术的研究。
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
@@ -2774,6 +2925,7 @@
     fr: Ferme de mutaplasmides
     ko: 뮤타플라즈미드 생산시설
     ru: Ферма мутаплазмидов
+    zh: 突变质体农场
   ratio: 0.0
   researchFactor: 0.98
   services:
@@ -2796,6 +2948,15 @@
   border: 0.0
   corridor: 0.0
   descriptionID:
+    de: Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die
+      Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar
+      dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt
+      ein nützliches Werkzeug zu zerstören. Die Sicherheit auf dieser Station ist
+      extrem stark und die kontrollierende Klade ist noch intoleranter als gewöhnlich,
+      wenn es um wahrgenommene Nichteinhaltungen und Verstöße von Bewohnern und Besuchern
+      geht. Der Kern der Station ist für alle außer die Elite-Troikas der Klade abgeschottet
+      und wird offenbar als Lagereinrichtung für einen Überschuss der wertvollsten
+      Ressourcen genutzt, die durch Abbauoperationen Triglavias gewonnen wurden.
     en: Triglavian occupation of a space station typically involves converting much
       of its interior from its former purpose, the Clades apparently being inclined
       to use the seized station for their own ends rather than destroy a useful asset.  Security
@@ -2805,15 +2966,38 @@
       but the elite troikas of the clade and is apparently being used as a storage
       facility for a surplus of the most valuable resources obtained by Triglavian
       harvesting operations.
+    fr: L'occupation triglavian d'une station spatiale implique généralement la transformation
+      de la majeure partie de son intérieur par rapport à son utilisation antérieure,
+      les clades étant apparemment incités à se servir de la station conquise pour
+      leurs intérêts plutôt que de détruire un élément potentiellement utile. La sécurité
+      au sein de cette station est extrêmement élevée et le clade propriétaire est
+      encore moins indulgent qu'habituellement envers les infractions et crimes perçus
+      de la part des résidents ou des visiteurs. Le cœur de cette station est fermé
+      pour tous à l'exception des troikas d'élite du clade et est apparemment utilisé
+      comme centre de stockage pour le surplus de la ressource la plus précieuse obtenue
+      par les opérations de récolte triglavian.
+    ko: 정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 최고 수준의 보안 조치가 적용되었으며
+      방문객 및 거주민이 규정을 위반할 경우에는 엄격한 처벌이 가해집니다. 정거장의 중심 구역은 희귀 자원을 보관하기 위한 저장 시설로 각 클레이드의
+      정예 트로이카들에게만 접근 권한이 부여되었습니다.
+    ru: После захвата космической станции Триглав, как правило, подвергает её значительным
+      внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать
+      захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Безопасность
+      внутри этой станции находится на высочайшем уровне, и владеющая ею клада не
+      терпит никакого вмешательства в свои дела, а уж тем более нарушений со стороны
+      как своих обитателей, так и чужаков. Ядро станции полностью изолировано, и доступ
+      к нему имеют только элитные тройки клады — судя по всему, оно используется для
+      хранения излишков наиболее ценных ресурсов, добытых Триглавом.
+    zh: 三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站的安保等级极高，占据这里的演化枝对居民或造访者的冒犯行为表现出不寻常的冷酷严苛。空间站的核心部位完全封闭，显然演化枝的高层将其作为一座存储设施，用来保管三神裔开采作业收集来的最具价值的资源。
   fringe: 0.0
   hub: 0.0
   manufacturingFactor: 0.98
   operationNameID:
     de: Porevitium-Tresor
     en: Porevitium Vault
-    fr: Coffre Porevitium
+    fr: Chambre forte Porevitium
     ko: 포레비티움 금고
     ru: Поревитиевое хранилище
+    zh: 缺陷舱
   ratio: 0.0
   researchFactor: 0.98
   services:

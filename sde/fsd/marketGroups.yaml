@@ -25580,10 +25580,10 @@
     ru: Эти жетоны можно обменять на ISK у имперских военных
     zh: 这些铭牌可以拿到帝国海军空间站去换取星币
   hasTypes: true
-  iconID: 21096
+  iconID: 24565
   nameID:
     de: Kopfgeld-Vergütungsmarken
-    en: Bounty Reimbursement Tags
+    en: Bounty Encrypted Bonds
     fr: Insignes de remboursement de prime
     ja: バウンティ払い戻しタグ
     ko: 현상금 인식표

@@ -47,12 +47,12 @@
   trackingSpeedAttributeID: 160
 11:
   descriptionID:
-    de: Benötigt einen Low Power Slot.
-    en: Requires a low power slot.
-    fr: Nécessite un emplacement basse puissance.
+    de: Benötigt einen Low Power Slot
+    en: Requires a low power slot
+    fr: Nécessite un emplacement basse puissance
     ja: ローパワースロットが必要。
     ko: 로우 슬롯 전용 모듈
-    ru: Устанавливается в разъем малой мощности.
+    ru: Требуется разъём малой мощности
     zh: 需要一个低能量槽
   disallowAutoRepeat: false
   displayNameID:
@@ -77,12 +77,12 @@
   rangeChance: false
 12:
   descriptionID:
-    de: Benötigt einen hochleistungs-Slot.
-    en: Requires a high power slot.
-    fr: Nécessite un emplacement haute puissance.
+    de: Benötigt einen High Power Slot
+    en: Requires a high power slot
+    fr: Nécessite un emplacement haute puissance
     ja: ハイパワースロットが必要。
     ko: 하이 슬롯 전용 모듈
-    ru: Устанавливается в разъем высокой мощности.
+    ru: Требуется разъём высокой мощности
     zh: 需要一个高能量槽
   disallowAutoRepeat: false
   displayNameID:
@@ -107,12 +107,12 @@
   rangeChance: false
 13:
   descriptionID:
-    de: Benötigt einen Medium Power Slot.
-    en: Requires a medium power slot.
-    fr: Nécessite un emplacement de puissance moyenne.
+    de: Benötigt einen Medium Power Slot
+    en: Requires a medium power slot
+    fr: Nécessite un emplacement de puissance moyenne
     ja: ミディアムパワースロットが必要。
     ko: 미드 슬롯 전용 모듈
-    ru: Устанавливается в разъем средней мощности.
+    ru: Требуется разъём средней мощности
     zh: 需要一个中能量槽
   disallowAutoRepeat: false
   displayNameID:
@@ -309,30 +309,56 @@
   rangeAttributeID: 54
   rangeChance: false
 40:
+  descriptionID:
+    de: Benötigt einen Montageplatz für Werfer
+    en: Requries a launcher hardpoint
+    fr: Nécessite un point de fixation de lanceur
+    ko: 런처 하드포인트 요구
+    ru: Требуется точка монтажа пусковых установок
   disallowAutoRepeat: false
+  displayNameID:
+    de: Werfer
+    en: Launcher
+    fr: Lanceur
+    ko: 런처
+    ru: Пусковая установка
   effectCategory: passive
   effectID: 40
   effectName: launcherFitted
   electronicChance: false
   guid: ''
+  iconID: 168
   isAssistance: false
   isOffensive: false
   isWarpSafe: false
   propulsionChance: false
-  published: false
+  published: true
   rangeChance: false
 42:
+  descriptionID:
+    de: Benötigt einen Montageplatz für Geschütztürme
+    en: Requries a turret hardpoint
+    fr: Nécessite un point de fixation de tourelle
+    ko: 터렛 하드포인트 요구
+    ru: Требуется точка монтажа турелей
   disallowAutoRepeat: false
+  displayNameID:
+    de: Geschützturm
+    en: Turret
+    fr: Tourelle
+    ko: 터렛
+    ru: Турель
   effectCategory: passive
   effectID: 42
   effectName: turretFitted
   electronicChance: false
   guid: ''
+  iconID: 1432
   isAssistance: false
   isOffensive: false
   isWarpSafe: false
   propulsionChance: false
-  published: false
+  published: true
   rangeChance: false
 46:
   disallowAutoRepeat: false
@@ -70315,6 +70341,19 @@
     modifiedAttributeID: 67
     modifyingAttributeID: 2318
     operation: postPercent
+  propulsionChance: false
+  published: false
+  rangeChance: false
+8093:
+  disallowAutoRepeat: false
+  effectCategory: activation
+  effectID: 8093
+  effectName: cloneRespawnBay
+  electronicChance: false
+  guid: effects.VisualModuleEffect
+  isAssistance: false
+  isOffensive: false
+  isWarpSafe: false
   propulsionChance: false
   published: false
   rangeChance: false

@@ -106202,6 +106202,22 @@
     quantity: 2266
 56362:
   materials: []
+56569:
+  materials:
+  - materialTypeID: 34
+    quantity: 4143618
+  - materialTypeID: 35
+    quantity: 1012707
+  - materialTypeID: 36
+    quantity: 334889
+  - materialTypeID: 37
+    quantity: 58698
+  - materialTypeID: 38
+    quantity: 17342
+  - materialTypeID: 39
+    quantity: 4934
+  - materialTypeID: 40
+    quantity: 4378
 56625:
   materials:
   - materialTypeID: 34
@@ -106276,6 +106292,36 @@
     quantity: 1
   - materialTypeID: 17136
     quantity: 2
+56733:
+  materials:
+  - materialTypeID: 2346
+    quantity: 5
+  - materialTypeID: 2348
+    quantity: 3
+  - materialTypeID: 2463
+    quantity: 15
+56735:
+  materials:
+  - materialTypeID: 34
+    quantity: 3143618
+  - materialTypeID: 35
+    quantity: 912700
+  - materialTypeID: 36
+    quantity: 314889
+  - materialTypeID: 37
+    quantity: 78698
+  - materialTypeID: 38
+    quantity: 14360
+  - materialTypeID: 39
+    quantity: 3960
+  - materialTypeID: 40
+    quantity: 5375
+  - materialTypeID: 2345
+    quantity: 250
+  - materialTypeID: 2354
+    quantity: 215
+  - materialTypeID: 3779
+    quantity: 3150
 56748:
   materials:
   - materialTypeID: 34

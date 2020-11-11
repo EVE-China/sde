@@ -37878,3 +37878,40 @@
   name: onlyTractorCorpses
   published: false
   stackable: false
+3104:
+  attributeID: 3104
+  categoryID: 7
+  dataType: typeInteger
+  defaultValue: 0.0
+  description: Amount of fuel consumed by tactical capsuleer recloner
+  displayNameID:
+    de: Verbrauchsmenge
+    en: Consumption Quantity
+    fr: Quantité consommée
+    ko: 소모량
+    ru: Количество потребляемого топлива
+  highIsGood: false
+  name: reclonerFuelQuantity
+  published: true
+  stackable: true
+  unitID: 138
+3105:
+  attributeID: 3105
+  categoryID: 7
+  dataType: typeTypeId
+  defaultValue: 0.0
+  description: Type of fuel consumed by tactical capsuleer recloner
+  displayNameID:
+    de: Verbrauchstyp
+    en: Recloner Consumption Type
+    fr: Type de consommation
+    ko: 사용 아이템
+    ru: Тип потребляемого топлива
+  highIsGood: true
+  name: reclonerFuelType
+  published: true
+  stackable: true
+  tooltipTitleID:
+    en: A <b>Tactical Capsuleer Recloner</b> fitted to the ship requires this fuel
+      type when recloning
+  unitID: 116

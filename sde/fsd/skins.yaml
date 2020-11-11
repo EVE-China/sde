@@ -31735,7 +31735,7 @@
     - 35841
     - 37534
     visibleSerenity: false
-    visibleTranquility: true
+    visibleTranquility: false
 5293:
     allowCCPDevs: false
     internalName: fortizar skintest 2 capsuleer day XV
@@ -31755,7 +31755,7 @@
     - 35841
     - 37534
     visibleSerenity: false
-    visibleTranquility: true
+    visibleTranquility: false
 5294:
     allowCCPDevs: false
     internalName: fortizar skintest 3 quafe
@@ -31775,7 +31775,7 @@
     - 35841
     - 37534
     visibleSerenity: false
-    visibleTranquility: true
+    visibleTranquility: false
 5295:
     allowCCPDevs: false
     internalName: fortizar skintest 4 purity
@@ -31795,7 +31795,7 @@
     - 35841
     - 37534
     visibleSerenity: false
-    visibleTranquility: true
+    visibleTranquility: false
 5296:
     allowCCPDevs: true
     internalName: Breacher Dawn of Liberation
@@ -43858,12 +43858,675 @@
     - 628
     visibleSerenity: true
     visibleTranquility: true
-9550:
-    allowCCPDevs: true
-    internalName: Apocalypse Blood Raiders
-    skinID: 9550
-    skinMaterialID: 25
+9551:
+    allowCCPDevs: false
+    internalName: Griffin Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572233
+    skinID: 9551
+    skinMaterialID: 2560
     types:
-    - 642
-    visibleSerenity: true
+    - 584
+    visibleSerenity: false
+    visibleTranquility: true
+9552:
+    allowCCPDevs: false
+    internalName: Heron Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572236
+    skinID: 9552
+    skinMaterialID: 2560
+    types:
+    - 605
+    visibleSerenity: false
+    visibleTranquility: true
+9553:
+    allowCCPDevs: false
+    internalName: Moa Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572239
+    skinID: 9553
+    skinMaterialID: 2560
+    types:
+    - 623
+    visibleSerenity: false
+    visibleTranquility: true
+9554:
+    allowCCPDevs: false
+    internalName: Raven Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572242
+    skinID: 9554
+    skinMaterialID: 2560
+    types:
+    - 638
+    visibleSerenity: false
+    visibleTranquility: true
+9555:
+    allowCCPDevs: false
+    internalName: Scorpion Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572245
+    skinID: 9555
+    skinMaterialID: 2560
+    types:
+    - 640
+    visibleSerenity: false
+    visibleTranquility: true
+9556:
+    allowCCPDevs: false
+    internalName: Tayra Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572248
+    skinID: 9556
+    skinMaterialID: 2560
+    types:
+    - 649
+    visibleSerenity: false
+    visibleTranquility: true
+9557:
+    allowCCPDevs: false
+    internalName: Kestrel Forward 4-4
+    isStructureSkin: false
+    skinDescription: 572251
+    skinID: 9557
+    skinMaterialID: 2560
+    types:
+    - 602
+    visibleSerenity: false
+    visibleTranquility: true
+9558:
+    allowCCPDevs: true
+    internalName: Astero Scope Syndication YC122
+    skinDescription: 572343
+    skinID: 9558
+    skinMaterialID: 2556
+    types:
+    - 33468
+    visibleSerenity: false
+    visibleTranquility: true
+9559:
+    allowCCPDevs: true
+    internalName: Caracal Scope Syndication YC122
+    skinDescription: 572346
+    skinID: 9559
+    skinMaterialID: 2556
+    types:
+    - 621
+    visibleSerenity: false
+    visibleTranquility: true
+9560:
+    allowCCPDevs: true
+    internalName: Vexor Scope Syndication YC122
+    skinDescription: 572349
+    skinID: 9560
+    skinMaterialID: 2556
+    types:
+    - 626
+    visibleSerenity: false
+    visibleTranquility: true
+9561:
+    allowCCPDevs: true
+    internalName: Rupture Scope Syndication YC122
+    skinDescription: 572352
+    skinID: 9561
+    skinMaterialID: 2556
+    types:
+    - 629
+    visibleSerenity: false
+    visibleTranquility: true
+9562:
+    allowCCPDevs: true
+    internalName: Maller Scope Syndication YC122
+    skinDescription: 572355
+    skinID: 9562
+    skinMaterialID: 2556
+    types:
+    - 624
+    visibleSerenity: false
+    visibleTranquility: true
+9563:
+    allowCCPDevs: true
+    internalName: Procurer Scope Syndication YC122
+    skinDescription: 572358
+    skinID: 9563
+    skinMaterialID: 2556
+    types:
+    - 17480
+    visibleSerenity: false
+    visibleTranquility: true
+9564:
+    allowCCPDevs: true
+    internalName: Megathron Scope Syndication YC122
+    skinDescription: 572361
+    skinID: 9564
+    skinMaterialID: 2556
+    types:
+    - 641
+    visibleSerenity: false
+    visibleTranquility: true
+9565:
+    allowCCPDevs: true
+    internalName: Raven Scope Syndication YC122
+    skinDescription: 572364
+    skinID: 9565
+    skinMaterialID: 2556
+    types:
+    - 638
+    visibleSerenity: false
+    visibleTranquility: true
+9566:
+    allowCCPDevs: true
+    internalName: Abaddon Scope Syndication YC122
+    skinDescription: 572367
+    skinID: 9566
+    skinMaterialID: 2556
+    types:
+    - 24692
+    visibleSerenity: false
+    visibleTranquility: true
+9567:
+    allowCCPDevs: true
+    internalName: Tempest Scope Syndication YC122
+    skinDescription: 572370
+    skinID: 9567
+    skinMaterialID: 2556
+    types:
+    - 639
+    visibleSerenity: false
+    visibleTranquility: true
+9568:
+    allowCCPDevs: true
+    internalName: Vedmak Scope Syndication YC122
+    skinDescription: 572373
+    skinID: 9568
+    skinMaterialID: 2556
+    types:
+    - 47270
+    visibleSerenity: false
+    visibleTranquility: true
+9569:
+    allowCCPDevs: true
+    internalName: Gila Scope Syndication YC122
+    skinDescription: 572376
+    skinID: 9569
+    skinMaterialID: 2556
+    types:
+    - 17715
+    visibleSerenity: false
+    visibleTranquility: true
+9570:
+    allowCCPDevs: true
+    internalName: Stiletto Hazard Control
+    skinID: 9570
+    skinMaterialID: 2557
+    types:
+    - 11198
+    visibleSerenity: false
+    visibleTranquility: true
+9571:
+    allowCCPDevs: true
+    internalName: Hyena Hazard Control
+    skinID: 9571
+    skinMaterialID: 2557
+    types:
+    - 11387
+    visibleSerenity: false
+    visibleTranquility: true
+9572:
+    allowCCPDevs: true
+    internalName: Broadsword Hazard Control
+    skinID: 9572
+    skinMaterialID: 2557
+    types:
+    - 12013
+    visibleSerenity: false
+    visibleTranquility: true
+9573:
+    allowCCPDevs: true
+    internalName: Rapier Hazard Control
+    skinID: 9573
+    skinMaterialID: 2557
+    types:
+    - 11963
+    visibleSerenity: false
+    visibleTranquility: true
+9574:
+    allowCCPDevs: true
+    internalName: Scimitar Hazard Control
+    skinID: 9574
+    skinMaterialID: 2557
+    types:
+    - 11978
+    visibleSerenity: false
+    visibleTranquility: true
+9575:
+    allowCCPDevs: true
+    internalName: Claymore Hazard Control
+    skinID: 9575
+    skinMaterialID: 2557
+    types:
+    - 22468
+    visibleSerenity: false
+    visibleTranquility: true
+9576:
+    allowCCPDevs: true
+    internalName: Bifrost Hazard Control
+    skinID: 9576
+    skinMaterialID: 2557
+    types:
+    - 37480
+    visibleSerenity: false
+    visibleTranquility: true
+9577:
+    allowCCPDevs: true
+    internalName: Cheetah Hazard Control
+    skinID: 9577
+    skinMaterialID: 2558
+    types:
+    - 11182
+    visibleSerenity: false
+    visibleTranquility: true
+9578:
+    allowCCPDevs: true
+    internalName: Jaguar Hazard Control
+    skinID: 9578
+    skinMaterialID: 2558
+    types:
+    - 11400
+    visibleSerenity: false
+    visibleTranquility: true
+9579:
+    allowCCPDevs: true
+    internalName: Scalpel Hazard Control
+    skinID: 9579
+    skinMaterialID: 2558
+    types:
+    - 37460
+    visibleSerenity: false
+    visibleTranquility: true
+9580:
+    allowCCPDevs: true
+    internalName: Vagabond Hazard Control
+    skinID: 9580
+    skinMaterialID: 2558
+    types:
+    - 11999
+    visibleSerenity: false
+    visibleTranquility: true
+9581:
+    allowCCPDevs: true
+    internalName: Panther Hazard Control
+    skinID: 9581
+    skinMaterialID: 2558
+    types:
+    - 22440
+    visibleSerenity: false
+    visibleTranquility: true
+9582:
+    allowCCPDevs: true
+    internalName: Mastodon Hazard Control
+    skinID: 9582
+    skinMaterialID: 2558
+    types:
+    - 12747
+    visibleSerenity: false
+    visibleTranquility: true
+9583:
+    allowCCPDevs: true
+    internalName: Claw Hazard Control
+    skinID: 9583
+    skinMaterialID: 2559
+    types:
+    - 11196
+    visibleSerenity: false
+    visibleTranquility: true
+9584:
+    allowCCPDevs: true
+    internalName: Wolf Hazard Control
+    skinID: 9584
+    skinMaterialID: 2559
+    types:
+    - 11371
+    visibleSerenity: false
+    visibleTranquility: true
+9585:
+    allowCCPDevs: true
+    internalName: Hound Hazard Control
+    skinID: 9585
+    skinMaterialID: 2559
+    types:
+    - 12034
+    visibleSerenity: false
+    visibleTranquility: true
+9586:
+    allowCCPDevs: true
+    internalName: Muninn Hazard Control
+    skinID: 9586
+    skinMaterialID: 2559
+    types:
+    - 12015
+    visibleSerenity: false
+    visibleTranquility: true
+9587:
+    allowCCPDevs: true
+    internalName: Huginn Hazard Control
+    skinID: 9587
+    skinMaterialID: 2559
+    types:
+    - 11961
+    visibleSerenity: false
+    visibleTranquility: true
+9588:
+    allowCCPDevs: true
+    internalName: Sleipnir Hazard Control
+    skinID: 9588
+    skinMaterialID: 2559
+    types:
+    - 22444
+    visibleSerenity: false
+    visibleTranquility: true
+9589:
+    allowCCPDevs: true
+    internalName: Vargur Hazard Control
+    skinID: 9589
+    skinMaterialID: 2559
+    types:
+    - 28665
+    visibleSerenity: false
+    visibleTranquility: true
+9590:
+    allowCCPDevs: true
+    internalName: Slasher Hazard Control
+    skinID: 9590
+    skinMaterialID: 179
+    types:
+    - 585
+    visibleSerenity: false
+    visibleTranquility: true
+9591:
+    allowCCPDevs: true
+    internalName: Probe Hazard Control
+    skinID: 9591
+    skinMaterialID: 179
+    types:
+    - 586
+    visibleSerenity: false
+    visibleTranquility: true
+9592:
+    allowCCPDevs: true
+    internalName: Breacher Hazard Control
+    skinID: 9592
+    skinMaterialID: 179
+    types:
+    - 598
+    visibleSerenity: false
+    visibleTranquility: true
+9593:
+    allowCCPDevs: true
+    internalName: Burst Hazard Control
+    skinID: 9593
+    skinMaterialID: 179
+    types:
+    - 599
+    visibleSerenity: false
+    visibleTranquility: true
+9594:
+    allowCCPDevs: true
+    internalName: Vigil Hazard Control
+    skinID: 9594
+    skinMaterialID: 179
+    types:
+    - 3766
+    visibleSerenity: false
+    visibleTranquility: true
+9595:
+    allowCCPDevs: true
+    internalName: Stabber Hazard Control
+    skinID: 9595
+    skinMaterialID: 179
+    types:
+    - 622
+    visibleSerenity: false
+    visibleTranquility: true
+9596:
+    allowCCPDevs: true
+    internalName: Rupture Hazard Control
+    skinID: 9596
+    skinMaterialID: 179
+    types:
+    - 629
+    visibleSerenity: false
+    visibleTranquility: true
+9597:
+    allowCCPDevs: true
+    internalName: Bellicose Hazard Control
+    skinID: 9597
+    skinMaterialID: 179
+    types:
+    - 630
+    visibleSerenity: false
+    visibleTranquility: true
+9598:
+    allowCCPDevs: true
+    internalName: Scythe Hazard Control
+    skinID: 9598
+    skinMaterialID: 179
+    types:
+    - 631
+    visibleSerenity: false
+    visibleTranquility: true
+9599:
+    allowCCPDevs: true
+    internalName: Cyclone Hazard Control
+    skinID: 9599
+    skinMaterialID: 179
+    types:
+    - 16231
+    visibleSerenity: false
+    visibleTranquility: true
+9600:
+    allowCCPDevs: true
+    internalName: Tornado Hazard Control
+    skinID: 9600
+    skinMaterialID: 179
+    types:
+    - 4310
+    visibleSerenity: false
+    visibleTranquility: true
+9601:
+    allowCCPDevs: true
+    internalName: Thrasher Hazard Control
+    skinID: 9601
+    skinMaterialID: 179
+    types:
+    - 16242
+    visibleSerenity: false
+    visibleTranquility: true
+9602:
+    allowCCPDevs: true
+    internalName: Talwar Hazard Control
+    skinID: 9602
+    skinMaterialID: 179
+    types:
+    - 32878
+    visibleSerenity: false
+    visibleTranquility: true
+9603:
+    allowCCPDevs: true
+    internalName: Maelstrom Hazard Control
+    skinID: 9603
+    skinMaterialID: 179
+    types:
+    - 24694
+    visibleSerenity: false
+    visibleTranquility: true
+9604:
+    allowCCPDevs: true
+    internalName: Hoarder Hazard Control
+    skinID: 9604
+    skinMaterialID: 179
+    types:
+    - 651
+    visibleSerenity: false
+    visibleTranquility: true
+9605:
+    allowCCPDevs: true
+    internalName: Mammoth Hazard Control
+    skinID: 9605
+    skinMaterialID: 179
+    types:
+    - 652
+    visibleSerenity: false
+    visibleTranquility: true
+9606:
+    allowCCPDevs: true
+    internalName: Svipul Hazard Control
+    skinID: 9606
+    skinMaterialID: 179
+    types:
+    - 34562
+    visibleSerenity: false
+    visibleTranquility: true
+9607:
+    allowCCPDevs: true
+    internalName: Tempest Hazard Control
+    skinID: 9607
+    skinMaterialID: 179
+    types:
+    - 639
+    visibleSerenity: false
+    visibleTranquility: true
+9608:
+    allowCCPDevs: true
+    internalName: Wreathe Hazard Control
+    skinID: 9608
+    skinMaterialID: 179
+    types:
+    - 653
+    visibleSerenity: false
+    visibleTranquility: true
+9609:
+    allowCCPDevs: true
+    internalName: Prowler Hazard Control
+    skinID: 9609
+    skinMaterialID: 179
+    types:
+    - 12735
+    visibleSerenity: false
+    visibleTranquility: true
+9610:
+    allowCCPDevs: true
+    internalName: Lif Hazard Control
+    skinID: 9610
+    skinMaterialID: 179
+    types:
+    - 37606
+    visibleSerenity: false
+    visibleTranquility: true
+9611:
+    allowCCPDevs: true
+    internalName: Fenrir Hazard Control
+    skinID: 9611
+    skinMaterialID: 179
+    types:
+    - 20189
+    visibleSerenity: false
+    visibleTranquility: true
+9612:
+    allowCCPDevs: true
+    internalName: Nomad Hazard Control
+    skinID: 9612
+    skinMaterialID: 179
+    types:
+    - 28846
+    visibleSerenity: false
+    visibleTranquility: true
+9613:
+    allowCCPDevs: true
+    internalName: Ragnarok Hazard Control
+    skinID: 9613
+    skinMaterialID: 179
+    types:
+    - 23773
+    visibleSerenity: false
+    visibleTranquility: true
+9614:
+    allowCCPDevs: true
+    internalName: Loki Hazard Control
+    skinID: 9614
+    skinMaterialID: 179
+    types:
+    - 29990
+    visibleSerenity: false
+    visibleTranquility: true
+9617:
+    allowCCPDevs: true
+    internalName: Garmur Redclaw Sable
+    skinDescription: 572614
+    skinID: 9617
+    skinMaterialID: 2561
+    types:
+    - 33816
+    visibleSerenity: false
+    visibleTranquility: true
+9618:
+    allowCCPDevs: true
+    internalName: Phantasm Redclaw Sable
+    skinDescription: 572617
+    skinID: 9618
+    skinMaterialID: 2562
+    types:
+    - 17718
+    visibleSerenity: false
+    visibleTranquility: true
+9619:
+    allowCCPDevs: true
+    internalName: Bhaalgorn Redclaw Sable
+    skinDescription: 572620
+    skinID: 9619
+    skinMaterialID: 2563
+    types:
+    - 17920
+    visibleSerenity: false
+    visibleTranquility: true
+9620:
+    allowCCPDevs: true
+    internalName: Obelisk Redclaw Sable
+    skinDescription: 572623
+    skinID: 9620
+    skinMaterialID: 2564
+    types:
+    - 20187
+    visibleSerenity: false
+    visibleTranquility: true
+9621:
+    allowCCPDevs: true
+    internalName: Leviathan Redclaw Sable
+    skinDescription: 572626
+    skinID: 9621
+    skinMaterialID: 2565
+    types:
+    - 3764
+    visibleSerenity: false
+    visibleTranquility: true
+9622:
+    allowCCPDevs: true
+    internalName: Rattlesnake Redclaw Sable
+    skinDescription: 572629
+    skinID: 9622
+    skinMaterialID: 2566
+    types:
+    - 17918
+    visibleSerenity: false
+    visibleTranquility: true
+9623:
+    allowCCPDevs: true
+    internalName: Stratios Redclaw Sable
+    skinDescription: 572632
+    skinID: 9623
+    skinMaterialID: 2567
+    types:
+    - 33470
+    visibleSerenity: false
     visibleTranquility: true
