@@ -13888,7 +13888,7 @@
         fr: Insignes de remboursement de prime
         ja: 帝国懸賞1メガ回収タグ
         ru: Метки компенсации наград за голову
-        zh: 帝国追击赏金铭牌
+        zh: 赏金加密债券
     published: true
     useBasePrice: true
 1249:
@@ -20336,6 +20336,7 @@
         en: Encounter Surveillance System
         fr: Système de surveillance des affrontements
         ru: Система наблюдения за столкновениями
+        zh: 事件监测装置
     published: true
     useBasePrice: false
 4081:

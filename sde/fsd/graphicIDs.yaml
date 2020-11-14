@@ -21549,6 +21549,7 @@
 24891:
   description: Clone Bay
   graphicFile: res:/dx9/model/turret/clonebay/xl/clonebay_xl01_t1.red
+  sofRaceName: generic
 24893:
   description: Capsule Respawner effect 01a
   graphicFile: res:\FisFX\Module\RapidAssembly\RapidAssembly_SpawnIn_01a.red
