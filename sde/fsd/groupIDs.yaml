@@ -13883,11 +13883,11 @@
     categoryID: 17
     fittableNonSingleton: false
     name:
-        de: Kopfgeld-Vergütungsmarken
+        de: Verschlüsselte Kopfgeldwertpapiere
         en: Bounty Encrypted Bonds
-        fr: Insignes de remboursement de prime
+        fr: Obligations cryptées de prime
         ja: 帝国懸賞1メガ回収タグ
-        ru: Метки компенсации наград за голову
+        ru: Зашифрованные облигации в награду за убийство
         zh: 赏金加密债券
     published: true
     useBasePrice: true
