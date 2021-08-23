@@ -1,0 +1,40 @@
+{
+  "name": "sde",
+  "version": "1.0.0",
+  "description": "[STATIC DATA EXPORT (SDE)](https://developers.eveonline.com/resource/resources)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./node_modules/typescript/bin/tsc",
+    "prestart": "npm run build",
+    "start": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EVE-China/sde.git"
+  },
+  "keywords": [
+    "eve",
+    "sde"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EVE-China/sde/issues"
+  },
+  "homepage": "https://github.com/EVE-China/sde#readme",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.30",
+    "@types/extract-zip": "^2.0.1",
+    "@types/js-yaml": "^4.0.3",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3",
+    "extract-zip": "^2.0.1",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "typescript": "^4.3.5"
+  }
+}
