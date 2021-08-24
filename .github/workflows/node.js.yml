@@ -29,9 +29,11 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
-    - run: npm run start
+    - name: Build
+      id: build
+      run: npm run start
     - name: Commit
-      if: steps.git-check.outputs.modified == 'true'
+      if: steps.build.outputs.modified == 'true'
       run: |
            git config --global user.name 'fantasy0v0[Bot]'
            git config --global user.email 'fantasy0v0@users.noreply.github.com'
