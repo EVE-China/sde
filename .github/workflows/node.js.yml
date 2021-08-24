@@ -29,11 +29,12 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
-    - name: Build
-      id: build
-      run: npm run start
-    - name: Commit
-      if: steps.build.outputs.modified == 'true'
+    - run: npm run start
+    - name: Check for modified files
+      id: git-check
+      run: echo ::set-output name=modified::$(if git status | grep "nothing to commit"; then echo "false"; else echo "true"; fi)
+    - name: Push changes
+      if: steps.git-check.outputs.modified == 'true'
       run: |
            git config --global user.name 'fantasy0v0[Bot]'
            git config --global user.email 'fantasy0v0@users.noreply.github.com'
