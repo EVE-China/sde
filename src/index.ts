@@ -2,6 +2,7 @@ import fs = require('fs');
 import axios from "axios";
 import * as cheerio from "cheerio";
 import * as extract from "extract-zip";
+import { startTasks } from "./tasks";
 
 /**
  * 获取最新的checksum
@@ -57,6 +58,8 @@ async function main() {
   }
   console.log('更新中');
   await downloadSDE($);
+  // 开始任务
+  await startTasks(__dirname + '/sde');
   updateChecksum(remoteChecksum);
 }
 
