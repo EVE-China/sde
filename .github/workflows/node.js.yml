@@ -34,4 +34,6 @@ jobs:
       if: ${{ success() }}
       with:
         if-no-files-found: ignore
+        name: sde
         path: dist/publish
+        retention-days: 14
