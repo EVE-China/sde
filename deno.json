@@ -1,0 +1,16 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "@zip-js/zip-js": "jsr:@zip-js/zip-js@^2.8.21"
+  },
+  "permissions": {
+    "default": {
+      "net": ["developers.eveonline.com"],
+      "read": ["./BuildNumber", "./data_tmp"],
+      "write": ["./BuildNumber", "./data_tmp", "./yaml"]
+    }
+  }
+}
