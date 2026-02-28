@@ -7,6 +7,10 @@ on:
     - cron: "0 12 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: data-update
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -15,13 +19,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup repo
+      - name: Setup Repo
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Setup Deno
         uses: denoland/setup-deno@v2
         with:
           deno-version: lts
+          cache: true
 
       - name: Run
         run: deno run -P ./main.ts
@@ -34,12 +41,6 @@ jobs:
             else
               echo "modified=false" >> $GITHUB_OUTPUT
             fi
-      
-      - name: Install Git LFS
-        run: |
-            sudo apt-get update
-            sudo apt-get install git-lfs
-            git lfs install
 
       - name: Commit changes    
         if: steps.git-check.outputs.modified == 'true'
@@ -50,3 +51,19 @@ jobs:
             git commit -m "🤖 Auto update data [$(date +'%Y-%m-%d')]"
             git pull --rebase
             git push
+
+      - name: Generate Diff
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
+            git config diff.lfs.textconv cat
+            git --no-pager diff HEAD~1 | head -c 100000 > diff.txt
+            git --no-pager diff HEAD~1 > diff_full.txt
+
+      - name: Release
+        if: steps.git-check.outputs.modified == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: data-${{ github.run_id }}
+          name: 📢 Update Diff
+          body_path: diff.txt
+          files: diff_full.txt
